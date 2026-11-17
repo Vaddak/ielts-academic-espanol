@@ -21,6 +21,8 @@ Aquí está todo el proceso: los módulos, sus ensayos con las correcciones vers
 | [Reading nº1: Cool Cities](open_resources/02_Reading_Original_01_Urban_Heat.md) | T/F/NG · matching information · summary |
 | [Reading nº2: In Praise of Boredom](open_resources/05_Reading_Original_02_Boredom.md) | **Yes/No/NG** · matching headings · multiple choice |
 | [Reading nº3: Two Wheels](open_resources/06_Reading_Original_03_Bicycle.md) | matching to categories · sentence/note completion · short answer |
+| [Reading nº4: The Power of Belief](open_resources/09_Reading_Original_04_Placebo.md) | Psicología · matching headings · T/F/NG · **summary con banco de palabras** |
+| [Reading nº5: The Night Shift of the Brain](open_resources/10_Reading_Original_05_Sleep.md) | Ciencias · matching features · multiple choice · **diagram labelling** |
 | [Listening Test nº1: guiones](open_resources/07_Listening_Guiones_Test_01.md) | 4 secciones · 40 preguntas · guiones para que una IA o un amigo te los lea |
 | [Banco de Task 1](open_resources/04_Writing_Task1_Banco.md) | 5 visuales con la complejidad real: tortas múltiples, barras + tabla, líneas con proyección, mapa y proceso |
 | [Banco de Task 2](open_resources/03_Writing_Task2_Banco.md) | 15 consignas de los 5 tipos, con estructura y checklist |
