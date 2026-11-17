@@ -1,0 +1,737 @@
+# Error Log — Personal Mistake Tracker
+
+> This is the most valuable file in your course.  
+> Every mistake you log here is a point you won't lose twice.
+
+---
+
+## How to use this file
+
+After every timed practice or mock exam:
+1. Note the question type and what went wrong
+2. Write the correct answer and **why** it was correct
+3. Tag it with a pattern if you see the same mistake again
+
+---
+
+## Baseline — Week 2 Diagnostic
+
+**Date:** ___________
+
+| Section | Estimated Band | Notes |
+|---|---|---|
+| Listening | | |
+| Reading | | |
+| Writing Task 1 | | |
+| Writing Task 2 | | |
+| Speaking | | |
+
+---
+
+## Listening Errors
+
+> 🎧 **Primera medición: 27 de septiembre de 2026.** Cambridge 18, Test 1, Secciones 1 y 4. **12/20 = 60% ≈ Band 6.0.**
+> **6 de los 8 errores NO son de comprensión.** Detalle abajo.
+
+| Date | Section | Question Type | What I Got Wrong | Why the Correct Answer Was Right | Pattern? |
+|---|---|---|---|---|---|
+| 2026-09-27 | 1 | Note completion | **#1 postcode:** escribió `DW13 7YZ`, era **`DW30 7YZ`** | *thirty* ≠ *thirteen* | 🔴 **NÚMEROS — la trampa -teen/-ty.** Categoría nº1 |
+| 2026-09-27 | 1 | Note completion | **#2 fecha:** escribió `22 April`, era **`24 April`** | — | 🔴 **NÚMEROS.** 2ª ocurrencia el mismo día |
+| 2026-09-27 | 1 | Note completion | **#7 EN BLANCO.** Era **`evening`** | *frequency of buses in the evening* | 🔴 **BLANCOS.** Y en la Sección 1, la más fácil |
+| 2026-09-27 | 4 | Note completion | **#31:** escribió `FANCES`, era **`fences`** | Daño a las **cercas** del parque | 🔴 **ORTOGRAFÍA.** La oyó bien; la perdió al escribir |
+| 2026-09-27 | 4 | Note completion | **#35:** escribió `chests`, era **`sides`** | *turned on their **sides** to avoid damage to their lungs* | ⚠️ **COMPRENSIÓN** — parte del cuerpo equivocada |
+| 2026-09-27 | 4 | Note completion | **#37 EN BLANCO.** Era **`feet`** | *data including the size of their tusks and **feet*** | 🔴 **BLANCOS** |
+| 2026-09-27 | 4 | Note completion | **#38:** escribió `community`, era **`employment`** | *employment opportunities* | ⚠️ **COMPRENSIÓN / paráfrasis** — captó el tema, no la palabra. **La respuesta es la palabra literal del audio** |
+| 2026-09-27 | 4 | Note completion | **#39 EN BLANCO.** Era **`weapons`** | *a reduction in the number of poachers and **weapons*** | 🔴 **BLANCOS.** 3ª del día |
+
+### 🎯 EL DIAGNÓSTICO — 6 de 8 errores no son de inglés
+
+| Categoría | Nº | Preguntas | ¿Se arregla con más inglés? |
+|---|---|---|---|
+| 🔴 **Blancos** | **3** | 7 · 37 · 39 | **No.** En Listening **no hay penalización**: una casilla vacía vale 0, una adivinada vale 0 o 1 |
+| 🔴 **Números** | **2** | 1 · 2 | **No.** *thirty/thirteen*, *fifty/fifteen* — drill de 10 minutos |
+| 🔴 **Ortografía** | **1** | 31 | **No.** La oyó bien. El examen no tiene corrector |
+| ⚠️ **Comprensión** | **2** | 35 · 38 | Sí, pero las dos rozaron: parte del cuerpo vecina y sinónimo del tema |
+
+> ## Techo inmediato, sin mejorar una sola palabra de inglés:
+> **12/20 → 16–18/20 (80–90%) ≈ Band 7–8**, solo cerrando blancos, números y ortografía.
+
+**Las tres reglas que salen de aquí:**
+
+1. 🔴 **NUNCA dejar un hueco en blanco.** Si no oíste nada, escribe una palabra plausible del tipo correcto
+2. 🔴 **Los números se escriben en el momento y se releen.** *-teen* lleva el acento al final; *-ty* al principio
+3. 🔴 **Si pierdes un hueco, salta al siguiente.** Las tres en blanco cayeron al final de cada bloque: quedarse pegada arrastra a las siguientes
+
+---
+
+## Reading Errors
+
+| Date | Passage | Question Type | What I Got Wrong | Why the Correct Answer Was Right | Pattern? |
+|---|---|---|---|---|---|
+| | | | | | |
+
+**Common Reading Patterns to Watch For:**
+- [ ] Chose TRUE instead of NOT GIVEN (evidence wasn't in the text, just plausible)
+- [ ] Chose FALSE instead of NOT GIVEN (didn't check if the contradiction was explicit)
+- [ ] Wrong heading because I matched a detail, not the main idea
+- [ ] Missed a paraphrase — didn't recognize the answer in different words
+
+---
+
+## Writing Errors
+
+| Date | Task | Criterion | Error | Fix |
+|---|---|---|---|---|
+| 2026-08-09 | T2 Intro (prompt 1) | Grammatical Range | *accesibles facilities* — adjetivo en plural | En inglés los adjetivos **nunca** llevan plural: *accessible facilities*. Interferencia directa del español |
+| 2026-08-09 | T2 Intro (prompt 1) | Grammatical Range | *the need **of** generate* | *need* va con **to** + infinitivo: *the need **to** generate* |
+| 2026-08-09 | T2 Intro (prompt 1) | Grammatical Range | *not only **of increasing**... but **the need of**...* — sin paralelismo, y *argues* queda sin objeto claro | *not only X but also Y* exige elementos del mismo tipo gramatical. Alternativa segura: *while X is beneficial, Y is equally necessary* |
+| 2026-08-09 | T2 Intro (prompt 1) | Lexical Resource | *motive* usado como verbo | *motive* es sustantivo (motivo). El verbo es **motivate** |
+| 2026-08-09 | T2 Intro (prompt 1) | Lexical Resource | *such as the diet psychological care* — falta conector y sobra artículo | *such as **diet and** psychological care* |
+| 2026-08-09 | T2 Intro (prompt 1) | Lexical Resource | 0 palabras del Batch 1 AWL en la tarea escrita del mismo día | Paso **"Activate"** del sistema de vocabulario: meter ≥2 palabras del batch de la semana en cada tarea escrita. Sin esto el vocabulario queda pasivo y no sube banda |
+| 2026-08-10 | T2 Intro (prompt 2) | Lexical Resource | ***laboral*** — palabra que no existe en inglés (falso amigo directo) | *working life* · *professional life* · *the workplace*. **Segunda ocurrencia** de vocabulario derivado del español (la 1ª fue *motive*) → ahora tiene sección propia: `10_Grammar_Quick_Reference.md` §4.5 |
+| 2026-08-10 | T2 Intro (prompt 2) | Grammatical Range | *is **most** related to* — superlativo comparando solo dos opciones | Con **dos** elementos va comparativo: *is **more** closely related to*. El superlativo exige tres o más |
+| 2026-08-10 | T2 Intro (prompt 2) | Lexical Resource | *most **related to*** — impreciso, no dice en qué sentido se relaciona | *more closely **reflects*** · *more closely **resembles*** · *is more closely **aligned with*** |
+| 2026-08-10 | T2 Intro (prompt 2) | Lexical Resource | *a mixed **space*** — *space* es físico, no social | Para entornos educativos: *setting* · *environment* · *context* |
+| 2026-08-10 | T2 Intro (prompt 2) | Grammatical Range | *the real academic and laboral life* — artículo delante de un concepto general | *real academic and professional life*, sin *the*. **Reincidencia del patrón 4.4** (2ª vez en 2 tareas) → prioridad 1 |
+| 2026-08-10 | T2 Intro (prompt 2) | Task Achievement | *mixed schools* copiado literal del enunciado (sí parafraseó *separate schools* → *separate institutions*) | Parafrasear **ambos** términos clave: *mixed schools* → *co-educational schools* · *mixed-gender settings* |
+| 2026-08-10 | T2 Intro (prompt 2) | Lexical Resource | Solo 1 palabra del Batch 1 (*environment*); el mínimo eran 2 | Mejora sobre el 09-ago (0 → 1), pero sigue bajo objetivo. Elegir las 2 palabras **antes** de empezar a escribir, no durante |
+| 2026-08-10 | T2 Intro prompt 2 — **v2 reescrita** | Grammatical Range | *separat**ed** institutions* | *separate* es adjetivo (estado); *separated* es participio (algo **fue** separado por alguien). El sustantivo *institutions* sí era buena paráfrasis |
+| 2026-08-10 | T2 Intro prompt 2 — **v2 reescrita** | Task Achievement | *mixed schools* sigue copiado literal del enunciado, y 2 veces | Ya estaba señalado en la v1 y no se corrigió: *co-educational schools* · *mixed-gender settings* |
+| 2026-08-10 | T2 Intro prompt 2 — **v2 reescrita** | Lexical Resource | *more **related to*** — se arregló el superlativo pero quedó la vaguedad | *more closely **reflects*** · *more closely **resembles***. El problema no era *most*, era que *related to* no dice en qué sentido |
+| 2026-08-10 | **T2 Body 1** (prompt 1) | Coherence & Cohesion | *...activities offer**,** this can increase...* — empalme de comas (dos oraciones unidas por coma) | Punto, punto y coma, o **which**: *...to be offered, **which** can increase...* |
+| 2026-08-10 | **T2 Body 1** (prompt 1) | Coherence & Cohesion | La 3ª oración (*Identifying which population segments...*) introduce un tema nuevo (cómo planificar) en vez de desarrollar el claim | En Claim → Explain → Example, ahí va el **EXPLAIN**: el mecanismo de *por qué* más variedad atrae más gente. Si la idea sirve, reorientarla al claim |
+| 2026-08-10 | **T2 Body 1** (prompt 1) | Task Achievement | La oración final concede una desventaja propia (*requires more space*) sin responderla — debilita el párrafo justo al cerrar | El LINK **reafirma** el claim, no concede. Las limitaciones van en Body 2 |
+| 2026-08-10 | **T2 Body 1** (prompt 1) | Lexical Resource | *a wider activities **offer*** — *offer* no significa "oferta" en este sentido | *a wider **range** of activities* · *a broader **provision***. ⚠️ **3ª interferencia del español** (tras *motive*, *laboral*). Además *a wider provision of* ya estaba en Vocabulary Gaps sin usar |
+| 2026-08-10 | **T2 Body 1** (prompt 1) | Lexical Resource | *to **catch** and impact* | *catch* = atrapar físicamente, no captar. *to **reach** and **engage*** |
+| 2026-08-10 | **T2 Body 1** (prompt 1) | Grammatical Range | *provides **the** detailed scheme* | *provides **a** detailed **picture***. ⚠️ Artículo — **3/3 tareas** |
+| 2026-08-10 | **T2 Body 1** (prompt 1) | Grammatical Range | *people **from** different ages* · *people **that** could* | *people **of** different ages* · personas → ***who***, no *that* |
+| 2026-08-10 | **T2 Body 1** (prompt 1) | Grammatical Range | *while offering **also** gymnastics* | Orden del adverbio: *while **also offering** gymnastics* |
+| 2026-08-10 | **T2 Body 1** (prompt 1) | Lexical Resource | *sport facilities* | *sport**s** facilities* (convención IELTS) |
+| 2026-08-10 | **T2 Body 1** (prompt 1) | Lexical Resource | *more* ×3 y *most* ×2 en 104 palabras — **detectado por ella sola** ✅ | *the most present* → *the most heavily represented* · *the predominant*. *more facilities* → *additional* · *a greater number of* |
+| 2026-08-11 | **Body 1 reescrito** | Lexical Resource | ⚠️ ***sport** facilities* — sin la `s`. **Error ya registrado el 10-ago que sobrevivió a la reescritura** | ***sports** facilities*. El enunciado mismo lo escribe así. Reincidente: entra al checklist de 60 s |
+| **2026-08-15** | 🏁 **Task 2 completo** | Task Achievement | ⚠️⚠️ **182 palabras de 250 mínimas.** Bodies de 53 palabras (objetivo 90–110) | **4 oraciones por body**: Claim → Explain → Example → Link. La nota *"two robust sentences are enough"* de la autopsia del viernes contó mal el modelo, que tiene **cuatro** |
+| 2026-08-15 | Task 2 — Intro | Grammatical Range | *impact **positively** public health* — adverbio entre verbo y objeto | ***positively impact** public health*. ⚠️ **4ª ocurrencia** del patrón (tras *also*, *best*, *obviously*). Subrayado por ella ✅ |
+| 2026-08-15 | Task 2 — Body 2 | Grammatical Range | *impact negatively **in** wellbeing* | *negatively **affect** wellbeing* · *have a negative impact **on** wellbeing*. Subrayado por ella ✅ |
+| 2026-08-15 | Task 2 — Body 1 | Grammatical Range | *increase in **the** sleep quality* | *in **sleep quality***, sin artículo. ⚠️ Patrón nº1 |
+| 2026-08-15 | Task 2 — Body 2 | Grammatical Range | *how important is **the** mental care* | *mental care*, sin artículo. ⚠️ Patrón nº1 |
+| 2026-08-15 | Task 2 — Conclusión | Grammatical Range | *covers **the** half of the scheme* | *covers **half** of the scheme*. ⚠️ Patrón nº1 |
+| 2026-08-15 | Task 2 — Body 2 | Grammatical Range | *ensure **a total** wellbeing* | *ensure **overall** wellbeing*, sin artículo. ⚠️ Patrón nº1 — **4 ocurrencias en 182 palabras, 5/5 tareas** |
+| 2026-08-15 | Task 2 — Body 2 | Grammatical Range | *how important **is the mental care*** — orden de pregunta directa en una subordinada | Pregunta indirecta → orden de afirmación: *how important **mental care is*** |
+| 2026-08-15 | Task 2 — Body 2 | Grammatical Range | *focusing only **in** this factor* | *focusing only **on*** |
+| 2026-08-15 | Task 2 — Conclusión | Grammatical Range | *consists **in** providing* | *consists **of** providing* |
+| 2026-08-15 | Task 2 — Body 1 | Coherence & Cohesion | 3 empalmes de comas: *is crucial, study shows* · *wellbeing, focusing only* · *the scheme, the other part* | Punto o conector. ⚠️ Patrón que reaparece (1ª vez el 10-ago) |
+| 2026-08-15 | Task 2 — Intro | Lexical Resource | *individu**as*** | *individual**s*** — ortografía. Cazable en la pasada de terminaciones |
+| 2026-08-15 | Task 2 — Intro | Lexical Resource | *venues **destinated** to practice physical activities* — *destinated* no existe | *venues **designed for** physical activity* · *intended for*. ⚠️ Interferencia del español (5ª tarea) |
+| 2026-08-15 | Task 2 — Body 2 | Lexical Resource | *the only **criteria*** — plural usado como singular | *the only **criterion***. Plural: *criteria* |
+| 2026-08-15 | Task 2 — Body 1 | Grammatical Range | *study shows* — falta artículo ante sustantivo contable singular | ***A** study shows* · ***Studies** show* |
+| 2026-08-15 | Task 2 — general | Lexical Resource | Vocabulario **forzado** en varios puntos: *covers the half of the scheme*, *a complete outcome consists in* | 13/18 palabras activadas es un logro, pero 18 en la lista es demasiado. **Elegir 2**, no 18 — el resto llega solo |
+| 2026-08-17 | Ensayo corregido — Body 1 | Coherence & Cohesion | *...after practicing sports**,** other vital variables...* — empalme de comas **superviviente** | Punto. Uno de los 3 se corrigió; **dos sobrevivieron a la pasada** |
+| 2026-08-17 | Ensayo corregido — Body 2 | Coherence & Cohesion | *...total wellbeing**,** focusing only on...* — empalme de comas superviviente | Punto y coma (las dos ideas están muy ligadas) o punto |
+| 2026-08-17 | Ensayo corregido — Body 1 y 2 | Grammatical Range | *the sleep quality* · *a total wellbeing* · *a greater wellbeing* | Sin artículo ante concepto general e incontable. ⚠️ Patrón nº1 — **6/6 tareas**, ni una excepción |
+| 2026-08-17 | Ensayo corregido — Body 2 | Lexical Resource | *poor or **cero** assistance* | *poor or **no** assistance*. ⚠️ Interferencia del español, **7ª tarea**. Sustituyó *none* (mal) por *cero* (peor) |
+| 2026-08-17 | Ensayo corregido — Intro | Grammatical Range | *venues **designed for practice** physical activities* | *designed for **physical activity*** · *designed for **the practice of** physical activities*. Corrección a medias de *destinated* |
+| 2026-08-17 | Ensayo corregido — Conclusión | Lexical Resource | *cover **enough number of** facilities* | *cover **a sufficient number of** facilities* |
+| 2026-08-12 | **T2 Body 2** (prompt 1) | Task Achievement | ⚠️ **Claim malformado:** *a significant **drawback**… is the **contribution** that mental health has* — un drawback no puede ser una contribution. La oración dice lo contrario de lo que quería decir | *…is that it **overlooks** the role of mental health in overall wellbeing*. El claim debe **nombrar la desventaja**, no describir un beneficio |
+| 2026-08-12 | **T2 Body 2** (prompt 1) | Task Achievement | Faltan el **EXAMPLE** y el **LINK**. Estructura real: Claim → Explain → propuesta. Por eso quedó en 66 palabras de 90–110 | La 3ª oración debe ser evidencia concreta, y la 4ª reafirmar el claim del Body 2 |
+| 2026-08-12 | **T2 Body 2** (prompt 1) | Lexical Resource | 🔴 **VOCABULARIO FORZADO — hallazgo principal.** 8 palabras de los batches metidas; 2 mal usadas (*contribution*, *consequent with*). *consequent with* no existe (calco de "consecuente con") | **Objetivo nuevo: 2–3 palabras bien usadas, no 8 aproximadas.** Si hay que torcer la frase para meter la palabra, la palabra sobra |
+| 2026-08-12 | **T2 Body 2** (prompt 1) | Grammatical Range | 🔴 *In order to **not only** allowing…* — correlativa abierta sin cerrar **otra vez**, y con gerundio en vez de infinitivo. Estaba dada por resuelta desde el 09-ago | **Regla firme: no usar `not only… but also` en el examen.** 2 de 2 usos rotos. Alternativa: *Beyond providing areas for exercise, facilities must also offer…* |
+| 2026-08-12 | **T2 Body 2** (prompt 1) | Grammatical Range | *Data … show**s*** | ***data* es plural** en inglés académico: *data **show***. Está en el Batch 1, palabra 14, con ese ejemplo exacto |
+| 2026-08-12 | **T2 Body 2** (prompt 1) | Grammatical Range | *depression, anxiety and loneliness **affects*** | Sujeto compuesto → ***affect*** |
+| 2026-08-12 | **T2 Body 2** (prompt 1) | Grammatical Range | ***a** accelerated* · *the general wellbeing of ∅ population* | ***an** accelerated* · *of **the** population*. ⚠️ Artículo — **4/4 tareas**, y ahora falla en las dos direcciones |
+| 2026-08-12 | **T2 Body 2** (prompt 1) | Lexical Resource | *professional **assistant*** — *assistant* es una persona, no un servicio | *professional **assistance*** · *psychological **support***. ⚠️ 4ª interferencia del español |
+| 2026-08-12 | **T2 Body 2** (prompt 1) | Lexical Resource | Ortografía: *lonelliness* · *proffessional* · *atract* · *settlings* | loneliness · professional · attract · settings. **Causa identificada por ella misma: el bucle de la duda** — escribió bien, dudó, "corrigió" y quedó mal → §4.6 |
+| 2026-08-12 | **T2 Conclusión** | Task Achievement | Una sola oración de 30 palabras (van **2**, de 40–60), y la posición queda difusa: *having a complete wellbeing is also consequent with caring of mental health* | En un *Discuss both views* la opinión propia debe ser **explícita** en la conclusión. Es lo que pide el enunciado literalmente |
+| 2026-08-12 | **T2 Conclusión** | Lexical Resource | *a bigger number of **persons*** · *caring **of*** · *having **a** complete wellbeing* | *a greater number of **people*** · *caring **for*** · *achieving complete wellbeing* |
+| 2026-08-12 | **T2 Conclusión** | Lexical Resource | *sport **settlings*** | *sport**s** facilities*. ⚠️ *sport*/*sports* — 3/3 tareas |
+| 2026-08-11 | **Body 1 reescrito** | Task Achievement | La 3ª oración sigue derivando: habla de **cómo planificar** instalaciones, no de **por qué la variedad aumenta la participación** (el claim). Mejoró mucho con *therefore* + *match genuine local demand*, pero no está resuelto del todo | Redirigir al claim: *porque cada disciplina atrae a un perfil distinto, una oferta variada capta gente que una sola actividad dejaría fuera*. Prueba por oración: *¿esto desarrolla mi punto, o abre otro?* |
+
+| 2026-08-18 | **Ensayo v3** (prompt 1) | Task Achievement | ⚠️ **La conclusión ya no dice qué piensa.** El 15-ago sí tenía opinión explícita; se perdió en las dos reparaciones | *In my view…* · *are, **in my view**, equally essential*. En un *Discuss both views* lo pide el enunciado. **Reparar puede borrar aciertos: verificar también lo que ya estaba bien** |
+| 2026-08-18 | **Ensayo v3** (prompt 1) | Lexical Resource | ***proffessionals*** en el Body 1 — **y *professionals* bien escrita en la conclusión.** Misma palabra, mismo ensayo, dos grafías | Bucle de la duda (§4.6). No es desconocimiento: la escribió bien 12 líneas después. **Primer instinto → subrayar → seguir → revisar al final** |
+| 2026-08-18 | **Ensayo v3** (prompt 1) | Grammatical Range | 🆕 **Coma perdida al reescribir:** *…in general wellness ∅ some others identify…* La cláusula con *While* la necesita. **El lunes estaba bien** | Patrón nuevo: **reescribir sobre limpio introduce errores nuevos**. La última pasada debe hacerse sobre la versión FINAL, no sobre la anterior |
+| 2026-08-18 | **Ensayo v3** (prompt 1) | Lexical Resource | Tres ***like*** supervivientes: *factors like* · *benefits like* · *variables like* (el de *Conditions* sí se corrigió) | ***such as***. *like* es informal en registro académico |
+| 2026-08-18 | **Ensayo v3** (prompt 1) | Grammatical Range | *prepared **to** each community needs* | *prepared **for** each community**'s** needs* — preposición + posesivo |
+| 2026-08-18 | **Ensayo v3** (prompt 1) | Grammatical Range | *the decrease **of** health* · *all **the** bodily systems* | *a decline **in** health* · *all bodily systems*. Artículos: **7/7 tareas** |
+| 2026-08-18 | **Ensayo v3** (prompt 1) | Lexical Resource | ***In the same space*** — calco de "en el mismo espacio" | *At the same time* · *Equally*. 6ª interferencia del español |
+| 2026-08-18 | **Ensayo v3** (prompt 1) | Coherence & Cohesion | Faltan comas tras frase introductoria: *…in society ∅ the whole scheme…* · *In the same space ∅ psychological…* | Coma tras cualquier frase introductoria larga |
+
+| 2026-08-19 | **Pasada de artículos** sobre la v3 (autoevaluación) | Grammatical Range | 🔴 **Punto ciego identificado: `a/an` + incontable.** Encontró *all the bodily systems* (zona gris, no era error) pero **no vio *a bigger infrastructure***, el único error indiscutible. El escaneo fue solo a los `the` | **Dos barridos separados** (§4.7): 1º solo `the` → *¿podría señalar cuál?* · 2º solo `a`/`an` → *¿es incontable?* Buscar las tres palabras a la vez deja pasar los `a` |
+
+| 2026-08-19 | **Banco Society & Work** — 14 oraciones problema/solución (prep. prompt 4) | Grammatical Range | 🔴 *the need **of** updated **trainings*** — **DOS patrones ya registrados en cuatro palabras**: *the need of* (error del 09-ago, §4.2) y *trainings* incontable (§4.5) | *the need **for** updated **training***. → **El error log hay que leerlo ANTES de escribir, no solo llenarlo después** |
+| 2026-08-19 | **Banco Society & Work** | Lexical Resource | *shorter working hours **gives as result*** — calco de "da como resultado" | *shorter working hours **result in***. También concordancia: *hours* → *result*, no *gives* |
+| 2026-08-19 | **Banco Society & Work** | Lexical Resource | Ortografía: *conection* · *payed* · *appropiate* | connection (doble n) · paid · appropriate (§4.6) |
+| 2026-08-19 | **Banco Society & Work** | Grammatical Range | *all **the** conditions* · *all **the** different areas* | Sin artículo. Patrón nº1 |
+| 2026-08-19 | **Banco Society & Work** | Grammatical Range | *Unplanned urbanisation negatively **impact*** · *traffic **everyday*** | *impact**s*** · *every day* (dos palabras como adverbio; *everyday* es adjetivo) |
+| 2026-08-19 | **Banco Society & Work** | Lexical Resource | *improves **life quality*** · *is **trapped** by* · ***highly** linked with* | *quality of life* · *is **constrained** by* · ***closely** linked to* |
+| 2026-08-19 | **Banco Society & Work** | ✅ **ACIERTO estructural** | **Emparejó cada problema con su solución fila por fila**, en vez de listar dos bloques inconexos | Es exactamente lo que pide un Problem–Solution: soluciones que responden a los problemas planteados. Ventaja real sobre el candidato medio, que da soluciones genéricas |
+| 2026-08-19 | **Banco Society & Work** | ✅ **ACIERTO de contenido** | *Income inequality forces some professionals to abandon their areas and move to others better paid* | **Fuga de cerebros interna** — desigualdad regional que vacía de profesionales las zonas pobres. Argumento poco frecuente y propio |
+
+| 2026-08-19 | **Banco Environment & Energy** — 6 frases con dato concreto | Grammatical Range | 🔴 *due to the **need for reduce** fossil fuel use* — **4ª ocurrencia en 11 días, la 2ª del mismo día** | **need TO + verbo · need FOR + sustantivo.** *need of* no existe. Prueba: tras *need*, ¿verbo o sustantivo? → §4.2, promovido a bloque destacado |
+| 2026-08-19 | **Banco Environment & Energy** | Grammatical Range | ***The** investment* · *renewable energ**ies*** · *ha**d** increased* · *fossil fuel**s** use* | *Investment* sin artículo (nº1) · *renewable energy* (incontable) · *ha**s** increased* (presente perfecto, no pluscuamperfecto) · *fossil fuel use* (el sustantivo modificador va en singular) |
+| 2026-08-19 | **Banco Environment & Energy** | Lexical Resource | *consists **in*** — calco de "consiste en" | *consists **of*** · *involves* (§4.5) |
+| 2026-08-19 | **Banco Environment & Energy** | Grammatical Range | *A significant proportion… **are** caused* · *industries that **promotes*** — dos concordancias en una frase | *is* caused (*proportion* singular) · industries that *promote* |
+| 2026-08-19 | **Banco Environment & Energy** | Lexical Resource | *ga**ss**es* · *due to **researching*** · *Researching **in*** · *the first step **to mitigate*** | *gases* (*gasses* es verbo) · *research* (incontable) · *research **into*** · *a first step **towards mitigating*** |
+| 2026-08-19 | **Banco Environment & Energy** | Task Achievement | *First-world countries* — término anticuado, registro informal | *developed countries* · *high-income countries* |
+| 2026-08-19 | **Banco Environment & Energy** | ✅ **ACIERTO — la frase modelo** | *Solar panel costs have fallen by **roughly ninety per cent** over the last ten years due to research and improvements in materials.* | Cifra + hedging + marco temporal + causa. **Aplicó el hedging sin que se le recordara.** Es la respuesta directa al *"Multiple studies show"* sin dato del ensayo. Usable tal cual |
+| 2026-08-19 | **Banco Environment & Energy** | ⚠️ Descartar | *An alternative to reduce plastic waste up to 90% consists in blending the material to create useful new tools* | Cifra sin mecanismo entendible: no se sabe qué material ni qué herramientas. **Una afirmación vaga con número suena menos creíble que una sin número** |
+| **2026-08-22** | 🧊 **Task 2 EN FRÍO** — Intro | Grammatical Range | *socioeconomic life conditions... **is** highly notable* | Sujeto plural → ***are***. Concordancia a distancia: el verbo quedó lejos del sujeto |
+| 2026-08-22 | Task 2 frío — Body 1 | Lexical Resource | ***the wealthy** of a reduced part of the population* — quería decir "la riqueza", no "los ricos" | ***the wealth** of a small proportion*. *the wealthy* = las personas ricas (§4.4, visto la víspera); *wealth* = la riqueza, incontable |
+| 2026-08-22 | Task 2 frío — Body 1 | Grammatical Range | *per cent **of population*** — **falta** artículo | *of **the** population*. Aquí sí va: es una población concreta |
+| 2026-08-22 | Task 2 frío — Body 1 | Grammatical Range | *almost all **the** society* — **sobra** artículo | *all of society* · *society as a whole* |
+| 2026-08-22 | Task 2 frío — Conclusión | Grammatical Range | ***the** access to minimal services* · *over **the** time* | *access to...* · *over time*. ⚠️ Artículos: 4 ocurrencias, **9/9 tareas** |
+| 2026-08-22 | Task 2 frío — Conclusión | Lexical Resource | 🔴 *are **in the obligation of provide*** — calco estructural de "estar en la obligación de" | *are **obliged to provide*** · *have **an obligation to provide*** |
+| 2026-08-22 | Task 2 frío — Body 2 | Lexical Resource | 🔴 *must be the first one **in being attended*** — calco de "ser atendido" | *must be the first **to be addressed***. *attend* ≠ atender un asunto |
+| 2026-08-22 | Task 2 frío — Body 1 | Lexical Resource | 🔴 ***having as results** poor access* — calco de "teniendo como resultado" | ***resulting in** poor access* · *which results in* |
+| 2026-08-22 | Task 2 frío — Conclusión | Lexical Resource | *qualificated services* — palabra que no existe | *qualified services*. ⚠️ Interferencia del español, tarea nº6 |
+| 2026-08-22 | Task 2 frío — Body 2 | Lexical Resource | *receive **allowance** from government* | *receive **funding** · **subsidies***. *allowance* = mesada, o cuota permitida |
+| 2026-08-22 | Task 2 frío — Body 2 | Lexical Resource | *education institutions* | *education**al** institutions* |
+| 2026-08-22 | Task 2 frío — Body 2 | Coherence & Cohesion | *Therefore* abre el párrafo y *Consequently* la oración siguiente — dos marcadores de consecuencia seguidos, y el 2º no marca consecuencia | La 1ª medida se introduce con *First* · *One effective measure would be*. Y *Also* al inicio de oración → *Furthermore* |
+| 2026-08-22 | Task 2 frío — Body 1 | Task Achievement | 55 de 89 palabras demuestran que la brecha existe — pero el enunciado **ya lo afirma** como premisa | La pregunta es *what problems does this cause*. Los problemas llegaron en la última línea; deberían ser el párrafo entero |
+| 2026-08-22 | Task 2 frío — Body 2 | Task Achievement | 69 palabras (objetivo 90–110) y medidas genéricas | Había **7 pares problema–solución** preparados el 19-ago sin usar, incluida la fuga de cerebros interna. **Consultar el banco durante la planificación** |
+| 2026-08-22 | Task 2 frío — general | Grammatical Range | 🔴 **Escribir y corregir en paralelo** — autodiagnosticado | Los ~12 errores eran cazables en la pasada final, que no existió. **Minutos 11–31 escribir sin mirar atrás; 31–40 corregir.** Si dudas de una palabra, subráyala y sigue |
+| 2026-08-22 | Task 2 frío — varios | Lexical Resource | Ortografía: *goverment* · *reallity* · *american* | *government* · *reality* · *American* (gentilicio en mayúscula) |
+| **2026-08-25** | 🆕 **Task 1 — 3 Overviews** (line/bar/pie) | Coherence & Cohesion | 🔴 **En 2 de 3 faltó el titular.** Line graph: dijo que India subió más, pero no que **sigue siendo la más baja**. Pie: dijo que renovables *"showed rise"*, no que **adelantaron al carbón y pasaron a ser la fuente principal** | El Overview responde *"¿qué es lo más llamativo?"*, no *"¿qué pasó?"*. Antes de escribir: **si tuviera que decir UNA cosa de este gráfico, ¿cuál sería?** Palabras que dan puntos: *overtake · replace · reverse · yet still* |
+| 2026-08-25 | Task 1 — Overviews | Grammatical Range | 🆕 ***than*** **por** ***that*** — 2 ocurrencias: *it is clear **than*** · *the only sources **than** showed* | En español *que* es una palabra; en inglés son dos. **that** = *que* (conjunción/relativo) · **than** = *que* comparativo. Test: ¿comparas? → *than*. Si no → *that* |
+| 2026-08-25 | Task 1 — Overviews | Grammatical Range | 🆕 ***the** double* · ***the** half* — 2 ocurrencias | El español dice *el doble*, *la mitad*; el inglés **sin artículo**: *more than **double*** · *has almost **halved*** · *by almost **half***. Variante nueva del patrón nº1 |
+| 2026-08-25 | Task 1 — Line graph | Task Achievement | 🔴 ***any** of the four countries remained constant* — **invierte el significado** | En afirmativa *any* = "cualquiera", no "ninguno". → ***none** of the four countries...* o, usando *any* correctamente en negativa: *consumption did **not** remain constant in **any** of the four* |
+| 2026-08-25 | Task 1 — Line graph | Grammatical Range | *remained constant **their** electricity consumption* — *remain constant* es intransitivo, no admite objeto | *consumption remained constant* · *maintained a constant level of consumption* |
+| 2026-08-25 | Task 1 — Line graph | Lexical Resource | *a **declined** demand* · *is **lightly remarkable*** · *increased **this number*** | *a decline **in** demand* · *relatively **slight*** (*lightly* y *remarkable* se contradicen) · *saw sustained growth* |
+| 2026-08-25 | Task 1 — Line graph | Coherence & Cohesion | *is lightly remarkable**,** in India the consumption...* — empalme de comas | Punto. ⚠️ Patrón reincidente |
+| 2026-08-25 | Task 1 — Bar chart | Task Achievement | **Business (categoría intermedia) no aparece** en el Overview | Regla del Overview: **todas** las categorías representadas. Si una queda sola en el medio: *with business occupying an intermediate position* |
+| 2026-08-25 | Task 1 — Bar chart | Lexical Resource | 🆕 *The **fall** of the number of graduates...* — verbo de cambio en un gráfico **sin eje temporal** | En gráficos estáticos no hay subidas ni caídas: se describe **rango y agrupación**. Usar *gap · difference · range*, no *fall · rise · drop* |
+| 2026-08-25 | Task 1 — Bar chart | Lexical Resource | *The data **showed before*** · *the **number** of graduates* (el gráfico da porcentajes) | *The data **shown above*** · *the **percentage** of graduates* |
+| 2026-08-25 | Task 1 — Bar/Pie | Grammatical Range | *the percentage... **are** more employed* · *nuclear sources **has** decreased* | ***is*** · ***have***. Concordancia a distancia: el verbo quedó lejos del sujeto |
+| 2026-08-25 | Task 1 — Pie charts | Lexical Resource | *decreased **till** zero* · *showed **rise*** | *has been **phased out entirely*** (además evita el dígito) · *showed **a** rise* · *the only sources **to increase*** |
+| **2026-08-27** | 🆕 **Task 1 — 3 Overviews v2** | Coherence & Cohesion | 🔴 **Escribir en orden de lectura, no de importancia** — autodiagnosticado: *"fui escribiendo a medida de que iba viendo los datos, no por importancia"*. Explica las dos fallas: *only Canada fell* (Canada es la 1ª columna, aún no había llegado a Japón) y el titular perdido del gráfico 3 (describió porción por porción; el titular era la **relación** entre dos) | **60 segundos mirando, sin escribir.** ① ¿quién sube/baja? → agrupa ② ¿hay cruce, inversión o desaparición? → **ese es el titular** ③ ¿hay tensión (*sube más pero sigue siendo el más bajo*)? La 1ª oración tras *Overall* responde ② o ③, **nunca** es la primera columna |
+| 2026-08-27 | Task 1 — Line graph | Task Achievement | 🔴 **Dato incorrecto:** *only the demand in Canada fell* — **Japón también cayó** (7.800→6.900) | Un hecho falso en el Overview pega en el criterio más caro. El agrupamiento correcto era el que ella misma usó en el bar chart: **dos desarrollados bajan, dos en desarrollo suben** |
+| 2026-08-27 | Task 1 — Pie charts | Task Achievement | 🔴 **El titular volvió a faltar** (2º intento): *renewables... experimented an upward trend* | No solo subieron: **adelantaron al carbón y pasaron a ser la fuente principal**. 17→52 mientras el carbón cae 42→26 no es una tendencia, es **una inversión del mix**. ***overtake · become the dominant source*** |
+| 2026-08-27 | Task 1 — Bar chart | Lexical Resource | 🔁 ***the number** of graduates* — el gráfico da **porcentajes**. Corregido el 25-ago, volvió intacto | *the **percentage** of graduates*. ⚠️ Patrón **detectar ≠ ejecutar**, registrado desde el 18-ago |
+| 2026-08-27 | Task 1 — Pie charts | Lexical Resource | 🆕 **Falso amigo:** *experimented an upward trend* | *experimentar* → ***experience***. *Experiment* en inglés es hacer un experimento de laboratorio. → §4.5 |
+| 2026-08-27 | Task 1 — Line graph | Lexical Resource | 🔁 *during **all the** period* | ***throughout the** period*. Reincidente: el 25-ago fue *went up all the period* |
+| 2026-08-27 | Task 1 — Pie charts | Coherence & Cohesion | 🔁 *...increased slightly**,** Renewables are...* — **empalme de comas** | Punto. ⚠️ Patrón reincidente, 4ª ocurrencia |
+| 2026-08-27 | Task 1 — Pie charts | Task Achievement | ⚠️ ***5** different sources* — **dígito** en la intro | *five*. La regla de cero dígitos aplica también a la introducción |
+| 2026-08-27 | Task 1 — Bar chart | Grammatical Range | *remarkable superior **than*** · *this percentage **remained*** (gráfico sin eje temporal) | *remarkab**ly** superior **to*** · *this percentage **is*** |
+| 2026-08-27 | Task 1 — varios | Lexical Resource | Ortografía: *differente* · *soruces* · *third-teen* · *six month* · *specially* | *different* · *sources* · *thirteen* · *six month**s*** · *e**s**pecially* |
+| 2026-08-27 | Task 1 — Pie/Line | Grammatical Range | *nuclear sources **phased out*** (transitivo) · *a constant **growing*** · *decreased **until almost its half of its value*** | *was phased out* · *constant **growth*** · *fell **by almost half*** (§4.9) |
+| **2026-08-27** | ✅ **Task 1 v2 — LO QUE ENTRÓ** | — | El titular del gráfico 1 (***despite** this growth... remained lower*) · **Business cubierto** (omitido el 25) · agrupación *applied vs human sciences* — patrón, no lista de seis barras · ***phased out entirely*** usado bien | Estructura y agrupación **ya son de banda 7**. El freno es precisión |
+| **2026-08-28** | 🆕 **Task 1 v3 — patrón de corrección** | Método | 🔴 **Corrigió lo que se le dio reescrito entero; NO corrigió lo que se le dio como tabla de arreglos.** Reemplazó los tres Overviews por los modelos y dejó las tres introducciones intactas con *differente · the number · six month · 5 · soruces · third-teen* | Refina el hallazgo del 18-ago. **Ante una tabla de correcciones: no leerla — reescribir la frase entera desde cero con los cambios adentro.** Es la regla *"si necesita dos arreglos, reescríbela entera"* aplicada a la revisión |
+| 2026-08-28 | Task 1 v3 | Lexical Resource | 🔁 **Copiar introduce errores propios:** *occupying* → *b**o**cupying* al transcribir el modelo | Versión escrita del patrón *"editar introduce errores nuevos"* (confirmado desde el 18-ago). La pasada de ortografía aplica **también** al texto copiado |
+| 2026-08-28 | Task 1 v3 | Grammatical Range | ⚠️ ***the** electricity consumption* sobrevivió a la v3 | Incontable general → sin artículo. §4.7, barrido 2 |
+| **2026-08-28** | 🆕 **Registro académico** | Lexical Resource | Autodiagnosticado: *"digo todo yo más casual"*. **Mayor brecha léxica**, y explica *number* por *percentage*: no fue distracción, **fue registro** | **Las 6 sustituciones**, en `03_Writing_Module.md`: verbo preciso · sustantivo exacto · adjetivo que contiene el grado · proporción · nominalización · comparativo directo |
+| **2026-08-29** | 🔴 **Task 1 nº 1 — primera cronometrada** (line graph) | Task Achievement | 🔴 **118 palabras de 150.** Penalización automática. Causa: **falta un párrafo entero** — escribió **un solo** párrafo de detalle y cubre solo **2020–2025**; quince años del gráfico sin describir | **Dos párrafos de detalle, uno por mitad del período, 4 oraciones cada uno.** 118 → ~180 sin mejorar una frase. Equivalente en Task 1 de la regla que llevó el Task 2 de 182 a 270 |
+| 2026-08-29 | Task 1 nº 1 | Coherence & Cohesion | 🔁 **El titular faltó por 3ª vez.** El gráfico cuenta **convergencia**; además escribió *the gap **was growing** with the age of the group* — **la conclusión opuesta**: la brecha se cerraba | Los 60 segundos, pregunta ②. Y verificar el titular **contra los datos** antes de escribirlo |
+| 2026-08-29 | Task 1 nº 1 | Lexical Resource | 🔁 *increased **this number*** ×2 — **4ª ocurrencia** | *this **figure*** · *the **figure for*** the 65+ group. Regla 2 del registro |
+| 2026-08-29 | Task 1 nº 1 | Coherence & Cohesion | 🔁 **Empalme de comas** en el Overview — **5ª ocurrencia** | Punto |
+| 2026-08-29 | Task 1 nº 1 | Lexical Resource | *noticeble* · *the internet consumption* · *the demand **of** internet* · *only **in** two* · *groups **of population*** | *noticeable* · *internet use* · *demand **for*** · *by only two hours* · *age groups* |
+| **2026-08-31** | 🆕 **Task 1 nº 1 v2 — injertar** | Método | 🔴 **Los párrafos tomados enteros quedaron impecables; los que mezcló con su texto reintrodujeron los errores ya corregidos** (empalme de comas + *demand of internet*, cosidos dentro del Overview nuevo) | **O se toma la versión nueva completa, o se reescribe desde cero. Coser no funciona.** Completa el hallazgo del 28-ago |
+| 2026-08-31 | Task 1 nº 1 v2 | Lexical Resource | 🔁 3ª confirmación de *copiar introduce errores propios*: *twenty-**right*** · *the **eldery*** | *twenty-eight* · *the elderly*. La pasada de ortografía aplica **también** al texto copiado |
+| **2026-08-31** | ✅ **Task 1 nº 2 — bar chart cronometrada** | Task Achievement | ✅ **188 palabras · 4 párrafos · 19:38.** El problema de extensión queda **cerrado**: 118 → 188 en dos días. Y **el titular entró al 4º intento** — *washing machines universales frente a la variación del resto*, que era el rasgo correcto. También entró ***this figure*** tras 4 sesiones de *this number* | — |
+| 2026-08-31 | Task 1 nº 2 | Coherence & Cohesion | 🔴 **Los párrafos de detalle tienen 2 oraciones largas, no 4 cortas.** Llegó a 188 por longitud de oración, no por contenido. El párrafo 4 es **una sola oración de 40 palabras** que hay que releer | **Cuatro oraciones cortas por párrafo.** Una idea por oración. Además quedó contenido sin describir: el patrón **norte–sur** del lavavajillas (Suecia 82 / Alemania 74 vs Polonia 38) |
+| 2026-08-31 | Task 1 nº 2 | Coherence & Cohesion | 🔁 **Empalme de comas — 6ª ocurrencia** | Punto |
+| 2026-08-31 | Task 1 nº 2 | Grammatical Range | 🔁 **§4.9 dos veces en una oración:** *more than **the doubled*** · *more present … **that** the air conditioning* | *more than **twice as often*** · ***than*** |
+| 2026-08-31 | Task 1 nº 2 | Grammatical Range | 🔁 **Artículo en incontables:** *the air conditioning* ×3 · *the washing machine* (genérico) | Sin artículo: *air conditioning* · *washing machines*. §4.7 barrido 2 — **este es el que la separa de 6.5** |
+| 2026-08-31 | Task 1 nº 2 | Lexical Resource | Repetición de *present* ×3 y *represented* — **detectada por ella misma**. Además *houses* por *households* · *despite* por *regardless* · *minimun* · *remains being* · *a gap not that wide* | El inglés pone al **hogar** como sujeto, no al aparato: *households **own*** · *X **is found in*** · el sustantivo **ownership** · *the widest variation **lies in***. Extremos en una palabra: **near-universal** · **virtually absent** |
+| 2026-08-31 | Task 1 nº 2 | Task Achievement | Dato: *go from 94 to **97** per cent* — el máximo es **98** (España) · dígito innecesario: *eight of **100** households* | Verificar el máximo antes de dar un rango · *eight per cent* |
+| **2026-08-31** | ✅ **Repaso AWL 101–200** | Lexical Resource | **1 ✗ de 100.** Única fallada: *undertake* | Pide **sustantivo**, no infinitivo. Verbo institucional. Detalle en `02_Vocabulary_Engine.md` |
+| **2026-09-01** | ⭐ **Task 1 nº 3 — diagrama de proceso** | Coherence & Cohesion | ⭐ **6.5, su mejor criterio hasta hoy.** Seis marcadores de secuencia distintos sin repetir y **ni un solo *then***: *In the first stage · Once… has been · **After being classified** · Subsequently · Following this · In the final stage*. Al primer intento | — |
+| 2026-09-01 | Task 1 nº 3 | Task Achievement | 🔴 **Dos violaciones en una frase del Overview:** *It is a **cyclical** process **because** the paper can be recycled multiple times*. (a) es **lineal** — no hay flecha de retorno; (b) *because* explica un porqué **que no está en el diagrama** | Las dos son lo mismo: **salirse de lo que se ve**. Test: **¿hay flecha que vuelva a la primera caja? No → *linear***. Y si aparece *because*, se salió de la tarea |
+| 2026-09-01 | Task 1 nº 3 | Lexical Resource | 🆕 **Falso amigo:** *the workers **retire** plastic* | *retirar* → ***remove***. *Retire* en inglés es **jubilarse**. 3º del mes tras *experimented* y *motive* → §4.5 |
+| 2026-09-01 | Task 1 nº 3 | Coherence & Cohesion | 🔁 **Empalme de comas — 7ª ocurrencia** | Punto |
+| 2026-09-01 | Task 1 nº 3 | Lexical Resource | Ortografía: **7 en 170 palabras**, la densidad más alta registrada. Casi todas eran **palabras nuevas del banco léxico del 31-ago** | Cuando una palabra es reciente, la mano no la tiene automatizada. La pasada de ortografía pesa más en las sesiones que estrenan vocabulario |
+| **2026-09-01** | 🆕 **v2 — el corrector de Word** | Método | 🔴 **Corrigió exactamente lo que Word subraya en rojo; los 9 que quedaron no los detecta ningún corrector** (*retire* es palabra válida · *in* por *into* es gramática · el empalme es puntuación) | **El examen no tiene Word.** Conservar el contador y quitar la ayuda: Opciones → Revisión → desmarcar revisión de ortografía y gramática mientras se escribe, y la mayúscula automática (convirtió *pulp* en *Pulp*) |
+| 2026-09-01 | v2 | Método | 🔁 **3ª confirmación, más precisa:** los 9 no corregidos estaban **todos** en un párrafo de prosa corrida (*“Otros puntuales”*); los corregidos, en tablas y encabezados | **Lo que va en tabla se hace; lo que va en prosa corrida, no.** Error de formato de la corrección, no de atención. Correcciones **siempre en tabla** |
+| 2026-09-01 | v2 | Método | Editó la **v1 en vez de crear la v2** — borraba la línea base | **La v1 nunca se toca.** Restaurada desde `9b39a2e`. Sin el original no hay contra qué comparar |
+| **2026-09-02** | 🆕 **Task 1 nº 3 v3 — ediciones aditivas** | Método | 🔴 Al aplicar las correcciones dejó **restos del texto viejo**: *spread onto a mesh screen **dried*** (se perdió el *and*) · *cut into **in** standard sizes* (quedó el *in* de *divided in*). **3ª ocurrencia** — la 1ª fue *ready to be **transported distributed*** | **Entra lo nuevo, no siempre sale lo viejo.** Tras editar una frase, **releer la oración completa desde el punto anterior**, no solo las palabras tocadas: los restos quedan **a los lados** del cambio |
+| **2026-09-02** | ✅ **Task 1 nº 3 — cierre** | Método | ✅ **9 de 9 correcciones aplicadas sin ayuda**, y los dos restos de edición cerrados en la pasada siguiente **sin introducir ninguno nuevo**. Texto final: 185 palabras, cero errores de gramática, ortografía o puntuación | El patrón *editar introduce errores nuevos*, confirmado desde el 18-ago, **no apareció** en la pasada final |
+| **2026-09-02** | ✅ **Párrafo Task 2 — discourse markers** | Coherence & Cohesion | ✅✅ **CERO EMPALMES DE COMAS en tres versiones seguidas**, con tres marcadores por párrafo. Tras **8 ocurrencias registradas**. Y logró el marcador en medio: *The electronics industry**, in particular,** needs…* | El objetivo real del ejercicio, cumplido. §4.10 funcionó |
+| 2026-09-02 | Párrafo Task 2 — v1 | Coherence & Cohesion | 🔴 **Tres marcadores pero solo dos funciones:** *However* (contraste) + *Moreover* + *Furthermore* (**adición ×2, seguidas**). Faltaron **causa** y **ejemplo**, y los tres al **inicio** de oración | Los de **adición son los que tiene disponibles**; causa y ejemplo aún no salen solos. Se corrigió en v2–v3 (*Therefore* · *In particular*) |
+| 2026-09-02 | Párrafo Task 2 | Lexical Resource | 🔁 ***offer*** **— 2ª ocurrencia** (ya registrada en agosto): *a wide **offer** to access knowledge* | *oferta* = variedad disponible → ***range*** · ***variety***. *Offer* en inglés es propuesta comercial |
+| 2026-09-02 | Párrafo Task 2 | Lexical Resource | 🆕 *some people **argument*** — sustantivo usado como verbo · *look after* por *seek out* · *critical **and essential*** (redundante) · *help them **improving*** | ***argue*** · *look after* = **cuidar de** · dejar **uno** de los dos adjetivos · *help them **improve*** (infinitivo sin *to*) |
+| 2026-09-02 | Párrafo Task 2 | Grammatical Range | *industry **appreciate*** · *appreciates and **seek** out* · *___ electronics industry* | Concordancia singular en ambos verbos · ***the** electronics industry* |
+| **2026-09-02** | 🔁 **Ediciones aditivas — 4ª ocurrencia** | Método | Al reemplazar el medio de la frase dejó **la cola vieja**: *the two are complementary rather than opposed **to achieve a better educational system*** — *opposed to achieve* ya no cierra. Anteriores: *transported distributed* · *mesh screen dried* · *cut into in* | **Releer la oración completa hasta el punto final.** Los restos quedan **después** del cambio, no dentro — por eso no se ven mirando solo lo tocado |
+| 2026-09-02 | Párrafo Task 2 | Task Response | *the evidence **demonstrates*** sin citar evidencia alguna | *the evidence **suggests that*** · *arguably* · *it appears that*. → **hedging, Unit 4, jueves 3** |
+| **2026-09-03** | ✅ **Hedging — ejercicio de 10 frases** | Task Response | ✅ **4 de 10 perfectas** (1, 6, 9, 10) y **las dos condiciones de firmeza acertadas**: dejó sin matizar la tesis y la conclusión, que era lo correcto | **Falló el vocabulario de hedging, no el criterio** — y el criterio es lo difícil |
+| 2026-09-03 | Hedging | Grammatical Range | 🔴 ***would* como suavizador — 2 ocurrencias:** *Multiple studies **would** show* · *Data **would** demonstrate* | En español el condicional suaviza; **en inglés `would` marca hipótesis**. Aplicado a una fuente **sugiere que no existe**: el hedge juega en contra. Usar *suggest · indicate · appear to show*. `would` **solo con condición detrás** |
+| 2026-09-03 | Hedging | Lexical Resource | 🆕 **Falso amigo:** *might **result** essential* | *resultar* = **acabar siendo** → ***prove*** · *turn out to be*. El inglés *result* solo expresa consecuencia (*result **from** / **in***). 4º falso amigo del ciclo → §4.5 |
+| 2026-09-03 | Hedging | Lexical Resource | ⚠️ ***Apparently*** por *aparentemente* | En inglés carga **"eso dicen, pero quién sabe"** — escéptico y coloquial. Neutro: *seemingly · it appears that*. Para lo habitual: *typically · **tend to*** |
+| 2026-09-03 | Hedging | Task Response | 🔴 **Matizó el marco y dejó las cifras:** *there is evidence to suggest that improvements appear **within a few weeks** of **at least ten minutes** of exercise* — datos nunca citados | **Un dato inventado se generaliza, no se matiza:** *relatively quickly* · *modest amounts*. Así quedó **más** expuesta, no menos |
+| 2026-09-03 | Hedging | Task Response | ⚠️ **Sobre-matizó lo indiscutible:** *depression, anxiety and stress **in certain contexts** negatively affect wellbeing* | Basta ***can***. **Se matiza lo discutible; lo obvio, no** — suavizar lo evidente hace dudar de todo lo demás |
+| 2026-09-03 | Hedging | Grammatical Range | *there is evidence **to suggests*** | *to* + **infinitivo** → *to suggest* |
+| **2026-09-06** | 🏁 **Task 2 nº3** (advantages–disadvantages) | Task Achievement | 🔴 **La v1 no dio VEREDICTO.** *Do the advantages outweigh?* es una pregunta de sí o no; la tesis decía que pasaron ambas cosas y la conclusión se inclinaba sin nombrarlo | *…although the advantages are substantial, **they do not outweigh** the cost…* **Señalado dos veces antes de escribir y cayó igual**: viene entrenada en *Discuss both views*, donde equilibrar sí es correcto |
+| 2026-09-06 | Task 2 nº3 | Coherence & Cohesion | 🔴 **Body 1 = 187 palabras con DOS argumentos completos**; Body 2 = 96. Causa: entendió *"4 oraciones por body"* como **4 razones distintas** | **4 oraciones = 4 MOVIMIENTOS de UN argumento**: Claim → Explain → Example → Link. Band 7 pide *"extends and supports"* — **profundidad, no cantidad** |
+| 2026-09-06 | Task 2 nº3 | Grammatical Range | **Concordancia sujeto–verbo ×4**: *variables… **has*** · *interactions **has*** · *universities… **has*** · *interactions **remains*** | Tapar todo lo que hay entre sujeto y verbo. **El sujeto nunca está dentro de una frase con preposición.** ✅ Acertó la más difícil: *The growth ~~in the use of technologies in the workplace~~ **has**…* |
+| 2026-09-06 | Task 2 nº3 | Grammatical Range | **Frases sin verbo conjugado ×2**: *while **is** important* · *interactions **still being** fundamental* | *while **it is*** · *interactions **remain***. *Being* no conjuga: la oración se queda sin núcleo |
+| 2026-09-06 | Task 2 nº3 | Lexical Resource | ***worklife*** ×3 | *working life* · *the workplace*. Familia de *laboral* — señalada esa misma tarde, y aun así salió tres veces |
+| 2026-09-06 | Task 2 nº3 | Lexical Resource | Ortografía: *has **growth*** · *conserable* · *confort* · *possibily* · *Consequenly* · *theyhave* | *has **grown*** · *considerable* · *comfort* · *possibility* · *Consequently* · *they have* |
+| 2026-09-06 | Task 2 nº3 — **rondas de corrección** | Grammatical Range | ⚠️ **3ª y 4ª ocurrencia: la corrección introduce errores.** Al arreglar *still being* → *remains* entró una concordancia mal; al escribir el veredicto entró ***overweigh*** por *outweigh* | ***outweigh*** estaba escrita **en el propio enunciado**. **La corrección también pasa por el checklist.** ✅ La última ronda no introdujo ninguno — 1ª vez desde el 17-ago |
+| **2026-09-06** | 🗺️ **Task 1 nº4 — MAPA** | Grammatical Range | 🔴 **Mezcla de tiempos verbales** — tres presentes (*goes · is wider · holds now*) junto a pasados correctos | Era el aviso nº1 del ejercicio: **decidir el tiempo primero y no cambiarlo.** Dos planos del pasado → todo en pasado |
+| 2026-09-06 | Task 1 nº4 — mapa | Task Achievement | 🔴 **Ubicación equivocada:** supermercado al **sur** cuando va al **oeste** | En un mapa, la ubicación mal puesta **es información incorrecta**, igual que un número mal leído en un gráfico |
+| 2026-09-06 | Task 1 nº4 — mapa | Coherence & Cohesion | **Último párrafo colapsado:** una sola oración de 36 palabras con empalme de comas y resto de edición (*with provided with*), frente a 90 en el anterior | Cuatro oraciones por párrafo de detalle. Partirlo en tres arregló el empalme **y** el desbalance de un golpe |
+| 2026-09-06 | Task 1 nº4 — mapa | Lexical Resource | *roundpoint* · *were builded* · *the dock* / *sports dock* · *sport campus* · *remained steady* · *crossing **for*** · *converted **to*** · *a new **stage*** | *roundabout* · *were built* · *the **pier*** / *a **marina*** · *a sports **field*** · *remained **unchanged*** · *crossing **through*** · *converted **into*** · *to **accommodate** secondary students* |
+| 2026-09-06 | Task 1 nº4 — mapa | Task Achievement | *increased **three hundred** per cent* — de 20 a 60 casas | ***tripled*** · *increased by 200 per cent*. Aritmética, no inglés |
+| 2026-09-06 | Task 1 nº4 — **ronda 3** | Lexical Resource | 🔴 ***growidening*** — al cambiar *growth* por *widening*, las dos palabras se fusionaron. **En el Overview** | **5ª ocurrencia de resto de edición.** El más peligroso porque **no se ve**: el cerebro lee la palabra que se quiso escribir. Checklist punto 7: **tras cada cambio, releer la oración completa hasta el punto final** |
+| **2026-09-08** | 🆕 **READING — 1ª práctica T/F/NG** (15 preguntas, 11:58 de 20) | Reading | ✅ **12/15 = 80%.** Y **los tres Not Given acertados** (5, 10, 14): el error esperado — **deducir de más** — **no apareció ni una vez** | El instinto de NG está bien calibrado desde el primer intento |
+| 2026-09-08 | Reading — T/F/NG | Reading | 🔴 **Los tres fallos son el mismo fallo: no pesó el cuantificador.** (4) *pesticides are **largely** unnecessary* vs *no pesticides **at all*** → F, marcó T · (11) *Analyses **consistently** find* vs *have **disagreed*** → F, marcó T · (13) ***No** commercial vertical farm produces cereals at scale* → F, marcó NG | **Segunda pasada SOLO a cuantificadores** con el tiempo sobrante: *largely · most · all · no · consistently · only · at least · always · never*. Y ante la duda, leer **solo el verbo principal** de la frase del texto |
+| 2026-09-08 | Reading — T/F/NG | Reading | 📌 **Es la misma debilidad que en Writing, invertida.** Allí le cuesta **poner** matices (hedging, Unit 4); aquí le cuesta **verlos**. Mismo músculo: grados y cantidades | Entrenar los dos lados a la vez: el hedging escrito y la pasada de cuantificadores leída |
+| 2026-09-08 | Reading — T/F/NG | Método | ⚠️ Terminó con **8 min de sobra** y **2 de los 3 errores eran una palabra** que una relectura habría cazado | **El tiempo sobrante no es margen: es la segunda pasada.** Misma lógica que los 4 min de corrección en Writing |
+| **2026-09-08** | ✅ **Reading — 2ª práctica T/F/NG** (12 preguntas, set cargado: 6 False) | Reading | ✅ **9/12.** Y **la pasada de cuantificadores funcionó**: *only* (2), *usually* (6), *most* (7) acertados, y en *every* (8) **detectó el problema** — respondió "T/NG", no T | Lo que falló el martes, corregido en una sesión |
+| 2026-09-08 | Reading — T/F/NG | Reading | 🔴 **PATRÓN NUEVO, 3ª ocurrencia: elige *Not Given* por defecto en vez de *False*.** (8) *several* vs *every* → F, marcó NG · (10) *remains **untested*** → F, marcó NG · + (13) del set 1. **Ya no es atención: es clasificación** | **Árbol de 4 pasos** en `04_Reading_Module.md`. La regla: ***NG significa que buscaste y NO ENCONTRASTE. Si encontraste la frase, es True o False.*** Y: ***"remains untested" no es silencio, es una negación*** |
+| 2026-09-08 | Reading — T/F/NG | Reading | ⚠️ **Error contrario en la 11:** *Several **proposals would** compensate* → marcó T. Vio el tema mencionado y saltó a True | **Propuestas ≠ hechos.** Paso 4 del árbol: habla del tema pero no se pronuncia → **NG**. *Que el texto hable de algo no significa que lo afirme* |
+| 2026-09-08 | Reading — método | Reading | ⚠️ Respondió **"T/NG"** en la 8, sin comprometerse | **En el examen vale cero.** Aplicar el árbol y marcar una. Una respuesta razonada que falla enseña; una sin marcar no puntúa ni enseña |
+| **2026-09-10** | ✅ **Reactivación de las 9 palabras `[~]`** (oraciones propias) | Lexical Resource | ✅ **9 de 11 perfectas.** AWL ahora **200/200 reactivadas**, no solo reconocidas. **maximise** en electrónica (*batteries in parallel maximise current*) — palabra académica en su terreno técnico, uso de banda 7 | Reconocer ≠ producir: era el criterio pendiente del 9-sep, cerrado |
+| 2026-09-10 | Reactivación — *hence* | Grammatical Range | 🔴 *Hence all the products I buy will be from local markets* — **sin causa delante**, arranca en el aire | *hence* = *por lo tanto*: **necesita una causa en la oración anterior**. Test: *¿hence de qué?* Si no hay respuesta → falta la causa. *Local shops support the community; **hence**, I buy there* |
+| 2026-09-10 | Reactivación | Lexical Resource | *the **today's** experiments* (artículo + posesivo) · orto: *advirsor* · *commited* | *today's experiments* (§4.7) · *adviser/advisor* · *committed* (doble t, §4.6) |
+| **2026-09-10** | ✅ **Reading — 1ª Matching Headings** (5 párrafos, 5:06 de 20 min) | Reading | ✅ **4/5 = 80%.** Los cuatro directos, al primer intento con un tipo nuevo. Regla de tacharlos aplicada, orden no asumido | — |
+| 2026-09-10 | Matching Headings | Reading | 🔴 **Párrafo E: marcó iv (*From niche interest to established field*), correcta era vi (*Growing institutional support*).** iv se apoya en la 1ª oración; vi cubre las cinco. **La 1ª oración era el gancho — el distractor** | **Es el mismo patrón del titular del Overview** (Task 1, 25-ago pie chart alemán: *"showed rise"* vs *"overtook coal"*). Un rasgo de una parte en vez de la relación que abarca el conjunto. **Test:** ¿este heading cubre TODAS las oraciones del párrafo o solo una? |
+| 2026-09-10 | Matching Headings — método | Reading | ⚠️ Terminó en **5:06 de 20** — muy rápido. La 5ª tenía dos candidatos (iv/vi) y no hubo pasada de revisión | **El tiempo que sobra NO es margen: es la segunda pasada.** Va a los headings decididos con la primera oración. Misma regla que en T/F/NG el 8-sep |
+
+| **2026-09-12** | 🎯 **TASK 2 nº4** — prompt 5, *Opinion*, 316 palabras en 40 min | Writing | ✅ **Bodies equilibrados por primera vez** (113/105) y **léxico 6.5, el criterio más alto**. Longitud resuelta de forma estable | — |
+| 2026-09-12 | 🔴 **Responder una pregunta más débil que la del enunciado** | Writing · TA | El enunciado decía ***the most important factor***; el ensayo defendió *"la tecnología ayuda mucho"*. **La expresión no reaparece después de la intro.** No comparó la tecnología con ningún otro factor | 🆕 **Gemelo del error de Reading del mismo día** (#7: el ojo en *traced to*, el peso en *single*). **Técnica común: subrayar la palabra que carga el peso ANTES de empezar** |
+| 2026-09-12 | 🔴 **Plantilla de *Discussion* en una pregunta de *Opinion*** | Writing · TA | *"While some argue that… this essay contends that…"*. En *Opinion* la postura ocupa la intro entera. Además la contraparte introducida **no la sostiene nadie y no vuelve a aparecer** | Y **falta el grado**: *"to what extent"* pide una dosis. → *largely agrees · agrees only in part* |
+| 2026-09-12 | 🔴 **Los dos bodies argumentan lo mismo** | Writing · CC | B1 (eficiencia de procesos) y B2 (acceso a recursos) acaban en el **mismo ejemplo**: renovables vs. fósiles. Un solo punto desarrollado dos veces | Consecuencia directa de no haber fijado la pregunta real: sin *"most important"* no hay eje para separar los bodies |
+| 2026-09-12 | 🆕 **Ningún body tiene topic sentence** | Writing · CC | B1 abre con contexto histórico; el argumento no arranca hasta la **4ª oración** | **Regla nueva:** la 1ª oración del body es la tesis **y contiene la palabra clave del enunciado**. *Test: si podría abrir un ensayo sobre otro tema, no es topic sentence* |
+| 2026-09-12 | 🆕 **Pregunta indirecta con inversión** | Writing · GR | *"research about **how can humankind address** this situation"* | Estructural, muy visible para el examinador. → **§4.11** (nueva) |
+| 2026-09-12 | **Empalme de comas** — 2 ocurrencias | Writing · GR | *"quality of life**,** every process…"* · *"thirty years**,** data shows…"* | Reaparece pese a §4.10 y al drill hecho. **Falta el barrido final: no sobró tiempo para corregir** |
+| 2026-09-12 | ***process* tratado como incontable** — 2 ocurrencias | Writing · GR | *"essential process to be more efficient"* · *"essential in process involved"* | `process` **es contable**: plural **`processes`** */ˈprəʊsesɪz/* |
+| 2026-09-12 | **Reincidentes ya logueados** | Writing · GR | *society **are*** · *in the **need of*** · *in ∅ **United States*** · *smaller sizes **that** older models* | **Los cuatro están en el error log desde agosto.** No es desconocimiento: es **ausencia de la pasada de corrección** |
+| 2026-09-12 | **Falsos amigos y régimen** | Writing · LR | *a **temporal** option* (→ temporary) · *corresponds to **search*** (→ the search for) · *leads to **avoid*** (→ avoiding) · *access **to** them* · *impact **in*** · *an increase ∅ around 20%* | *temporal* es el falso amigo puro: en inglés significa *relativo al tiempo* |
+| 2026-09-12 | **Ortografía sin corrector** | Writing | `mitigatethe` · `humakind` · `significan` · `fossiel` | El examen es por computador **sin corrector**. Pasada 3 del checklist |
+
+| **2026-09-14** | ✅ **Task 2 nº4 — v4** (Prompt 5, *Opinion*) | Global | ✅ **Band 6.5 sólido.** 5.5 en frío → 6.5 corregido en 4 pasadas. **Brecha a la mitad** vs la del 6-sep, sin desviación estructural esta vez | Métrica de mantenimiento cumplida |
+| 2026-09-14 | Task 2 nº4 v4 | Grammatical Range | ✅✅ **Pregunta indirecta cerrada** (§4.11). 4 ocurrencias documentadas desde el 12-sep, sobrevivió en v1, v2 y v3. En v4: *research **how humankind can address*** — sin inversión | El patrón *no es que no la sepa: no la veía como error*, hoy la vio |
+| 2026-09-14 | Task 2 nº4 v4 | Coherence & Cohesion | ✅✅ **Empalme de comas con *therefore* cerrado** (§4.10). **8ª ocurrencia total del patrón.** La variante con *however* se cerró a inicios de septiembre; hoy la variante con *therefore* con **punto y coma**: *processes**;** therefore,* | **Los dos patrones cerrados en la misma revisión.** No es corrección — es que los está **viendo** ahora |
+| 2026-09-14 | Task 2 nº4 v3 | Lexical Resource | ⚠️ Corrección introdujo 4 errores nuevos en v2 (*secundary · requering · reamin · fourty*) — todos cerrados en v3 | Confirma otra vez: **editar sin corrector introduce errores propios**. Pasada de ortografía obligatoria tras cada revisión |
+| 2026-09-14 | Task 2 nº4 v2 | Método | 🔁 **Tabla de correcciones a medias** (refinamiento del 2-sep). Aplicó 3 de 10 puntuales en v2, las 7 restantes en v3 | La corrección en tabla **sí se hace** — pero no toda de una. Reglar: **tachar cada fila al aplicarla** para que ninguna se salte |
+| **2026-09-14** | ✅ **Multiple Choice nº 1** (6 preguntas, 7:00 de 15 min) | Reading | ✅ **5/6 = 83%** en el tipo nuevo, al primer intento. Aplicó el método predice-antes-de-mirar y las 4 familias de distractor. Los 3 acertados "fáciles" (T → paráfrasis de *fortnight* = *two weeks*) y los 2 acertados con palabra copiada activada | — |
+| 2026-09-14 | Multiple Choice nº 1 — preg 6 | Reading | 🔴 **Familia 1 avanzada: palabra copiada + cambio de verbo lógico.** Marcó A (*reducing the energy cost*); correcta C. El texto: *initial energy cost can be **offset** by durability at scale*. *Offset* ≠ *reduce* | Subrayar el **verbo de relación** antes de mirar opciones. Ver la trampa META abajo |
+| **2026-09-14** | 🆕 **META — la trampa de la relación lógica** (Reading + Writing) | Meta | 🔴 **Ve las palabras del contenido, pierde la relación entre ellas.** Confirmado en 2 módulos: **MC preg 6** (14-sep, *offset* vs *reduce*) + **Task 2 nº 4 v1** (12-sep, *most important* vs *works*). Los sustantivos son grandes y visibles; los verbos/preposiciones de relación son pequeños y pasan por el radar | ⭐ **Técnica**: subrayar **primero** el verbo/preposición de relación (*offset · most important · because vs while · may vs must*). Reading: ¿la opción conserva esta relación? Writing: ¿mi tesis responde a esta relación? **Mismo músculo, dos módulos.** Detalle en `04_Reading_Module.md` |
+| 2026-09-14 | Multiple Choice nº 1 — tiempo | Método | ⚠️ **3ª confirmación del patrón de tiempo:** 7:00 de 15 min (47%). Sobraron 8 min. El error de la preg 6 era cazable releyendo | **El tiempo que sobra NO es margen. Es la segunda pasada.** T/F/NG 60% · Matching Headings 25% · MC 47%. Ahora tiene **dos capas**: cuantificadores + verbos de relación |
+| **2026-09-14** | ⚠️ **Multiple Choice nº 2** (6 preguntas, 10:00 de 15 min) — set diseñado para trampa META | Reading | **4/6 = 67%.** Bajada esperada en set adversarial. **Las 2 falladas son las 2 preguntas diseñadas META** (preg 4 y 6): (4) marcó *depended on* siendo *may have opened*; (6) marcó *entirely mistaken* siendo *appear to have arrived*. **La trampa hizo lo que se esperaba** | Sub-regla nueva: **Cuando el texto duda, la opción correcta también duda.** Si eliges entre absoluta y tentativa, y el texto usa *may · appear · suggest · might*, marcar la **tentativa** |
+| **2026-09-14** | 🔴🔴 **META CONFIRMADO — 5 sesiones desde el 3-sep** | Meta — Reading + Writing | **Gravitas hacia la versión confiada, absoluta o dramática de una afirmación.** Rastreo: 3-sep hedging (*would*, *"in certain contexts"*) · 10-sep MH (*niche → established* sobre *institutional support*) · 12-sep T2 v1 (*innovation works* sobre *most important*) · 14-sep MC1 (*reducing* sobre *offset*) · 14-sep MC2 (*depended* y *entirely mistaken* sobre *may* y *appear*) | **Temperamento por defecto — decidido.** Ventaja en fluidez y en Not Given. Debilidad cuando el texto es cauteloso: el instinto lleva a la lectura fuerte. **Regla única que resuelve los dos módulos:** en Reading, si el texto duda la opción correcta duda; en Writing, si el enunciado usa *most/because/despite*, mi tesis debe usar el mismo verbo de relación |
+| **2026-09-15** | ✅ **Summary Completion nº 1** (8 huecos, 6:00 de 20 min) — primer estreno del tipo | Reading | **8/8 = 100%.** Trampa del límite de palabras (preg 3) evitada correctamente: el texto dice *lactic acid bacteria* (3) y ella recortó a **acid bacteria** (2, conservando el diferenciador) en vez de copiar literal | Regla operativa: **cuando el término del texto excede el límite, se recorta conservando la palabra más específica** (no la más genérica). Primer 100% de un tipo nuevo en cronómetro |
+| **2026-09-15** | ✅ **Pasaje mixto anti-debilidades** (10 preg, bloque + 2ª pasada, sobraron 18 min) | Reading | **9/10 = 90%.** Las **5 trampas plantadas cazadas 5/5** — 3 de cuantificador (*most/all/consistently*) y 2 META (*primarily/proven*). El instinto reflejo de la semana pasada no cayó ni una vez. **Teoría leída por la mañana aplicada en tiempo real.** | El bucle cerrado: leer teoría → aplicar → funciona. Confirmado que la 2ª pasada capa-por-capa funciona cuando se cronometra obligatoria (no como opción) |
+| **2026-09-15** | ⚠️ **Preg 1 T/F/NG — rango numérico abierto** | Reading | Marcó F. Texto: *fewer than 1,200*. Enunciado: *below 1,500*. Razonó *below 1,500* como rango acotado (1300-1499) en vez de rango abierto. **No fue distracción, fue lectura semántica equivocada de *below*** | Sub-regla nueva en §04 Reading: *below X / fewer than X / under X* nunca acotan por debajo. Aritmética de rangos: si texto < X y enunciado dice *below X*, es TRUE. **Categoría nueva de trampa** — no cuantificador ni META, sino rango numérico |
+| **2026-09-15** | Y/N/NG nº 1 (8 preg, 13:00 de 20 min) — estreno del tipo | Reading | **5/8 = 62.5%.** Errores: preg 1 (posición planteada para tumbarla, marcada Y), preg 4 (afirmación directa marcada NG), preg 5 (relación invertida no vista). El instinto de leer "sonaba a lo que dice el texto" → Y sin ver el giro *"but it does not survive scrutiny"* | Regla nueva: el argumento del autor es CONVERSACIÓN — la posición antes de *but/however/misplaced* es la que rechaza, no la que sostiene |
+| **2026-09-15** | ✅ Y/N/NG nº 2 (drill dirigido, 8 preg, 14:00 de 20 min) | Reading | **6/8 = 75%.** **Las 2 trampas centrales del set 1 cazadas** (preg 1 y 7 — posición planteada). Errores nuevos: preg 3 (paráfrasis con *no measurable increase* leída como ambigua) y preg 5 (trampa META — *at least as much as* leída como *almost entirely*) | 2 patrones nuevos: (a) *no measurable/significant/observable X* = negación práctica, no ambigüedad. (b) *at least as much X as Y* = mismo grado modal exigido en el enunciado — cualquier absoluto en enunciado → NO. **Un mismo músculo, dos direcciones**: ajustar el grado modal al del texto, ni más suave ni más absoluto |
+| **2026-09-17** | ✅ **Y/N/NG nº 3** (6 preg, 6:00 de 15 min) — consolidación | Reading | **5/6 = 83%.** Las 2 trampas centrales de sets anteriores (posición planteada, grado modal META) **cazadas al primer vistazo**. Único error: preg 2, *no measurable improvement* leída como reporte ajeno (opinión del trial), no como hallazgo empírico endosado por el autor | Sub-regla nueva en §04 Reading: hecho citado (*reported, found, showed*) sin objeción = del autor. Opinión citada (*argued, claimed*) sin marcador = NG. **Y/N/NG cerrado tras 3 drills: 5/8 → 6/8 → 5/6** |
+
+| **2026-09-20** | 🔴 **PASAJE COMPLETO Nº1** — *mass timber*, 4 tipos, 13 preguntas | Reading | ✅ **11/12 = 92%** en **23:00 de 25**, con 2ª pasada hecha. **MC 4/4 · Y/N/NG 3/3 · Summary 1/1 · T/F/NG 3/4.** Cinco de las seis trampas plantadas, esquivadas | **Calibración del ejercicio: lista para el pasaje real de 40 preguntas.** Ritmo dentro de los 20 min/pasaje del examen |
+| 2026-09-20 | ⭐ **META de grado modal, esquivada** | Reading · MC | Pregunta 7: *"depends **less on** the material's technical merits… **than on** the willingness of the industry"*. Eligió la segunda mitad | Era la diseñada como más difícil. **El patrón META identificado el lunes 14 resistió a escala real** |
+| 2026-09-20 | ⭐ **Doble condición y posiciones-paja, esquivadas** | Reading | Preg 8 (*only where… and…*), preg 9 y 10 (posición planteada para tumbarla) | Todo lo aprendido en las dos semanas previas aguantó: **9/9 en lo nuevo** |
+| 2026-09-20 | 🔴 ***Not Given* donde iba *False*** — **4ª ocurrencia** | Reading · T/F/NG | Preg 4: *"codes in **most jurisdictions** still **prohibit** … **above four storeys**"*. Se ancló en `most` (texto dice *several*) → NG. **Pero *"current codes allow… up to roughly twenty-five storeys"* lo hace imposible** → FALSE | 🆕 **TÉCNICA DE LAS DOS CANDIDATAS:** si un enunciado tiene varias palabras que podrían cargar el peso, **comprobarlas todas**. Una sola que quede resuelta como imposible → **FALSE**. `NG` exige que **ninguna** quede resuelta |
+| 2026-09-20 | 🆕 **Eco numérico como distractor** | Reading | *"four storeys"* aparece 2 veces en el pasaje, pero en el **conteo de edificios**, no en los códigos. El número reciclado en otro contexto hizo parecer revisada esa parte del enunciado | Añadir a la 2ª pasada: **¿el número que encontré está en el MISMO contexto que el del enunciado?** |
+| 2026-09-20 | ✅ **Calibración de *NG* — diagnóstico afinado** | Reading | Acertó los **dos `NG` legítimos** (#2 cuantificador *all… currently produced*, #11 dato no comparado) | **No sobreusa NG.** Se le escapa un `False` concreto **cuando hay más de una palabra candidata**. Diagnóstico mucho más fino que *"confunde F con NG"* |
+| 2026-09-20 | ⚠️ **Ítem 13 anulado — 2ª vez el mismo defecto** | Reading · método | *"develops **a** (13) ______"*, límite 2 palabras. *layer of char* = 3 y encaja; *char* cumple el límite pero *"develops a char"* no es inglés. **No existe respuesta válida** | **Lo detectó ella, por segunda vez** (la 1ª: ítem 11 del 12-sep). **Regla para el examen real:** si la respuesta que encaja gramaticalmente excede el límite, **no es la respuesta** — el límite se penaliza mecánicamente |
+
+| **2026-09-22** | Task 2 nº 5 v1 (Discussion, 40 min) | Writing | **~Band 6 en frío** (nº 4 v1 fue ~5.5). Cero empalmes de coma. Ejemplos distintos en cada body ✅. Fallos: topic sentences sin palabra clave (2ª vez), tesis desviada a *ética* en vez de elegir visión, **sujeto omitido** (*where are applied*), falso amigo nuevo **employs → employment**, *it is clear that* (META) | Topic sentence = palabra del enunciado en la oración 1. Nunca omitir sujeto: *where **they** are applied*. *empleos* = **jobs / employment** |
+| **2026-09-22** | Task 2 nº 5 v2 | Writing | **~6.5.** 19/21 filas aplicadas. Topic sentences ✅. Pero la conclusión reescrita **contradice la tesis** (vuelve al *should*) y concentra 5 errores nuevos (*where/were, lose/loss, During history, increment*). Falso amigo nº 7: **supposed** | La oración 2 de la conclusión = la tesis de la intro, **misma idea**. Falsos amigos: *result · apparently · retire · experimented · offer · employs · supposed* |
+| **2026-09-22** | ✅ Task 2 nº 5 v3 — cerrado | Writing | **~6.5 sólido, rozando 7** en 3 versiones (nº 4 necesitó 4). Tesis = conclusión ✅. Solo 2 typos al transcribir (*emininate, given rose*). Body 2 más corto que Body 1 | Equilibrar bodies: si uno tiene 4 oraciones, el otro también. Al copiar un modelo, releer palabra por palabra |
+| **2026-09-23** | Task 1 nº 5 v1 (tabla, 19:55 de 20) | Writing | **~5.5–6.** Longitud ✅ (~245) y Overview sin dígitos ✅. 🔴 **Titular perdido** (metro supera al bus). Datos mal calculados (*2.5* por triple). Porcentajes en vez de cifras. Concordancia *every… their*, *increase were*. Sin tiempo de corrección | Los 60 segundos: buscar **cambio de posiciones** primero. Reportar **cifras de la tabla**, no porcentajes calculados. Sustantivo cabeza singular → verbo singular. Cosas → *its*, no *their* |
+| **2026-09-23** | ✅ Task 1 nº 5 v3 — cerrado | Writing | **~6.5 sólido / 7.** Titular recuperado, datos exactos, cifras de la tabla. En la v2 volvieron la **costura** y el aviso en prosa no aplicado; en la v3, 6/7 filas | Correcciones solo en tabla. *its/their* concuerda con su sujeto: *tram use → its*, *tram journeys → their* |
+| **2026-09-23** | Task 2 nº 6 v1 (Opinion, 22 de 40 min) | Writing | **~6.** Fluidez sin pánico, ~330 palabras, bodies equilibrados ✅. 🔴 **Grado de la postura cambia**: *largely* (intro) → *completely* (conclusión) — **META otra vez**. Body 1 narra historia en vez de dar razón. Empalme con *as a consequence*. Falso amigo nº 8: *America* | El grado de la intro se copia **tal cual** en la conclusión. Topic sentence = razón, no contexto. *as a consequence / therefore / however* entre dos oraciones → punto y coma |
+| **2026-09-23** | ✅ Task 2 nº 6 v3 — cerrado | Writing | **~6.5 sólido / 7.** 8/8 filas. Grado *largely* constante + concesión rural. Solo queda *in United States* sin artículo (2ª vez: también el 12-sep) | ***the** United States / **the** UK / **the** Netherlands*: países con nombre plural o de unión llevan *the* |
+| **2026-09-23** | 🎯 **Pasaje real completo nº 1** (3 pasajes · 40 preg · 42 de 60 min) | Reading | **34/40 → ~Band 7.5** — ya en la meta (7.5–8). 6 fallos, 6 causas: eco léxico (*horizontal*), sobre-inferir NG, heading de una oración (3ª vez), calificador ignorado (*in cold climates*), hecho endosado leído como NG (2ª vez), **F en un Y/N/NG** (3ª vez) | Mirar la instrucción del bloque antes de responder. Hecho citado con *showed/found* = YES/NO, nunca NG. El calificador del enunciado (*in cold climates*) elige entre candidatas. Pasajes reales son ~40 % más largos: vigilar el ritmo |
+| **2026-09-24** | Matching Information nº1 (~720 palabras, 13:40 de 20) | Reading | **7/9.** 5: C por E (un método lento ≠ limitación de los estudios de laboratorio). 6: F por H (*could* = posibilidad, no predicción de niveles) | Comprobar que la categoría se aplique **al sujeto completo** de la pregunta, no a una palabra parecida |
+
+| **2026-09-27** | 🏆 **Matching Features + Sentence Endings nº1** *(2 tipos nuevos)* | Reading | ✅ **12/12 = 100%** en 15:14 de 20. **Primer intento con los dos tipos.** Las cuatro trampas plantadas, esquivadas | **Con esto quedan vistos y practicados TODOS los tipos de pregunta de Reading** |
+| 2026-09-27 | ✅ **CERRADO: elegir por palabra parecida sin comprobar el sujeto** | Reading · Matching | Preg 8: el final F (*"where memories become permanently linked to existing knowledge"*) describe **el córtex** y está en el mismo párrafo que el hippocampus. Marcó **A**, la definición literal del sujeto | **Es la trampa que la tumbó el 24-sep** (preg 5 y 6 de Matching Information). **Cerrada en 3 días** |
+| 2026-09-27 | ✅ **Instrucción-presión ignorada correctamente** | Reading · método | El *NB You may use any letter more than once* era falso: ninguna letra se repitió. No forzó repeticiones ni dudó de emparejamientos correctos | La instrucción marca lo **permitido**, no lo **esperado** |
+| 2026-09-27 | ✅ **Grado modal en Matching Sentence Endings** | Reading | Preg 9: Tononi es el escéptico del replay, pero el texto dice *"does not deny that replay occurs; he simply **doubts** it is the main mechanism"*. Marcó *accepts that memories are replayed* | El patrón META/grado modal aguanta en un tipo de pregunta nuevo |
+| **2026-09-27** | 🔴 **LISTENING Y SPEAKING SIN MEDIR — 6 semanas para el examen** | Planificación | **Listening: 0 prácticas** desde que se leyó el módulo el 6-ago. **Speaking: 0 grabaciones** desde el 9-ago. La semana 10 del cronograma era Listening entera y se ocupó con Reading y Writing | 🔴 **La banda global es el promedio de los cuatro módulos.** Con Reading 7.5 y Writing 6.5, el global depende de dos módulos de los que no hay ni un dato |
+
+| 2026-09-29 | 🔬 **Mecanismo de los fallos de deletreo — identificado** | Listening | **Los nombres de las vocales inglesas suenan como OTRAS letras en español:** *A="ei"* → el oído quiere E/I · *E="ii"* → quiere I · *I="ai"* → quiere A. **La intuición apunta a la letra equivocada**, no falta | **Y la colisión A/H es real:** *"**ai**tch"* empieza con el sonido de la A. La diferencia está en el final (*-tch*). → **Drill A-E-I y A-H en voz alta, 90 s diarios** |
+| 2026-09-29 | ⚠️ **Ortografía de palabras: consonante doble** | Listening · Writing | S4 del mock: `flamable` por **flammable**. Interferencia del español (*inflamable*, una `m`) | Familia: *flammable · committee · recommend · necessary · address · professional · **accommodation*** ← **la palabra más frecuente de la Sección 1 del IELTS** |
+| **2026-09-28** | Mock oficial Listening (recuperado del portal el 29) | Listening | Sección 1: 6/10. **3 fallos = vocales deletreadas**: RI6GH7→rs6ga7, PA365→pi365, E6→a6. S4: *flamable* (flammable), *slicks* (largest) | Tabla de letras: **A=ei · E=ii · I=ai · H=eich · G=yi · J=yei · R=aa · Y=wai**. Drill diario de 3 min |
+| **2026-09-30** | Note completion ×2 (portal) | Listening | **7/10.** *webside* (website) · *THONT* (THORNE, deletreado) · *PARK* (Willow Room, distractor). Números 4/4 ✅ · vocales A/E/I 0 errores ✅ | Deletreo: escribir **letra por letra** lo que dictan, no la palabra que suena. Palabras conocidas: escribirlas como se escriben. Mirar las palabras alrededor del hueco (*The ___ Room*) |
+| **2026-09-30** | Map labelling nº1 (portal) | Listening | **3/5.** *camp fire* (campfire: ONE WORD ONLY) · *forest* (lake: el plan cambia tras *but*) | Compuestos de una palabra: *campfire, website, notebook*. En el audio, lo que viene **después de *but / actually / instead*** es la respuesta |
+| **2026-09-30** | Map labelling nº2 (portal) | Listening | **2/5.** Cambió *coins* (correcta) por *manuscripts* · *bathrooms* por **toilets** (sinónimo propio) · *caffee* (cafe) | **No cambiar la primera respuesta** sin contradicción explícita. Escribir **la palabra del audio**, nunca un sinónimo. *cafe* = 1 f |
+| **2026-10-01** | Mock Listening nº2 (portal, timed) | Listening | **24/40 ≈ 6.0.** 5 de ortografía de palabras entendidas (*contends, fourty, Zeland, two millions, chipping*) · 1 blanco (postcode) · 10 de comprensión/opciones. Vocales A/E/I: 0 ✅ | Lista fija de ortografía (forty, Zealand, contents, *two million*). **Cero blancos**: si no se oye el código, escribir algo con el formato (letra-número) |
+| **2026-10-01** | Task 2 nº7 v1 (Problem–Solution, e-waste, 37:29) | Writing | **~6 en frío.** 319 palabras ✅ premisa no demostrada ✅. Bodies 123 vs 86 (3ª vez). Body 2 sin ejemplo. Ortografía: *wasted, disscused, appropiate, adquire, Nowdays, throught*. Falsos amigos nuevos *actual, increment*. Concordancia ×3 (*batteries requires, they ends, who avoids*) | Barrido de 5 min **completo**: s/-s de cada sujeto plural. Contar oraciones de cada body antes de la conclusión. Lista de ortografía compartida con Listening |
+| **2026-10-01** | ✅ Task 2 nº7 v3 — cerrado | Writing | **~6.5 sólido/7** en 3 versiones (3er ensayo seguido con esa curva). Solo 1 typo (*larg-scale*). Idea de marketing sin ejemplo | **La brecha frío → corregido sigue en ~1 banda.** Meta del examen: que la v1 salga como v2 → barrido de 5 min completo |
+| **2026-10-08** | Reading mantenimiento (night trains, 12:28 de 20) | Reading | **7/10.** 5: T por **NG** (*is less clear* = no se sabe) · 7: T por **F** (2018 → fin 2023 = 5 años, no 2) · 9: *operators* por **access fees** (la palabra cerca, no la que encaja con *make up costs*) | *less clear / uncertain / not established* → NG. Dos fechas → **restar**. Summary: la palabra tiene que encajar con el **verbo** |
+| **2026-10-08** | Task 1 nº6 v1 (líneas, renovables, ~19:27) | Writing | **~5.5.** 226 palabras pero **divagación**: Colombia repetida en 4 párrafos, **Alemania y UK sin una sola cifra**. Dígitos en el Overview. Dato falso (Japón *highest*). 5 párrafos desequilibrados. Empalme de coma | **Overview = ideas; detalle = cifras.** Lo dicho en el Overview no se repite. 4 párrafos, no 5. Cada país del Overview necesita ≥2 cifras en el detalle |
+| **2026-10-11** | 🎤 Speaking Parte 1, set nº1 (primera medición) | Speaking | **~6–6.5.** *all the day* ×3 · *too many* = demasiados ×2 · falta present perfect con *since / lately* · *used to* por *usually* · *midnight* por *afternoon* · *unemployed* / *can't pay* (dijo lo contrario) · pregunta indirecta invertida · respuestas de 110–180 palabras | Parte 1 = **2–3 oraciones**. Al trabarse: **pausa en silencio**, no repetir la palabra. Lista de 5 errores en `14_Speaking_Archive.md` |
+| **2026-10-12** | Speaking Parte 3, set nº1 (role models) | Speaking | **~6.** Fluidez mejor que ayer (casi sin *emm*). **Sin L en las 4 respuestas** (nunca presenta el otro lado). *Having said that* usado para concluir. *used to* por presente (2º día) · *I will say* · doble sujeto · *persons* · *more nearer* | Toda respuesta de Parte 3 termina con **Having said that… + On balance…** |
+| **2026-10-13** | Reading (urban noise, 10:34 de 20) | Reading | **10/12. Headings 6/6** (patrón de una sola oración no apareció). 9: NG por **F** (*proved… only cause* vs *not fully controlled*) · 12: F por **NG** (dos ciudades populares, sin comparación) | Palabra absoluta (*only, all, proved*) + texto que la limita = **F**. Comparación que el texto no hace = **NG** |
+| **2026-10-14** | 🎧 Listening MC nº1 (Port Blossom) | Listening | **3/4.** Q1 C (sea) → B (headland): marcó la primera opción mencionada; la correcta venía después de *while… the most significant influence is* | En MC, esperar el marcador de prioridad o giro (*the main / most / actually / but*) antes de marcar |
+| **2026-10-14** | 🎧 Map labelling nº3 (reserva con lago) | Listening | **3/5** (igual que el 11-oct). Q4 E→B: *"you may have noticed when you arrived"* = está junto a la entrada · Q5 B→G: *south-west corner* y marcó el norte | Antes del audio: ubicar las **entradas** y la brújula. *south-west* = abajo a la izquierda. *when you arrived / on your way in* = cerca de la entrada |
+| **2026-10-14** | 🎧 Map labelling nº4 (teatro, interior) | Listening | **1/5.** Se perdió en la 2 y arrastró el error a las siguientes. Cambió la 1 cuando ya estaba bien | Plano interior: anclar en **escenario/entrada** (*in front of / behind / upper side / top-left*). Si te pierdes, suelta esa y engánchate a la siguiente. No cambiar una respuesta sin una razón concreta |
+| **2026-10-15** | 🎧 Map labelling nº5 (gimnasio) | Listening | **4/5** (de 1/5). Q5 adivinó: *second room to the right of the main entrance, next to the weights room* | Cada pregunta tiene su propia ancla: **reanclar** en cada pregunta y contar habitaciones desde ella (*second room to the right of…*) |
+| **2026-10-15** | 🎧 MC nº3 (sección 3, discusión de estudiantes) | Listening | **2/4.** Q2 C→B (*in isolation, without context* = *not how words are used*) · Q4 B→A (*a tool to use afterwards* = *useful resource*); eligió lo que sonaba lógico | En sección 3 todas parecen válidas: elegir la que **reformula lo que se dice**, no la más razonable. Si una opción no tiene una frase espejo en el audio, descartarla |
+| **2026-10-15** | 🎧 MC nº4 (sección 3) | Listening | **5/6.** Q4 A→B: se mencionan las dos cosas y se acuerda una (*present it as a future trend*) | En *agree / decide*: buscar la **decisión final** (*let's / we can / we should*), no lo mencionado de paso |
+
+| **2026-10-18** | ✍️ **Task 2 nº8 en frío** — *two-part question* (tipo nuevo), 300 palabras en 34 min | Writing | **v1 ~6.0 → v3 ~6.5 sólido/7 en 2 rondas** *(los nº5–7 necesitaron 3)*. Bodies 100/97, el equilibrio más fino hasta ahora | Estructura del tipo nuevo entendida: B1 = pregunta 1, B2 = pregunta 2 |
+| 2026-10-18 | 🔴 **Veredicto invertido en la última frase del Body 2** | Writing · TA/CC | Escribió *"could have a **positive** impact"* donde todo el ensayo defiende lo contrario. Faltaba un *not* | **Patrón *"el veredicto en preguntas de sí o no"*, abierto desde el 6-sep.** 🆕 **Regla: leer la última frase de cada body SOLA, en voz alta** |
+| 2026-10-18 | 🆕 **Coma entre sujeto y verbo** | Writing · GR | *"Those students who cannot afford private institutions**,** find…"* | Hábito del español con sujetos largos. **En inglés nunca se separan** |
+| 2026-10-18 | 🔴 **Correcciones que traen errores — 6ª y 7ª ocurrencia** | Writing · método | v2 introdujo **`overal`** (no existía en la v1) y cambió `home countries` → **`local countries`**, la palabra marcada como incorrecta en el mismo mensaje. v3: *collaborate with* → ***contribute with***, dejando la preposición vieja colgando | 🔴 **La regla del checklist se saltó: tras cada cambio, releer la ORACIÓN ENTERA hasta el punto final** |
+| 2026-10-18 | ⚠️ **`need of` — error vivo más antiguo** | Writing · GR | *"due to the **need of** professionals"* | **Logueado el 9 de agosto.** 70 días abierto |
+| 2026-10-18 | ⚠️ **Falsos amigos nuevos** | Writing · LR | ***principal*** por *main* (en inglés = director de colegio) · ***contribute with*** (calco de *contribuir con*) · ***local* countries** por *home countries* | |
+| 2026-10-18 | 🔴 **El barrido final no se hizo, con 6 min de sobra** | Writing · método | Terminó en 34 de 40. **5 de los 8 errores de gramática eran cazables** sin saber más inglés | **El examen solo ve la v1.** La brecha frío/corregido no es de inglés: es de minutos sin gastar |
+
+| **2026-10-19** | 🎧 Matching categorías nº1 | Listening | **4/5.** Q2 D→E: *Pronunciation Clinic* → eligió *understanding spoken language* por asociación; el audio decía *give talks or presentations* | Igual que en MC: **no la opción que encaja con el nombre, la que reformula lo que se dice** (frase espejo) |
+| **2026-10-19** | 🎧 MC nº5 (sección 3) | Listening | **3/4.** Q3 A→C: el audio describe la estructura (*longer span, fewer piers*) pero la razón es *better for the aquatic ecosystem* | En preguntas **Why**: la respuesta es **la consecuencia final** (*which is better for… / so that…*), no el mecanismo. Si dudas entre dos: la que contiene la **conclusión**, no los datos |
+| **2026-10-19** | 🎧 Form completion nº2 | Listening | **4/6.** Teléfono `07900318317` → **07944318257** (*double four*); `50` → **15** (*fifteen*) | **Números:** *-teen* lleva el acento al final y una **n** larga (fif-**TEEN**); *-ty* lleva el acento al principio (**FIF**-ty). *double X* = escribir XX. Teléfonos: escribir **en grupos** mientras los dictan |
+| **2026-10-20** | 🎤 Parte 1 (Gemini) | Speaking | `I will say` (**4ª vez**) | **`I'd say`**. Hábito fosilizado: drill diario de 1 min hasta el examen |
+| **2026-10-20** | 🎤 Parte 1 (Gemini) | Speaking | `If I would have to choose… it will be` | **If I had to… it would be**. Nunca *would* después de *if* |
+| **2026-10-20** | 🎤 Parte 1 (Gemini) | Speaking | `used to` para hábitos actuales (*my cats used to be*, *I used to play*) | *used to* = **ya no**. Si sigue pasando: presente simple + *usually* |
+| **2026-10-20** | 🎤 Parte 1 (Gemini) | Speaking | `it's where I have more energy` (la mañana) · `beside that` · `That are` | Tiempo → **when** · **besides** that · plural → **Those are** |
+| **2026-10-20** | 🎧 MC nº6 (sección 3) | Listening | **3/6.** Q4 eligió C (*detailed description*) cuando el tutor dijo *not just describing, but synthesising*; Q5 se perdió la señal *common mistake*; Q2 eligió un eco | **NOT JUST X, BUT Y → la respuesta es Y; la opción con X es la trampa.** Las palabras de la pregunta (*mistake, advantage, reason*) se repiten en el audio justo antes de la respuesta: **cazar la palabra de la pregunta** |
+| **2026-10-20** | 🎧 Note completion nº3 (sección 4) | Listening | **4/10.** `mountains` por *terrain* (oyó *mountainous terrain*); `collapse` por *scandal* (*financial scandal… led to the collapse*) | **Escribir la palabra que SUENA, no tu paráfrasis.** Comprobar la gramática del hueco: después de un adjetivo (*financial*) va el sustantivo que lo sigue en el audio |
+| **2026-10-20** | 🎧 Note completion nº3 | Listening | `1940` por **1914** (*nineteen fourteen*), la 3ª vez con -teen/-ty en dos días | **Años:** *nineteen FOURTEEN* = 19**14**. En un año, el segundo par casi siempre es -teen o -ty: escucha si la **n** suena larga |
+| **2026-10-20** | 🎧 Note completion nº3 | Listening | `diname` → **dynamite** | Ortografía de palabras técnicas conocidas: *dynamite, terrain, sanitation* |
+
+| **2026-10-20** | 🎤 **Parte 3 set nº3** — 3 respuestas | Speaking | ✅ **`I'd say` CERRADO** (4ª vez marcado, salió solo) · ✅ **`On balance` al final**, corregido en 2 días · ✅ **especulación y condicional aplicados el mismo día que se enseñaron** | Mejor producción oral hasta la fecha: el condicional Francia–África de la nº3 |
+| 2026-10-20 | 🔴 **`Having said that`: 0 de 3** — argumenta un solo lado | Speaking · CC | La nº1 dio **dos evidencias, las dos de su lado**. Nunca aparece la contraparte | 🔴 **Mismo patrón que el 12-sep por escrito** (los dos bodies con el mismo argumento). **Cruza Writing y Speaking.** 🎯 Truco: tras el ejemplo, *"¿quién estaría en desacuerdo y por qué tendría parte de razón?"* |
+| 2026-10-20 | 🆕 **Falso amigo nº13: `labor`** | Speaking · LR | *"instead of **labor** ones"* por *trabajos manuales* | `labour` = **mano de obra / trabajo en general**, nunca *físico* → **manual jobs**. Familia de *laboral* (agosto) |
+| 2026-10-20 | 🆕 **Falso amigo nº14: `media`** | Speaking · LR | *"more developed than **the media**"* por *que la media* | *la media* = **the average**. `media` en inglés = **los medios de comunicación** |
+| 2026-10-20 | ⚠️ **Colocación: `deeply agree`** | Speaking · LR | *"I would **deeply** agree"* | → **`I'd strongly agree`**. `deeply` va con *regret · care · affect · concerned* |
+| 2026-10-20 | ⚠️ **Reincidentes en el habla** | Speaking · GR | *jobs that **requires*** · *physical **efforts*** (incontable) · *doesn't reduce **the** traffic* · ***the** other studies* · *governments **definitely should*** | **Los mismos del error log de Writing**, apareciendo al hablar |
+| 2026-10-20 | 🔬 **Dos habilidades CONTRARIAS en la Parte 4** | Listening | Mismo día: **Flow chart 100%** *(opciones)* vs **Note completion sección 4 4/10** *(escribir)* | **`Choose the correct letter`** → reconocer la paráfrasis. **`Write ONE WORD`** → **prohibido parafrasear, se copia la palabra que SUENA**. El cerebro sigue en modo *entender* cuando toca modo *copiar* |
+
+
+| **2026-10-21** | 📖 YNNG nº? (23983, *More Than a Feeling?*) — **5/7 (71%)** | Reading | Q3 `YES` → **NOT GIVEN**: *limerence → more emotional fatigue **than** physical*. El texto: *"emotional **and** physical fatigue"* | 🔴 **Comparación inventada.** Si la frase compara (*more… than*, *stronger than any*) y el texto **no compara**, es **NOT GIVEN** · Ella: *"no leí el than"* → **subrayar las palabras pequeñas que cambian todo**: *than, only, all, never, most* |
+| 2026-10-21 | 📖 YNNG 23983 | Reading | Q6 `YES` → **NOT GIVEN**: *pair-bond drive stronger in humans **than in any other species***. El texto solo dice que es *a deep-seated evolutionary imperative* (y compara a los **niños**, no el impulso) | Misma trampa: **el tema está, la comparación no**. *"other species"* aparece en el texto, pero en otra frase y para otra cosa · Ella: *"el autor parecía afirmarlo"* → 🔴 **inferir ≠ afirmar**: YES solo si el autor lo **dice**, no si *suena* a que lo cree |
+
+| **2026-10-22** | 🎧 Note completion sección 4 nº4 (26167, *Vertical City & Arcology*) — **7/10** *(de 4/10 el 20-oct)* | Listening | Q5 `beds` → **silt**: *"pouring concrete over **a bed of silt**"* | Agarró el sustantivo de la **estructura** (*a bed of*) y no el **contenido**. En *a bed / a layer / a piece **of** X* → la respuesta es **X** |
+| 2026-10-22 | 🎧 26167 | Listening | Q8 `psichological` → **psychological** | Ortografía: **psych-** (*psychology, psychological, psychiatrist*) |
+| 2026-10-22 | 🎧 26167 | Listening | Q9 `governments` → **governance** | Escribió una palabra **parecida** a la que sonó, no la que sonó. Además *a system of ___* pide un **concepto**, no personas/instituciones. Misma regla del 20-oct: **copiar la palabra exacta** |
+
+| **2026-10-22** | 📖 TFNG 28127 (*The Friendship Test*) — **3/4 (75%)** | Reading | Q3 `FALSE` → **NOT GIVEN**: *friendship success **largely determined by financial resources***. El texto: las **diferencias de presupuesto** causan tensión | 🔴 **Mismo tema ≠ misma afirmación.** El texto habla de dinero, pero no dice **qué determina el éxito**. Para FALSE hay que poder señalar la frase que lo **niega**; aquí no la hay → **NG**. Q4 (comparación *city vs nature*) ✅ bien: la regla de ayer ya funcionó · Su razón: *"el éxito se basa en la comunicación, el texto lo dice"* → 🔴 **Una alternativa no es una negación.** El texto dice que la comunicación es *paramount in mitigating conflicts* (uno de varios factores), **no** que el dinero no importe. Para FALSE el texto tiene que **descartar** la afirmación |
+
+| **2026-10-24** | ✍️ **Task 1 nº7 en frío** — barras, 248 palabras, 20 min | Writing | **~5.5–6** (8-oct: 5.5). ✅ **Overview sin dígitos, con titular** — lo que se medía | Le faltó el titular *"smartphones, el mayor crecimiento"* |
+| 2026-10-24 | 🔴 **Afirmación falsa sobre los datos: *all*** | Writing · TA | *"the highest increase for **all** technologies"* en 2005–15; **la Smart TV creció más en 2015–25** | 🔁 **La lección de Reading al revés:** *all* carga el peso también al escribir. **Comprobar cada barra antes de *all/every/both*** |
+| 2026-10-24 | ⚠️ ***peak*** mal usado | Writing · LR | *"the most remarkable **peaks** in 2015"* (los máximos están en 2025) | `peak` = punto más alto; salto grande = **rise / increase** |
+| 2026-10-24 | 🔴 **Coma sujeto–verbo ×2 · empalmes ×2** | Writing · GR | *Solar panels instead**,** showed* · *both… smart tv**,** increased* | Reaparece la del 18-oct |
+| 2026-10-24 | 🔴 **3 typos sobrevivieron 20 min de revisión** | Writing · método | `increseased` · `accesibility` · `houlseholds` | **Relee por sentido y el ojo completa la palabra.** 🆕 **Dos barridos separados: sentido / ortografía palabra por palabra con el cursor** |
+| 2026-10-24 | ⚠️ **Sobrelongitud: 248 / 5 párrafos** | Writing · CC | Internet repetido en Overview, párrafo 3 y párrafo 5 | Objetivo **170–190, 4 párrafos**. Agrupar una vez |
+
+
+| **2026-10-24** | 🎤 **Speaking mock oficial nº2 — sin nota** | Speaking | FlexCheck es de pago (el 12-oct fue crédito de prueba). **El "7.5" que vio era la META** (`6 / 7.5` = actual / meta). El portal tiene S en **5.5** | Estimación honesta: **S 5.5–6.0**, el módulo más lejos del 6.5. **Medición → Gemini con prompt estricto** (`14_Speaking_Archive.md`) |
+| 2026-10-24 | 🔴 **Entrar en frío — 2º módulo** | Speaking | *"Me sentí muy fría, me quedaba sin respuesta… con Gemini hago warm-up y esto fue en frío"* | **Mismo hallazgo que el Listening del 18-oct** (con protocolo: 100% ×2). 🆕 **Protocolo de calentamiento para el examen**: 5 min de inglés en voz baja antes de entrar · 3 frases ancla · 1ª respuesta de la Parte 1 siempre larga |
+
+
+| **2026-10-24** | 🤖 **Gemini, prompt estricto: Speaking 6.0** (FC 6 · LR 6 · GR 6 · P 6.5) | Speaking | **Coincide con FlexCheck 12-oct (6.0).** ✅ **1ª Parte 3 con las dos caras** (*but on the other hand*) — el 20-oct fue 0/3. Faltó *On balance* | **S = 6.0 confirmado por dos evaluadores.** Falta medio punto |
+| 2026-10-24 | 🔴 **El hábito real: `will` por `would`** | Speaking · GR | ***I will prefer*** ×2 (Gemini lo contó mal como *I will say*) | 🆕 **Regla: español en -ría → `I'd`** (*diría, preferiría, me gustaría, elegiría*). Drillar **el patrón**, no la frase |
+| 2026-10-24 | 🆕 **Falsos amigos nº15 y nº16** | Speaking · LR | *visiting a **familiar*** (→ relative) · *very **insecure** for women* (→ **unsafe**) | + ***during** six months* → **for** (*durante* + duración) |
+| 2026-10-24 | ⚠️ **Hábitos cerrados que volvieron bajo presión** | Speaking | ***The last year*** (cerrado en drill el 18-oct) · *impacts **negatively** the cities* (error nº5 de agosto) · ***the** public transport* | Lo cerrado en drill **todavía no aguanta la presión**. Drill diario |
+| 2026-10-24 | ⚠️ **Reinició la Parte 2** | Speaking · FC | *"I didn't end. Wait. I will start again."* | **Nunca reiniciar**: *…or rather… / …what I mean is…* |
+| 2026-10-24 | ⚠️ **Gemini: banda fiable, lista de errores no** | método | Se le escaparon ~8 errores; transcripción no literal; marcó como error *the churches there* (correcto) | ✅ Prompt actualizado en `14_Speaking_Archive.md` |
+
+
+| **2026-10-24** | ✍️ **Task 2 nº9 en frío** — *Discussion*, 279 pal., 38:25 | Writing | **~5.5–6.** Intro con plantilla perfecta, ejemplo propio, sin coma sujeto–verbo ✅ | Bodies 73/90 |
+| 2026-10-24 | 🔴🔴 **Discussion con UNA sola visión** | Writing · TR | Body 1 = empleo · **Body 2 = empleo otra vez** (soft skills para el trabajo). **Nadie defiende el conocimiento *for its own sake*** | 🔴 **El patrón que cruza módulos** (12-sep escrito · 20-oct Speaking · hoy). **Palabra que carga el peso ignorada:** *for its own sake, regardless of whether it leads to a job*. 🆕 **Regla:** en el plan, una frase por visión como si la creyera; **¿la de B podría defender A?** → si sí, falta B |
+| 2026-10-24 | 🔴 **Verbos** | Writing · GR | ***teached*** (→ taught) · *does not **means*** · *to **certificate*** (→ certify) | Pasaron con 1:35 de sobra: **el barrido de verbos/ortografía no se hizo** |
+| 2026-10-24 | 🆕 **Falsos amigos nº17 y nº18** | Writing · LR | ***formed** professionals* (→ trained/qualified) · *the **integral** space* (→ all-round development) | + ***employ*** por *employee* (2ª vez, sep) |
+| 2026-10-24 | ⚠️ **Reincidentes** | Writing | ***Over the last years*** (18-oct) · ***access to** knowledge* (12-sep) · **punto y coma mal** (18-oct) · *despite of / in spite of whether* · *argue how* | |
+
+
+| **2026-10-25** | 🏁 **Listening mock completo nº1: BAND 6.5** 🎉 (≈29/40, 24:09) | Listening | **Primer L por encima de 6.0.** P1 8/10 · **P2+3 19/20** · P4 2/10 | **P1–3 = 27/30 (nivel 7–8). Todo lo que falta es la P4.** Con 5/10 en P4 → 7.5 |
+| 2026-10-25 | 🔴 **Z = "zed" — costó un punto** | Listening · P1 | `ecpd` por **EZPD** | Estaba en la tabla desde el 28-sep |
+| 2026-10-25 | 🔴 **Cambió la palabra del audio por la suya** | Listening · P1 | `3 days` por **3 nights** | Regla del 20-oct: **copiar lo que suena** |
+| 2026-10-25 | 🔴 **P4: siete seguidas mal tras la 33** | Listening · P4 | *"me perdí demasiado en la mitad de la sección 4"* · `centigrate` (→ centigrade) | **Mismo patrón del 18-oct: perseguir el audio.** Saltar al siguiente encabezado |
+| 2026-10-25 | ⚠️ **Nervios: "Finish" pulsado por error** | método | Test enviado a los 7:48 → 0.5 en el portal (**inválido**) | Respirar 4-4-6 antes de empezar; **no tocar Finish hasta la última parte** |
+
+
+| **2026-10-25** | 🏁 **Reading mock completo nº1: 7.5** (34/40, 58:34) | Reading | Estable en la meta. **4 de 6 fallos en T/F/NG**, en las dos direcciones | |
+| 2026-10-25 | 🔴 **NG donde iba FALSE — 5ª ocurrencia** | Reading · T/F/NG | Q34 *"regarded as a success"* · texto: *"has not delivered comparable results… government lacking in promoting"* | **Se puede señalar la frase que lo hace imposible → FALSE** |
+| 2026-10-25 | 🔴 **Paráfrasis no reconocida → NG** | Reading · T/F/NG | Q8 *"flying over long distances"* = **jet lag** | TRUE |
+| 2026-10-25 | 🔴 **T/F donde iba NG** | Reading · T/F/NG | Q35 *restricted* (el texto nunca habla de restricciones) · Q40 ***apple*** (el texto habla de **peras**) | Q40 = **las dos candidatas**: se ancló en *competition from abroad* y no revisó *apple* |
+| 2026-10-25 | ⚠️ **Causa razonable no dicha (MC)** | Reading | Q22 eligió *ubicación desconocida*; el texto: *constant growth* | |
+| 2026-10-25 | 🔁 **Cambiar la palabra de la fuente — 2 módulos el mismo día** | Reading + Listening | `preventing` por **prevention** · `3 days` por **3 nights** | **Copiar EXACTO, terminación incluida** |
+
+| **2026-10-26** | ✍️ **Task 1 nº8 — tabla guiada (56 datos): ~6.0** | Writing · T1 | **Bloqueo resuelto:** selección de ~10 cifras perfecta, 4 párrafos | Falta: precisión y barrido |
+| 2026-10-26 | 🔁 **Afirmación falsa con *all* — 2ª vez** | Writing · T1 | *"all activities presented similar numbers"* (housework 21 vs 7) | Antes de escribir *all*, buscar el contraejemplo en la tabla |
+| 2026-10-26 | 🔴 **Etiqueta cambiada** | Writing · T1 | *evenings* ×4 (la tabla: **afternoons**) · *almost the half* para 19 de 49 | Mismo error que en Listening: **copiar lo que dice la fuente** |
+| 2026-10-26 | 🔴 **Presente con *last year*** | Writing · GRA | *are present · decrease · remain spending* | Dato con fecha pasada → todo en pasado |
+| 2026-10-26 | 🔴 ***houseworking* / *despite of*** | Writing · GRA | *houseworking* · *despite of* · *spend time in* | *doing housework* · *despite* · *spend time on* |
+| 2026-10-26 | 🔁 **6 typos — sin barrido** | Writing · LR | *houseworkinh, activites, tme, woman ×3* | Últimos 2 min: solo typos |
+| 2026-10-26 | 🔁 **v2: corrige el caso marcado, no el patrón** | Writing · GRA | *are → were* corregido en 1 frase, quedan *are present · are higher · decrease* · *houseworking* ×3 | Barrido de **todos** los verbos y de la palabra corregida en todo el texto |
+| 2026-10-26 | 🔴 ***despite* ≠ *regardless of*** | Writing · LR | *despite the time of the day* | *regardless of the time of day* |
+| 2026-10-26 | ✅ **Task 1 nº8 v3: ~6.5** | Writing · T1 | Gramática limpia: barrió el patrón | Del bloqueo del domingo a 6.5 en un día |
+| 2026-10-26 | 🔴 **Diferencia mal calculada** | Writing · T1 | *friends increased 4% for both* (real: +6 y +7) · *gardening increased* (hombres bajaron) | Recalcular toda resta antes de escribirla · ⭐ *percentage points* |
+| **2026-10-26** | 🎧 **Note completion 26168 (sección 4, ciudades sostenibles): 8/10** | Listening · P4 | 4/10 → 7/10 → **8/10**. *prevention*, *compost*, *irrigation* exactos | Protocolo de saltar funcionando |
+| 2026-10-26 | 🔴 **Palabra parecida: *isolation* por *insulation*** | Listening · P4 | *advanced **insulation** to minimise heat loss* | *insulation* = aislamiento **térmico** · *isolation* = aislamiento **social**. Revisar que la palabra encaje con el sentido de la frase |
+| 2026-10-26 | ⚠️ **Hueco no escuchado → adivinó *robust*** | Listening · P4 | *efficient and **accessible*** — el orden se invirtió: *accessible and efficient* | Las palabras pueden llegar **en orden distinto** al de la nota |
+| **2026-10-26** | 🎧 **Note completion 27446 (sección 4, lobos de Yellowstone): 8/10** | Listening · P4 | Segunda 8/10 seguida. **La 10 (*erosion*) la acertó aunque creyó que no** | Confiar en la primera palabra que encaja |
+| 2026-10-26 | 🔴 **Ortografía: *lifestock*** | Listening · P4 | → ***livestock*** (*live* = vivo, como *alive*) | Error de spelling: cuenta como incorrecta |
+| 2026-10-26 | 🔴 **Distractor: escribió la palabra que sonó, no la que respondía** | Listening · P4 | *wolf kills for ___* → ***protein***; escribió ***hibernation*** (sonó justo después: *especially after hibernation*) | Preguntarse **qué da** la carroña (para qué sirve) — la respuesta es la función, no la palabra cercana |
+| **2026-10-26** | 🎧 **Note completion 27447 (sección 4, lobos II): 3/10** — *"adiviné mucho porque no sabía cómo se escribía"* | Listening · P4 | **De 7 fallos, 5 fueron de FORMA, no de comprensión** → escuchó ~8/10 | El problema de hoy es **ortografía y singular/plural** |
+| 2026-10-26 | 🔴 **Ortografía (2)** | Listening · P4 | `roundching` → **ranching** · `gourgues` → **gorges** | Banco de ortografía en `05_Listening_Module.md` |
+| 2026-10-26 | 🔴 **Singular / plural (3)** | Listening · P4 | `beaver` → **beavers** · `coyotes` → **coyote** · `compensations` → **compensation** (incontable) | Escribir **exactamente la forma que suena**; mirar la gramática de la nota (*a ___ fund* → singular) |
+| 2026-10-26 | 🔴 **Palabras que suenan igual** | Listening · P4 | `colors` → **collars** (*radio collars*) · `number` → **height** (*five times their previous height*) | ¿Tiene sentido? Los lobos no se rastrean con colores |
+
+| **2026-10-27** | 📖 **T/F/NG 28142** (*A Farewell to Work?*, pensiones) — **3/5, 60%** | Reading | ✅ **Q4 (la difícil):** vio que *main goal* carga el peso — Bismarck *"not purely altruistic"* | |
+| 2026-10-27 | ⚖️ **Q3: ítem DISCUTIBLE — no cuenta como error** | Reading · T/F/NG | Clave: NG. Ella marcó **FALSE** con un razonamiento válido: el párrafo siguiente dice *"It was not until the late 19th century that a European state would put **these ideas** into practice"* → Paine murió en 1809, así que *"shortly after his death"* es imposible (y EE. UU. llegó en 1935) | ✅ **Método correcto:** siguió leyendo y **señaló la frase que lo hace imposible**. La clave probablemente se apoya en *"Unlike Paine's proposal"*. Ítem del portal, no de IELTS real |
+| 2026-10-27 | 🔴 **Añadió una palabra que la afirmación NO tiene** | Reading · T/F/NG | Q5: *"created **in response to** the failure of private schemes"*. Su razonamiento: *"la **única** causa era la crisis del 29"*. Marcó FALSE; era **TRUE** | 🆕 **No agregar *only / main / primary* a la afirmación.** Es una cadena: crisis → destruye los planes privados → el Estado responde. **Lo contrario de ignorar *all/than*: aquí el error es AÑADIR** |
+
+
+| **2026-10-27** | 🎧 **Sección 4 — 27454** (*Psychology of Consumer Behaviour*) — **5/10** | Listening | ✅ **Bloque final 8–10 perfecto** (*loyalty · paralysis · obligation*). **Los fallos, todos en 1–6: el arranque** | El protocolo de reenganche funciona; falla **entrar en frío** |
+| 2026-10-27 | ✍️ **Oyó bien, escribió mal** | Listening · P4 | `uncertainly` (→ **uncertainty**) · `pression` (→ **pressure**, no existe) | Al banco de ortografía |
+| 2026-10-27 | 🎯 **Palabra vecina** | Listening · P4 | `proofs` (del encabezado) → **authenticity** · `urgency` (idea del hueco 5) → **fear** · `perception` (palabra siguiente) → **benchmark** | 🆕 **Chequeo final: ¿encaja en la frase?** + **expresiones fijas adivinables antes del audio** (*fear of missing out*) |
+
+
+| **2026-10-27** | 🎧 **Sección 4 — 27459** (*The Changing Nature of Careers*) — **6/10** | Listening | ✅ *stability · income · communication · cost · purpose · network* — **predicciones previas funcionaron** | |
+| 2026-10-27 | 🔴 **Escribió SU sinónimo, no la palabra del audio** | Listening · P4 | `liberly` → **flexibility** · `disconnection` → **isolation** | ⚠️ **Efecto secundario de predecir:** la candidata a lápiz es **una hipótesis; el audio gana**. Si el hablante dice otra palabra, se cambia |
+| 2026-10-27 | 🔴 **Número vecino** | Listening · P4 | `90` → **61**: *"a trial involving **sixty-one companies**, over **ninety percent** decided…"* | Dos números seguidos: **¿cuál responde a *companies*?** |
+
+| **2026-10-28** | 🎧 **Sección 4 — 27460** (gig economy / freelancing) — **7/10** · maratón nº1 | Listening · P4 | ✅ **Arranque limpio** (*loyalty · risk*) — el foco del día funcionó · ✅ *isolation* y *flexibility*, **las dos que ayer cambió por sinónimos**, ahora exactas | |
+| 2026-10-28 | 🎯 **Palabra vecina: el ejemplo en vez de la categoría** | Listening · P4 | `internet` → **technology**: *"the primary driver is **technology**. The rise of the **internet**…"* | El hablante **nombra la idea y luego da un ejemplo**: la respuesta suele ser la idea (lo que va después de *primary / main / key*) |
+| 2026-10-28 | 🎯 **Palabra vecina (otra vez)** | Listening · P4 | `culture` → **integration**: *"the main difficulty is **integration**… aligned with the company's **culture**"* | Igual: *main difficulty is X* → X. Lo que viene después es explicación |
+| 2026-10-28 | ✍️ **Incontable con -s** | Listening · P4 | `insurances` → **insurance** | Lista de incontables del banco de ortografía: *insurance, compensation, information, equipment, research, advice* |
+| **2026-10-28** | 🎧 **Sección 4 — 27467** (apariencia e identidad cultural) — **7/10** · maratón nº2 | Listening · P4 | ✅ *biography · western · sneakers · meaning* · **8 aciertos sin los 2 que no captó** | Dos 7/10 seguidas |
+| 2026-10-28 | 🔴 **No captó: palabra dentro de una lista** | Listening · P4 | Q1 **beliefs** (*"our heritage, our **beliefs**, and our sense of belonging"*) · Q7 **butterfat** (*"a mixture of **butterfat** and ochre"*) | En listas de 2–3, la respuesta suele ser **una** de ellas: retener las tres y elegir con la nota |
+| 2026-10-28 | 🎯 **Sustantivo vecino en vez de ADJETIVO** | Listening · P4 | `climate` → **practical**: *"a **practical** choice for the damp, cold **climate**"* | Antes del audio, decidir **qué tipo de palabra** va: *a ___ choice* → adjetivo |
+| **2026-10-28** | 🎧 **Sección 4 — 27481** (Big Five / personalidad) — **8/10** · maratón nº3 | Listening · P4 | ✅ Arranque **3/3** (*personality · interests · creativity*) · **Maratón: 7 → 7 → 8, subiendo cansada** | |
+| 2026-10-28 | 🔁 **Paráfrasis que cambia la forma de la palabra** | Listening · P4 | Nota: *behaviour directed towards a ___* · audio: ***goal**-directed behaviours* → **goal** (escribió `success`) | El audio puede dar la palabra **pegada a otra** (*goal-directed*): buscar la raíz, no la frase idéntica |
+| 2026-10-28 | ⚖️ **Discutible — lista de 4** | Listening · P4 | Nota: *kindness and ___* · audio: *trust, altruism, kindness, **affection*** → clave **trust**; escribió `affection` | *affection* también aparece en la lista. Aprendizaje: si dudas, la clave suele ser **el primer elemento** de la lista |
+| 28/10 | Speaking P3 (Gemini) | tourism affect · incomes · too much more · related with · the tourism · What it is? | 3ª persona -s; income incontable; much more; related to; sin *the* en general; What are they? | GRA 5.5 → objetivo: 0 errores básicos |
+
+| 30/10 | Writing T2 (transporte) | high amount of people · a research · invest on · exposed · reduce … than · 5 typos | large numbers of · research/a study · invest in · set out · reduce more than · revisar ortografía | 6.0–6.5 |
+| 31/10 | Listening S4 nº27483 (Big Five) **7/10** | 4 cooperating · 7 1999 · 8 questionary | 4 teamwork (palabra del audio, no sinónimo) · 7 1949 (*forty* ≠ *ninety*) · 8 questionnaire (no *cuestionario*) | 7/10 |
+| 31/10 | Speaking test completo (Gemini) 6.0 | practice since 5 years · the mental health · journey · installations · don't use to · for one hand · on bus | I've been doing … for · mental health · working day · facilities · usually/tend to · on the one hand · by bus | GRA 5.5–6 |
+| **2026-11-03** | 🔤 **Drill de deletreo (Gemini) — 6/15** | Listening | ✅ códigos y **LLEWELLYN**. ❌ **Vocales A/E/I ×6** · **números ×3** (23→20, 008→07, 31→11) · **G oída como Y** · correo: *at* = @ | 🆕 **Traducción directa:** oigo "ei" → **A** · oigo "i" → **E** · oigo "ai" → **I** · "dyi" → **G** |
+| 2026-11-03 | 🎧 **Sección 1 — 24495 — 5/6** | Listening | ✅ **Grieve** y **Ashley** deletreados perfectos (la combinación I–E que fallaba en el drill) | ❌ Q2: número del correo (`998`) |
+| 2026-11-03 | 📖 **T/F/NG 28143** (*sari*) — **3/5 → en la práctica 4/5** | Reading | ✅ **Q3 comparación inventada esquivada** (*more complex than* → NG) · ✅ **Q5 *exclusively*** → FALSE | |
+| 2026-11-03 | 🔴 **NG donde iba FALSE — trampa del apellido** | Reading · T/F/NG | Q4 *"**Indira** Gandhi popularised khadi… as protest"* · texto: **Mahatma** Gandhi y las mujeres del movimiento; Indira, después, otra cosa | **Atribución cambiada:** revisar que sea **exactamente esa persona**. Patrón nº2 |
+| 2026-11-03 | ⚠️ **Q1: razonó FALSE (correcto), quedó marcado TRUE** | Reading · método | Ella eligió FALSE; el portal registró TRUE → **error de clic**, no de lectura. **En la práctica 4/5** | 🆕 **Antes de pasar de página, 10 s para revisar lo marcado.** En el examen por computador las opciones están juntas |
+
+
+| **2026-11-04** | ✍️ **Task 2 nº10 en frío** — *Discussion* (matrícula universitaria), 275 pal., 37:06 | Writing | **~6.0–6.5.** ✅ **Los dos bodies OPUESTOS** (pagar / gratis) — el hueco del 24-oct, **cerrado** · opinión explícita | Medio punto sobre el 24-oct |
+| 2026-11-04 | 🔴 **Conclusión enredada** | Writing · CC | Ventaja y desventaja de las privadas unidas con *and* dentro de un *whereas* | *although X, Y* — una idea por lado |
+| 2026-11-04 | 🔴 **B2 sin topic sentence** | Writing · CC | Empieza con contexto; la tesis (*la gratuidad retiene talento*) nunca se dice | Patrón conocido |
+| 2026-11-04 | ⚠️ **Falsos amigos** | Writing · LR | ***exposed*** (→ outlined) · ***careers*** (→ degree programmes, 🔴 repetido) · ***America*** (→ the US, 🔴 nº8) · ***foreigns*** | |
+| 2026-11-04 | ⚠️ **Gramática** | Writing · GR | 2 artículos · empalme · *provide to X Y* · *into* · *for research* · `finnancial` `governmets` | Typos con 2:54 de sobra: **pasada de ortografía no hecha** |
+
+
+| **2026-11-07** | 🎧 **Sección 1 — 24905 — 3/4** | Listening | ✅ **número (£20) y fecha limpios**, sin caer en la corrección | ❌ `confidency` → **confidence**: terminación por analogía (*urgency, efficiency*). Misma familia que *uncertainly* y *preventing* |
+
+
+| **2026-11-07** | 🎧 **Sección 4 — 27484 (Big Five, 2ª versión) — 6/10** | Listening | ✅ **`survey` copiado exacto** (el 31-oct escribió *questionary*) · ✅ bloque 3–6 perfecto | |
+| 2026-11-07 | 🔴 **Ortografía de palabra oída** | Listening · P4 | `lidership` → **leadership** | "i" escrita **EA** |
+| 2026-11-07 | 🔴 **Palabra vecina** | Listening · P4 | `interests` → **creativity** | |
+| 2026-11-07 | 🔴 **No encaja en la frase** | Listening · P4 | Q9 *"after a person's **30**"* · Q7 *"in the **culture**"* | **Chequeo final de 30 s**: si no encaja gramaticalmente, no es la respuesta |
+
+
+| **2026-11-07** | ✍️ **Task 1 en frío — líneas (ocio)** — 194 pal., 17:24 | Writing | **~6.0.** ✅ forma resuelta (4 párrafos, overview sin cifras, pasado) | |
+| 2026-11-07 | 🔴 **Dato al revés** | Writing · TA | Deporte 3→5 descrito como *decrease* y *"similar"* al Reading (que bajó) | Con 2:36 de sobra: **cifra por cifra contra la tabla**. 2ª vez (Smart TV, 24-oct) |
+| 2026-11-07 | 🔴 **Faltó el cruce en el Overview** | Writing · TA | Redes sociales **adelantan** a la TV | *¿Algo adelanta a algo?* → titular |
+| 2026-11-07 | 🔴 ***Although* como *However*** ×2 | Writing · GR | *"…twenty years. Although, reading…"* | *Although X, Y* en la misma oración; para abrir: *By contrast / However* |
+
+
+| **2026-11-08** | 🏁 **MOCK Nº4 — Writing ≈ 6.0** (T1 ~6.0 · T2 ~6.0) | Writing | ✅ T2 con **dos visiones opuestas** y opinión explícita (2º seguido) | |
+| 2026-11-08 | 🔴 **7 typos entre las dos tareas** | Writing · método | `fourty` (🔴 repetido) · `driking` · `unnecesary` · `twentieh` · `andresearchers` · `fist` · *suffer* | **Últimos 3 min de cada tarea: SOLO ortografía, palabra por palabra** |
+| 2026-11-08 | 🔴 ***"Although,"*** — 3ª vez en dos días | Writing · GR | *"Although, these practices are now forbidden…"* | 🆕 **Prohibido "Although," con coma.** → *However,* |
+| 2026-11-08 | 🔴 **T2: B1 sin tesis + ejemplo fuera del tema** | Writing · TR/CC | Experimentos con humanos en la guerra para un tema de animales | Ejemplos del tema, sin casos extremos |
+| 2026-11-08 | 🔴 **T1: agrupó actividades sin revisar cada una** | Writing · TA | *decorating, reading, gardening* puestos en grupos donde no encajan | Regla del *all*: revisar cada dato antes de agrupar |
+
+
+| **2026-11-08** | 🏁 **MOCK Nº4 — Listening 7.5** 🏆 (28:36) | Listening | **Récord.** P1 **9/10** (✅ ***Chowdhury*** perfecto) · **P4 8/10** (el 25-oct fue **2/10**) · P2+3 ~16/20 | Huecos fallados: `relaxing` (P1) · `vast`, `poachers` (P4). **Serie: 6.0 · 6.0 · 6.0 · 6.5 · 7.0 · 6.0 · 7.5** |
+
+
+| **2026-11-08** | 🏁 **Reading mock nº4: 7.5** (33/40, 56:33) | Reading | T/F/NG 3/4 · huecos 12/13 · fallos repartidos | Estable en la meta |
+| 2026-11-08 | 🔴 **Paráfrasis no reconocida → FALSE** | Reading · T/F/NG | Q10 *costly for industry and individuals* = *higher prices for consumers + dent in profitability* | TRUE · buscar el sinónimo antes de decidir |
+| 2026-11-08 | ⚠️ **Matching de párrafos ×2** | Reading | eligió C (F) y D (C) | Buscar la **idea**, no la palabra repetida |
+
+
+| 2026-11-09 | 📖 **T/F/NG 28144** (*free-range parenting*) — **4/5** | Reading | ❌ Q3 TRUE en una **comparación** (*benefit more than*): el texto solo dice que la **posibilidad** depende de factores socioeconómicos, no quién se **beneficia más** → NG (trampas 1 y 2: comparación + inferencia) | ✅ *In all cultures* (absoluto) esquivado |
+| 2026-11-09 | 🎧 **Sección 1 — 24912 — 3/4** | Listening | ✅ número de 3 cifras, apellido *Peters* y teléfono de 11 dígitos limpios | ❌ correo/apellido *mjennins* → faltó la **G** final (*-ings*) por ir rápido: **releer cada letra** |
+| **2026-11-09** | ✍️ **Task 2 Discussion en frío (teletrabajo): ≈6.0–6.5** | Writing | ✅ cero *Although,* · bodies opuestos · typos 7 → **2** · 4:25 de sobra | **Usar los minutos sobrantes en la revisión 2** |
+| 2026-11-09 | 🔴 **Gerundio / infinitivo** | Writing · GRA | *find more advantageous working · prefer have · work remotely brings* | find **it** … **to work** · prefer **to** have · **working** remotely |
+| 2026-11-09 | 🔴 **Sujeto omitido / *a research*** | Writing · GRA | *if a company saves…, can provide* · *A research made by* | **it** can provide · **Research conducted by** |
+
+
+| 10/11 | Task 1 líneas electricidad ≈5.5 | overview: gas diminished / nuclear increased · ninety nine (=29) · downgrade · presented oscillations · fourty · In 2020 climbed | gas rose / nuclear stable · 29% en dígitos · declined steadily · fluctuated · forty · By 2020 it had climbed | TA 5.0 |
+| 10/11 | Reading matching headings 23687 · 5/8 | A: impacto (palabra del final) · D: futuro · H: definición | A: definición · D: liderazgo · H: futuro → la **primera frase** manda | Reading |
+| **2026-11-11** | ✍️ **Task 2 Opinion en frío (transporte público): ≈6.5** | Writing | ✅ cero *Although,* (2º seguido) · TR 7.0 con ejemplo concreto | Mejor Task 2 en frío hasta hoy |
+| 2026-11-11 | 🔴 ***a research* — 3ª vez** | Writing · GRA | *A research conducted by…* | **Research** es incontable: nunca *a* |
+| 2026-11-11 | 🔴 **Adjetivo vs adverbio / *Regardless*** | Writing | *the strikingly reduction* · *Regardless of* (= sin importar) | the **striking** reduction · **Apart from** |
+| 2026-11-11 | ⚠️ **Frase incompleta + postura que cambia** | Writing | *causing a worst.* · *largely agree* → *firmly believe* | revisión 1 · la misma fuerza en intro y conclusión |
+
+
+| 12/11 | Listening Sección 1 25673 · 5/6 | año de nacimiento: 1996 ✗ | revisar la clave; años = posible corrección o confusión de cifras | Listening |
+| 12/11 | Repaso jueves | Gas presented a moderate growth · I use to look · accommodations | Gas grew moderately · I usually look · accommodation | falsos amigos / incontables |
+**Common Writing Patterns:**
+- [ ] Used the same word more than twice in one essay
+- [ ] Body paragraph had no specific example
+- [ ] Task 2 introduction just restated the question without a clear position
+- [ ] Task 1 overview was missing or too vague
+- [ ] Used informal language (e.g., "a lot of" instead of "a significant number of")
+- [x] **Adjetivo en plural por interferencia del español** (*accesibles facilities*) — 2026-08-09 · ✅ no reapareció el 10-ago
+- [x] **Preposición incorrecta tras un sustantivo** (*the need of* en vez de *the need to*) — 2026-08-09
+- [x] **Estructura compleja iniciada pero no cerrada** (*not only... but also* sin paralelismo) — 2026-08-09 · ✅ evitada el 10-ago
+- [x] 🔴 **Artículos — 8/8 tareas, prioridad 1 absoluta.** Falla en las dos direcciones (sobra y falta). **Punto ciego confirmado el 19-ago: `a/an` + incontable** (*a greater infrastructure*), no el `the` de más. → procedimiento de dos barridos en §4.7
+- [x] ⚠️ **Falso amigo / palabra derivada del español** (*motive*, *laboral*, *offer*) — **3/3 tareas** → **prioridad 2**
+- [x] ✅ **Vocabulario del batch semanal sin activar** — 0 → 1 → **4** palabras. **Patrón roto el 10-ago** con el Body 1. El fix que funcionó: elegir las palabras y anotarlas **antes** de escribir
+- [x] ✅ **Empalme de comas** — 1ª ocurrencia, Body 1 del 10-ago · **resuelto el 11-ago** con cláusula relativa (*which*)
+- [x] ⚠️ **Párrafo que se desvía del claim** — Body 1 del 10-ago · **parcialmente resuelto el 11-ago**: mejoró con *therefore*, pero la 3ª oración sigue hablando de cómo planificar en vez de por qué la variedad funciona. **Sigue siendo el techo**
+- [x] **Repetición de *more* / *most*** — detectada por ella misma ✅ · reducida el 11-ago (*more* ×1, *most* ×2). Señal de que ya relee como examinadora
+- [x] ⚠️ ***sport* por *sports*** — 10-ago, **11-ago** (2/2). Sobrevivió a una reescritura hecha con la lista de errores delante → señal de que los errores de una sola letra no se ven al releer por sentido. Verificación aparte
+
+---
+
+## Speaking Errors
+
+| Date | Part (1–3) | Error | Better Phrasing |
+|---|---|---|---|
+| | | | |
+
+**Common Speaking Patterns:**
+- [ ] Used "very good / very bad" — replace with precise adjectives
+- [ ] Answered Part 1 with only 1 sentence
+- [ ] Lost track of the topic in Part 2
+- [ ] Couldn't develop the argument in Part 3 beyond one point
+
+---
+
+## Vocabulary Gaps
+
+Words I didn't know or used incorrectly:
+
+| Word/Phrase | Correct Meaning | Example Sentence | Source |
+|---|---|---|---|
+| **motivate** (verbo) vs **motive** (sustantivo) | *motivate* = motivar; *motive* = motivo, móvil | *Better facilities may **motivate** more people to exercise.* | T2 Intro, 2026-08-09 |
+| **a wider provision of** | forma natural de decir "una mayor oferta de" | *A wider **provision** of sports facilities could encourage participation.* | Corrección T2 Intro, 2026-08-09 |
+| **to take up** (an activity) | empezar a practicar algo | *More people could **take up** physical activity.* | Corrección T2 Intro, 2026-08-09 |
+| **to cultivate a culture of** | fomentar una cultura de | *Lasting change depends on **cultivating a culture of** wellbeing.* | Corrección T2 Intro, 2026-08-09 |
+| **working life** / **professional life** | vida laboral (*laboral* no existe en inglés) | *A mixed setting reflects the **professional life** students will enter.* | T2 Intro prompt 2, 2026-08-10 |
+| **co-educational** | mixto (colegios) | ***Co-educational** schools remain the norm in most countries.* | Corrección T2 Intro, 2026-08-10 |
+| **single-sex** | separado por sexos | ***Single-sex** institutions are said to reduce distraction.* | Corrección T2 Intro, 2026-08-10 |
+| **setting** | entorno, contexto (social, no físico) | *A mixed **setting** prepares students for the workplace.* | Corrección T2 Intro, 2026-08-10 |
+| **to reflect** / **to resemble** | reflejar / parecerse a | *This model more closely **reflects** real conditions.* | Corrección T2 Intro, 2026-08-10 |
+| **to maintain** (that) | sostener que (alternativa a *think*) | *Others **maintain** that segregation improves focus.* | Corrección T2 Intro, 2026-08-10 |
+| **a wider range of** | una mayor variedad de (*offer* ≠ oferta) | *Facilities allow a wider **range** of activities to be offered.* | Body 1, 2026-08-10 |
+| **to appeal to** | atraer a, resultar atractivo para | *Football may **appeal** primarily to young people.* | Corrección Body 1, 2026-08-10 |
+| **to reach / to engage** | llegar a / captar el interés de (*catch* ≠ captar) | *A first step is to **reach and engage** the wider population.* | Body 1, 2026-08-10 |
+| **whereas** | mientras que (contraste, más formal que *while*) | *Football appeals to the young, **whereas** gymnastics attracts older adults.* | Corrección Body 1, 2026-08-10 |
+| **age groups** / **population segments** | grupos de edad / segmentos poblacionales | *Participation increased across different **age groups**.* | Body 1, 2026-08-10 |
+| **the predominant** / **the most heavily represented** | el predominante (en vez de repetir *the most*) | *Identifying **the predominant** age group in each discipline.* | Corrección Body 1, 2026-08-10 |
+
+---
+
+## My Top 5 Recurring Patterns
+
+*(Update this after each mock exam — these are your priority fixes)*
+
+**Estado: 2026-08-15 · base = TASK 2 COMPLETO (línea base) + 7 tareas previas**
+
+> 🎯 **LA PRIORIDAD ÚNICA PARA EL SÁBADO 22: 4 oraciones por body.**
+> Claim → Explain → Example → Link. Es el cambio de mayor impacto por unidad de esfuerzo de toda la preparación: convierte 182 palabras en ~270 sin mejorar una sola frase.
+
+**Ranking tras la línea base:**
+
+1. ⚠️ **Longitud insuficiente por bodies cortos** — 🆕 y penalizado directamente. 182/250 palabras. Ver arriba
+2. ⚠️ **Artículo ante concepto general** — **5/5 tareas**, 4 ocurrencias solo el 15-ago. El más repetido y el más mecánico de arreglar. → §4.4
+3. ⚠️ **Palabra derivada del español** — **5/5 tareas**: *motive*, *laboral*, *offer*, *destinated*. Ante la duda, la simple que sabes que existe. → §4.5
+4. **Preposición equivocada tras verbo** — *in* donde va *on* / *of*. Creciendo: 3 ocurrencias el 15-ago
+5. **Adverbio entre verbo y objeto** — 4ª ocurrencia. Va **antes** del verbo
+6. **Empalme de comas** — reapareció fuerte: 3 ocurrencias el 15-ago
+
+**Nuevo en la lista de resueltos:**
+- ✅ **Entregar antes de tiempo** — patrón de 6 tareas, **roto el 15-ago**: 40 minutos completos
+- ✅ **Escribir sin planificar** — planificó por primera vez
+
+---
+
+**Estado anterior: 2026-08-12 · base = 6 tareas escritas (3 intros + Body 1 + reescritura + Body 2/Conclusión)**
+
+1. 🔴 **NO USAR EL TIEMPO DE REVISIÓN** — el patrón más caro de todos, y transversal a los otros cuatro. Escribe en 1–4 min tareas de 10–15. El 12-ago: **10 errores en 96 palabras, casi todos cazables sin saber más inglés**. Regla para el sábado: **25 min escribir, 15 min corregir**. No añadir — quitar, precisar, revisar
+2. ⚠️ **Artículo ante sustantivo abstracto** — **4/4 tareas**, y ahora falla en **las dos direcciones**: sobra (*a complete wellbeing*) y falta (*of ∅ population*). → §4.4
+3. ⚠️ **Falso amigo / palabra derivada del español** — **4/4 tareas**. *motive*, *laboral*, *offer*, *assistant*, *consequent with*, *persons*. → §4.5
+4. 🆕 **Vocabulario forzado** (nuevo, 12-ago) — reemplaza al antiguo "vocabulario sin activar", ya resuelto. Metió 8 palabras del batch y 2 quedaron mal usadas. **Objetivo: 2–3 bien, no 8 aproximadas.** Si hay que torcer la frase para meter la palabra, la palabra sobra
+5. **Arquitectura del párrafo** — el claim no dice lo que quiere decir (*drawback… is the contribution*), y faltan EXAMPLE y LINK. Sigue siendo el techo estructural. Prueba por oración: *¿esto desarrolla mi punto, o abre otro?*
+
+**Vigilancia (no en el top 5, pero registrados):**
+- 🔴 **`not only… but also`** — 2 de 2 usos rotos (09-ago, 12-ago). **Prohibida en el examen.** Alternativa: *Beyond X, Y must also…*
+- ⚠️ ***sport* por *sports*** — 3/3 tareas. Pasada extra de terminaciones
+- **Concordancia sujeto–verbo** — *data shows*, *…and loneliness affects* (12-ago)
+- **Ortografía / bucle de la duda** — §4.6. **Detectado y descrito por ella misma** ✅
+
+**Lo que YA está resuelto (no gastar tiempo aquí):**
+- ✅ Adjetivos en plural — no reapareció
+- ✅ Estructura de la introducción — TA 7 en las tres intros. La plantilla funciona
+- ✅ **Activación del vocabulario** — 0 → 1 → 4 → 8 palabras. Roto el 10-ago. **Ahora el problema es el opuesto** (ver punto 4)
+- ✅ Superlativo por comparativo — no reapareció
+- ✅ Empalme de comas — resuelto el 11-ago
+- ✅ **Elegir el argumento correcto para Body 2** — el 12-ago eligió salud mental como "otra medida": lectura legítima del enunciado y presentada de buena fe, no un argumento de paja. Eso es exactamente lo que premia TA en un *Discuss both views*
+
+**Lo que YA está resuelto (no gastar tiempo aquí):**
+- ✅ Adjetivos en plural — no reapareció el 10-ago
+- ✅ Correlativas sin cerrar — evitada correctamente el 10-ago
+- ✅ Estructura de la introducción — Task Achievement 7 en las dos intros. La plantilla funciona
+- ✅ **Activación del vocabulario semanal** — 0 → 1 → **4 palabras**. Roto el 10-ago. **Mantener el ritual: elegir y anotar las palabras antes de escribir**
+
+---
+
+## Progreso por criterio — tareas escritas
+
+| Fecha | Tarea | TA | CC | LR | GR | Global |
+|---|---|---|---|---|---|---|
+| 2026-08-09 | T2 Intro, prompt 1 (salud pública) | 7 | 6.5 | 6 | 5.5 | ~6 |
+| 2026-08-10 | T2 Intro, prompt 2 (colegios mixtos) | 7 | 7 | 5.5 | 6 | ~6.5 |
+| 2026-08-10 | T2 Intro prompt 2, **v2 reescrita** | 7 | 7 | 6 | 6.5 | ~6.5 |
+| 2026-08-10 | **T2 Body 1**, prompt 1 (salud pública) | 6.5 | 6 | 6 | 6 | ~6 |
+| 2026-08-11 | **Body 1 reescrito** *(sin cronómetro, con lista de errores)* | 7 | 7.5 | 7 | 7 | **~7** |
+| 2026-08-12 | **T2 Body 2 + Conclusión**, prompt 1 *(cronometrado, 1ª escritura)* | 5.5 | 6 | 5.5 | 5 | **~5.5** |
+| **2026-08-15** | 🏁 **TASK 2 COMPLETO, 40 min** — prompt 1 *(LÍNEA BASE)* | 5.5 | 6 | 6 | 5.5 | **~5.5** |
+| 2026-08-17 | **Mismo ensayo, completado y corregido** — 182 → **248 palabras** *(2 bajo el mínimo)* | 6 | 6 | 6.5 | 6 | **~6** |
+
+**Sobre el 17-ago:** primera vez que un ensayo supera las **250 palabras**. No se escribió nada nuevo: se completaron los bodies (Body 1: 53 → 87 por cuenta propia; Body 2: 56 → 79 con la oración LINK que faltaba) y se corrigieron **12 errores en una sola pasada** — la más productiva hasta ahora.
+
+> ⚠️ **Esta fila no es comparable con la del 15-ago.** Aquella es primera escritura bajo cronómetro; esta es reparación sin tiempo y con la lista de errores a la vista. Mide que **reconoce y sabe arreglar**, no que produzca 250+ palabras en 40 minutos. Eso se mide el **sábado 22**.
+
+**Lección de método registrada el 17-ago — dos operaciones que no se pueden mezclar:**
+
+El primer intento corrigió 12 errores pero dejó el total en **229**: se aplicó *"corregir es quitar y precisar, no añadir"* a un párrafo que estaba **incompleto**, no terminado.
+
+> **Completar** un párrafo al que le falta un movimiento ≠ **corregir** uno terminado.
+> **Primero se completa. Después se corrige.** En ese orden.
+
+| **2026-08-22** | 🧊 **TASK 2 EN FRÍO** — prompt 4, *Problem–Solution*, 252 palabras, **sin corregir** | 6 | 6 | 5.5 | 5.5 | **~5.5–6** |
+
+| **2026-09-06** | 🏁 **TASK 2 nº3** — prompt 3, *advantages–disadvantages*, 356 palabras *(en frío → final)* | 5.5→**6.5** | 6→**6.5** | 5.5→**6.5** | 5→**6** | **~5.5 → ~6.5** |
+| **2026-09-06** | 🗺️ **TASK 1 nº4** — mapa, 189→178 palabras *(v1 → final, 4 rondas)* | 5.5→**6** | 5.5→**6.5** | 5.5→**6** | 5→**6** | **~5.5 → ~6.5** |
+| **2026-09-12** | 🎯 **TASK 2 nº4** — prompt 5, *Opinion* **(tipo nuevo)**, 316 palabras, **en frío** | 5.5 | 5.5 | **6.5** | 5.0 | **~5.5** |
+
+**Sobre el 12 de septiembre — misma cifra, distinto ensayo.** Global ~5.5 igual que el 6-sep, pero **LR subió a 6.5** (el criterio más alto registrado en una primera escritura) y por primera vez los bodies salieron **equilibrados** (113/105) con **316 palabras en 40 minutos**. Lo que ahora tapa la nota **no es la escritura: es una decisión de los primeros 8 minutos** — leyó *"technological innovation… climate change"* y no *"**the most important factor**"*, y defendió una tesis más débil de la que se pedía.
+
+> **El mismo día, en Reading, falló la #7 por lo mismo:** el ojo en *"traced to"* cuando el peso estaba en ***single***.
+> **Una sola técnica para los dos módulos: subrayar la palabra que carga el peso antes de empezar.**
+
+**Sobre el 6 de septiembre — cierre del módulo Writing:** sesión de recuperación de tres días. **En las dos tareas la banda subió un punto entero corrigiendo**, y la longitud dejó de ser problema (356 y 178, ambas holgadas sobre el mínimo). Lo que queda es **primera escritura**: las dos salieron en ~5.5 en frío. Esa distancia entre la v1 y la versión corregida es ahora la métrica a acortar.
+
+**Sobre la banda fría del 22-ago:** misma banda global que el 15, pero **no el mismo logro**. El 15 fue un prompt cuyos cuatro bloques ya estaban escritos; el 22 fue tema desconocido, tipo de pregunta nuevo y **cero minutos de corrección** — y aun así 252 palabras frente a 182. La habilidad subió aunque el número no se moviera.
+
+**Sobre la línea base del 15-ago — la lectura correcta:**
+
+El número no mide el inglés: **mide una plantilla mal contada.** 182 palabras de 250 mínimas, con los dos bodies exactamente a la mitad (53 de 90–110). Bajo 250 la penalización en Task Achievement es automática.
+
+La causa está identificada y es de una línea: las notas de la autopsia del viernes decían *"two robust sentences are enough"* para el Body 1. **El Body 1 del modelo tiene cuatro oraciones** (Claim → Explain → Example → Link, ~90 palabras); las del modelo son largas y se contaron mal. Se escribieron dos, salieron 53 palabras.
+
+> **Corrección permanente: 4 oraciones por body.** Con eso el mismo ensayo pasa de 182 a ~270 palabras sin mejorar una sola frase.
+
+**Lo que sí midió, y es lo importante de hoy:**
+- ✅ **40 minutos completos.** El patrón de seis tareas entregando temprano quedó roto
+- ✅ **Planificó antes de escribir** — primera vez en toda la preparación
+- ✅ **13 de 18 palabras del batch activadas**
+- ✅ Opinión propia explícita en la conclusión — requisito del *Discuss both views*
+- ✅ Autodiagnóstico acertado: subrayó *positively* y *negatively* (ambas mal) y dudó de *equally* (correcta)
+
+**Sobre los 15 min de planificación:** no fue error, fue aprendizaje. Pero 18 palabras en la lista es elegir en vez de escribir. **Son 2.** Objetivo del sábado 22: 8 min de plan, y los 7 recuperados van a los bodies.
+
+---
+
+**Sobre la caída del 12-ago — leerla bien:** el número bajó respecto al Body 1 (6) por tres razones concretas, todas explicables y ninguna preocupante:
+1. **Contenido más difícil.** Defender la visión contraria es más exigente que defender la propia. Y eligió un argumento genuino (salud mental como "otra medida"), no uno de paja — eso es lo correcto aunque cueste banda al principio.
+2. **Primera conclusión de su vida.** Nunca había escrito una.
+3. **~4 minutos de 15.** El 80% de los errores del texto eran cazables sin saber más inglés.
+
+**La comparación honesta** no es Body 1 (6) contra esto (5.5) — es *primera escritura contra primera escritura*, y ahí el problema no es el inglés, es el tiempo de revisión sin usar.
+
+> ⚠️ **La fila del 11-ago no es comparable con las anteriores.** Las demás son primera escritura bajo cronómetro; esa es una reescritura sin tiempo y con los errores a la vista. Demuestra que **reconoce** el nivel 7 y sabe llegar a él — requisito previo para producirlo, pero no lo mismo. La primera medición real en condiciones de examen es el **sábado 15**.
+
+**Lectura al cierre del 10 de agosto:**
+
+- **Task Achievement** estable en 7 **en las intros** — la plantilla está resuelta. Pero en el Body 1 baja a 6.5: sostener un argumento durante 100 palabras es una habilidad distinta a enmarcarlo en 45.
+- **Lexical Resource se recuperó** (5.5 → 6) y el patrón de activación se rompió: **4 palabras del batch usadas** frente a 0 el 09-ago.
+- **El techo se movió otra vez.** Ya no es gramática (resuelta en 2 días) ni activación de vocabulario (rota hoy): ahora es **arquitectura del párrafo** — mantener el claim y cerrar reafirmando. Es exactamente el tema del martes 11: *profundidad, no longitud*.
+
+**Patrón de la semana:** cada tarea cierra un problema y destapa el siguiente. Es lo que debe pasar.

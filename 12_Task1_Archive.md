@@ -1,0 +1,1532 @@
+# Task 1 — archivo de respuestas y gráficos
+
+> **Por qué existe este archivo.** El 26 de agosto ella pidió los tres Overviews del martes y **no estaban**: la sesión del 25 registró el análisis pero no el texto. Es el mismo hueco que `11_Writing_Baseline_Essays.md` tapó para Task 2 el 18 de agosto, reabierto en el módulo nuevo.
+>
+> ## 🔴 REGLA: **ninguna tarea escrita se cierra sin su texto guardado.**
+> Task 2 → `11_Writing_Baseline_Essays.md` · Task 1 → **este archivo**.
+> El análisis sin el texto no sirve: no hay contra qué comparar la siguiente versión.
+
+---
+
+## 👉 TRASPASO — 26 de agosto, para la sesión de casa
+
+**Los tres Overviews del 25-ago SÍ existen: están en el chat de casa, no en el repo.**
+
+### ① Lo primero, antes que cualquier otra cosa
+**Pegar los tres textos de la v1 en la sección `v1` de abajo.** Literales, con los errores intactos — son la línea base contra la que se mide todo lo demás. Ese chat también se comprime; si no quedan en el repo, se pierden por segunda vez.
+
+### ② Luego, elegir camino
+
+| | Qué | Min |
+|---|---|---|
+| **A** | **Drill de 7 frases** — están en `01_Week_by_Week_Schedule.md`, bloque “Drill de activación” | 10 |
+| **B** ⭐ | **Reescribir los tres Overviews como v2** y pegarlos abajo | ~20 |
+
+**Recomendado: B.** El drill vive dentro de la reescritura, y una frase corregida aislada se olvida más rápido que una que hubo que colocar en un párrafo. Además deja la comparación v1 ↔ v2, que es el dato que falta.
+
+### ③ Lo que hay que llevar puesto al reescribir
+
+**El titular — el hallazgo del martes.** El Overview responde ***¿qué es lo más llamativo?***, no *¿qué pasó?*. Antes de escribir: *si tuviera que decir UNA cosa de este gráfico, ¿cuál sería?*
+- Gráfico 1 → India sube más **pero sigue siendo la más baja** (*yet* / *despite*)
+- Gráfico 3 → las renovables **adelantan al carbón** y pasan a ser la fuente principal (*overtake* / *to become the dominant*)
+
+**Las cuatro reglas duras** (salieron ✅ el martes, mantenerlas): abrir con *Overall,* · cero dígitos y fechas · todas las categorías · **describir, nunca explicar**.
+
+**Los errores del martes, para no repetirlos:**
+| | |
+|---|---|
+| Cobertura | **Business** quedó fuera del bar chart → *with business occupying an intermediate position* |
+| Sin eje temporal | En el bar chart **no hay** *rise* ni *fall*: *gap · difference · range* |
+| §4.9 | *that* vs *than* (¿comparo? → *than*) · *double* y *half* **sin** artículo |
+| §4.7 | Dos barridos de artículos: primero solo `the`, luego solo `a`/`an` |
+| Léxico | *decreased till zero* → *phased out entirely* · *showed rise* → *showed a rise* · *a declined demand* → *a decline in demand* · *lightly remarkable* → *relatively slight* |
+
+### ④ Al cerrar
+- [ ] v1 pegada aquí · [ ] v2 pegada aquí · [ ] errores nuevos en `07_Error_Log.md` · [ ] entrada en `09_Study_Journal.md` · [ ] `RETOMAR AQUÍ` apuntando al **jueves 27: bar charts y tablas, lenguaje de comparación**
+
+### Estado del miércoles 26 al momento del traspaso
+✅ **AWL 181–200 → 200/200** 🏁 · ✅ Line graphs: lenguaje de tendencias leído · ⏳ drill / v2
+
+---
+
+## 📁 Lo que se perdió — 25 de agosto, 3 Overviews
+
+Los párrafos completos no existen. Lo único recuperable son los **fragmentos textuales citados en `07_Error_Log.md`**:
+
+**Gráfico 1 — line graph**
+- *…over two decades…* · *…four different nations…* ← paráfrasis buenas
+- *…**any** of the four countries **remained constant their electricity consumption**…*
+- *India had **a declined demand**…* · *…is **lightly remarkable**, in India the consumption…*
+- *Canada and Japan **increased this number** slowly…*
+
+**Gráfico 2 — bar chart**
+- *The **data showed before**…* · *The **fall of the number** of graduates…* · *…the percentage… **are** more employed…*
+
+**Gráfico 3 — pie charts**
+- *…over thirteen years…* · *…nuclear sources **has decreased**… **decreased till zero***
+- *Renewables **showed rise**…* · *the only sources **than** showed a rise*
+- *…more than **the double**…* · *…almost **the half**…* · *…it is clear **than** the use has dropped…*
+
+Se perdieron los conectores, las aperturas y los cierres. **No reconstruir de memoria** — rinde más reescribirlos como v2 con el lenguaje de tendencias ya leído, y comparar.
+
+**Veredicto del 25-ago:** las cuatro reglas duras ✅ en los tres (*Overall* · cero dígitos · sin explicar · cobertura, salvo Business). Lo que faltó fue **jerarquía**: el titular, en 2 de 3.
+
+---
+
+## 📊 LOS TRES GRÁFICOS — datos completos
+
+*(Recuperados del commit `841fb14`. Sirven para reescribir la v2 y para práctica futura.)*
+
+**Cómo se hace:** ~6 min por gráfico. Lee los datos, identifica **qué es lo más llamativo**, y escribe **2–3 oraciones**. Nada más. No escribas introducción ni párrafos de detalle.
+
+**La fórmula** (está en `03_Writing_Module.md` línea 308):
+> *Overall, it is clear that [la tendencia más llamativa]. While [segundo rasgo notable], [contraste u observación adicional].*
+
+**Las tres reglas — revísalas al terminar cada uno:**
+1. Abre con ***Overall,*** (o *In general,*)
+2. **CERO números y CERO fechas.** Ni un solo dígito. Los números van en los párrafos de detalle, no aquí
+3. **Cubre todo el gráfico** — si hay cuatro líneas, las cuatro tienen que quedar representadas (aunque sea agrupadas: *“the remaining three…”*)
+
+---
+
+### Gráfico 1 — LINE GRAPH
+*Household electricity consumption in four countries, 2000–2020 (kWh per household, annual average)*
+
+| Año | Canada | Japan | Brazil | India |
+|---|---|---|---|---|
+| 2000 | 11,000 | 7,800 | 1,900 | 400 |
+| 2005 | 11,400 | 8,100 | 2,100 | 600 |
+| 2010 | 11,200 | 8,000 | 2,600 | 900 |
+| 2015 | 10,600 | 7,300 | 3,100 | 1,300 |
+| 2020 | 10,100 | 6,900 | 3,400 | 1,800 |
+
+*Pista de lectura (no la copies, es para verificar):* dos países ricos bajan tras un pico temprano; dos países en desarrollo suben de forma sostenida; **India multiplica su consumo pero sigue siendo el más bajo con diferencia**. Ese último contraste es lo que separa un Overview de banda 6 de uno de banda 7+.
+
+---
+
+### Gráfico 2 — BAR CHART
+*Percentage of graduates employed in their field of study, six months after graduation, by discipline (2024)*
+
+| Disciplina | % empleados en su campo |
+|---|---|
+| Engineering | 82 |
+| Health Sciences | 79 |
+| Computer Science | 76 |
+| Business | 58 |
+| Social Sciences | 41 |
+| Humanities | 34 |
+
+*Pista:* aquí no hay tiempo — no hay tendencias. Un Overview de gráfico estático describe **el rango y la agrupación**: qué está arriba, qué abajo, y que hay una brecha clara entre bloques. ⚠️ **Describe el patrón, no lo expliques.** Nada de *“because technical degrees are more in demand”* — eso es Task 2 y en Task 1 baja la nota.
+
+---
+
+### Gráfico 3 — PIE CHARTS (dos, comparados)
+*Sources of electricity generation in Germany, 2010 vs 2023 (% of total)*
+
+| Fuente | 2010 | 2023 |
+|---|---|---|
+| Coal | 42 | 26 |
+| Nuclear | 22 | 0 |
+| Natural gas | 14 | 17 |
+| Renewables | 17 | 52 |
+| Other | 5 | 5 |
+
+*Pista:* con dos gráficos circulares el Overview tiene que señalar **el cambio**, no solo el estado. Hay un dato que es categóricamente distinto a los demás: una fuente **desaparece por completo**. Eso merece su propia mención. Y ojo: *renewables* pasa de minoría a mayoría — hay una **inversión de posiciones**, y esa palabra (*overtake*, *replace*, *reverse*) es la que da puntos.
+
+---
+
+### Al terminar los tres
+- [ ] ¿Los tres abren con *Overall,* o *In general,*?
+- [ ] ¿Hay **algún** número o fecha? → fuera
+- [ ] ¿Cada Overview representa **todas** las categorías del gráfico?
+- [ ] ¿Escribí en algún punto *por qué* pasa algo? → fuera, eso es Task 2
+- [ ] **Dos barridos de artículos** (§4.7): primero solo `the`, luego solo `a`/`an`
+- [ ] Anotar en `07_Error_Log.md` lo que salga
+
+---
+
+## ✍️ v1 — 25 de agosto · **PEGAR AQUÍ**
+
+*(Los tres textos completos, literales, con los errores intactos. Están en el chat de casa.)*
+
+### Gráfico 1 — line graph
+> _pendiente_
+
+### Gráfico 2 — bar chart
+> _pendiente_
+
+### Gráfico 3 — pie charts
+> _pendiente_
+
+---
+
+## ✍️ v1 — 25 de agosto *(primeros Overviews · escritos a mano)*
+
+*Recuperados del chat de casa el 29-ago. Se escribió también la introducción, aunque el ejercicio pedía solo el Overview.*
+
+### Gráfico 1 — line graph
+
+> The graph above illustrates the electricity consumption in four different nations over two decades.
+>
+> In general, it is clear that any of the four countries remained constant their electricity consumption. While developed countries such as Canada and Japan showed a declined demand, the other two countries increased this number and one of them did it considerably.
+>
+> It is notable that the decrease in the two most developed countries is lightly remarkable, in India the consumption represented the highest increase.
+
+### Gráfico 2 — bar chart
+
+> The data showed before illustrates the number of graduates employed compared to the total of graduates across six different fields.
+>
+> Overall, it is remarkable how the percent of graduates from science and engineering fields are more employed compared to the graduates from humanities and social sciences. The fall of the number of graduates employed from humanities compared to graduates from engineering is more than the double.
+
+### Gráfico 3 — pie charts
+
+> The graph above represents the different sources of electricity generation in Germany over thirteen years.
+>
+> Generally, it is clear than the use of sources of electricity generation based on coal has dropped almost the half and nuclear sources has decreased till zero. While renewable energy and natural gas are the only sources than showed rise, others remained constant.
+
+### 🔍 Corrección de la v1 — 25 de agosto
+
+**Las reglas duras salieron las tres a la primera:** abrir con *Overall/In general* ✅ · cero dígitos ✅ · sin explicar el porqué ✅. Solo faltó una categoría (Business, en el bar chart).
+
+**🔴 El hallazgo:** en 2 de 3 faltó **el titular**.
+- Line graph: dijo que India subió más, no que **sigue siendo la más baja pese a ello**
+- Pie charts: dijo que las renovables *"showed rise"*, no que **adelantaron al carbón y pasaron a ser la fuente principal**
+
+> El Overview responde *"¿qué es lo más llamativo?"*, no *"¿qué pasó?"*.
+
+**Patrones nuevos que salieron de aquí → §4.9:** *than* por *that* (×2) · *the double* / *the half* con artículo (×2).
+
+**Otros:** *any* por *none* (invierte el significado) · *remained constant* con objeto · *a declined demand* · *lightly remarkable* · un empalme de comas · dos concordancias · *The fall of…* en un gráfico sin eje temporal.
+
+---
+
+## ✍️ v2 — 27 de agosto
+
+### Gráfico 1 — line graph
+>The graph above illustrates the electricity consumption in four differente nations over two decades.
+>
+>In general, only the demand in Canada fell gradually compared to the other three countries. After a decade of steady growing demand, it declined slightly. Finally, Brazil and India presented a constant growing during all the period, but despite this growth in both countries it remained  lower than the minimal demand of Japan and Canada.
+
+
+### Gráfico 2 — bar chart
+> The bar chart above shows the number of graduates employed in their field of study compared to the total number of graduates six month after graduation in six different fields.
+>
+> Overall, it is clear that applied sciences provide more employability than fields oriented to human sciences. Following this, the gap is significant if Social Sciences and Engineering percentages are compared, specially when the employability ratio in Engineering is even twice as much as Social Sciences. While Business in contrast to Engineering is not that high, this percentage still remained remarkable superior than the two human sciences.
+>
+> 
+### Gráfico 3 — pie charts
+The graph below illustrates the significance between 5 different soruces of electricity generation in Germany over third-teen years.
+
+Overall, while coal based sources decreased until almost its half of its value at the beginning of the period, the nuclear sources phased out entirely. Subsequently, natural gas and others remained steady or increased slightly, Renewables are the only source that experimented an upward trend.
+
+---
+
+---
+
+## 🔍 Corrección de la v2 — 27 de agosto · **~Band 6 / 6.5**
+
+**Estructura y agrupación: ya son de banda 7.** El freno es precisión.
+
+### ✅ Lo que entró
+- **El titular del gráfico 1** — *"**despite** this growth in both countries it remained lower..."*. Era lo que faltó el 25
+- **Business cubierto** en el bar chart (omitido el 25)
+- **Agrupación *applied vs human sciences*** — patrón, no lista de seis barras. Pensamiento de banda 7
+- ***phased out entirely*** — vocabulario del miércoles, bien usado y sin dígito
+- Los tres abren bien · ninguno explica el porqué · escribió intro + overview
+
+### 🔴 Las tres que cuestan bandas
+1. **Dato incorrecto (G1):** *only Canada fell* — **Japón también cayó** (7.800→6.900). Task Achievement
+2. **Titular perdido (G3), 2º intento:** *experimented an upward trend* → las renovables **adelantaron al carbón y pasaron a ser la fuente principal**. ***overtake***
+3. **🔁 *the number* → *percentage*** — corregido el 25, volvió intacto. Patrón **detectar ≠ ejecutar**
+
+### Correcciones literales
+
+**Gráfico 1**
+
+| Como está | Como debe quedar |
+|---|---|
+| four **differente** nations | four **different** nations |
+| **the** electricity consumption | **electricity consumption** |
+| a constant **growing** | constant **growth** |
+| during **all the** period | **throughout the** period ⚠️ *(25-ago: "went up all the period")* |
+| **it** remained lower | **they** remained lower |
+| the **minimal** demand | the **lowest** level |
+
+**Gráfico 2**
+
+| Como está | Como debe quedar |
+|---|---|
+| six **month** after | six **months** after |
+| the **number** of graduates | the **percentage** of graduates |
+| **specially** when | **especially** when |
+| twice as much as Social Sciences | twice as high as **that of** Social Sciences |
+| **remarkable superior than** | **remarkably superior to** |
+| this percentage still **remained** | this percentage **is** *(sin eje temporal → sin pasado)* |
+
+**Gráfico 3**
+
+| Como está | Como debe quedar |
+|---|---|
+| **5** different **soruces** | **five** different **sources** ⚠️ dígito |
+| **third-teen** years | **thirteen** years |
+| the **significance between** | the **proportion of electricity generated from** |
+| decreased **until almost its half of its value** | fell **by almost half** ⚠️ §4.9 |
+| the nuclear sources **phased out** | nuclear power **was phased out** *(es transitivo)* |
+| **experimented** an upward trend | **experienced** an upward trend 🆕 **falso amigo** → §4.5 |
+| *...increased slightly**,** Renewables are...* | punto. ⚠️ **empalme de comas, 4ª vez** |
+
+### 🎯 Versiones de banda 7+ — **dos oraciones cada una**
+
+**1** — *Overall, consumption **fell in the two developed nations while rising steadily in the two developing ones**. The most striking feature is India: **despite** recording by far the sharpest growth, it remained the lowest consumer **throughout** the period.*
+
+**2** — *Overall, applied-science disciplines offer markedly higher employability than those in the humanities and social sciences, **with business occupying an intermediate position**. The **gap** between the top and the bottom of the chart is substantial, with engineering graduates more than **twice as likely** to be working in their field as humanities graduates.*
+
+**3** — *Overall, the German energy mix changed dramatically, with **renewables overtaking coal to become the dominant source**. Nuclear power, meanwhile, **was phased out entirely**, while gas and other sources saw little change.*
+
+> 📏 **Dos oraciones bastan.** Las de la v2 tenían tres o cuatro y metían detalle que pertenece a los párrafos de abajo.
+
+---
+
+## 👉 PARA CASA — v3
+
+1. Aplicar las correcciones literales de arriba → pegar como **v3** abajo
+2. Antes de tocar el gráfico 3, hacer **los 60 segundos** (`03_Writing_Module.md`, sección del Overview) y reescribirlo **desde cero**, no parchearlo. El titular no se arregla editando: hay que volver a decidir cuál es
+3. Pegar la **v1** en su sección — sigue pendiente, está en el chat de casa
+
+## ✍️ v3 — 28 de agosto
+
+### Gráfico 1 — line graph
+>The graph above illustrates the electricity consumption in four different nations over two decades.
+>
+>Overall, consumption fell in the two developed nations while rising steadily in the two developing ones. The most striking feature is India: despite recording by far the sharpest growth, it remained the lowest consumer throughout.
+
+### Gráfico 2 — bar chart
+> The bar chart above shows the percentage of graduates employed in their field of study six months after graduation, across six disciplines.
+>
+> Overall, applied-sciences disciplines offer markedly higher employability than those in the humanities and social sciences, with business ocupying an intermediate position. The gap between the top and the bottom of the chart is substantial, with engineering graduates more than twice as likely to be working in their field as humanities graduates.
+>
+> 
+### Gráfico 3 — pie charts
+The two charts show the proportion of electricity generated from five different sources in Germany in two years, thirteen years apart.
+
+Overall, the German energy mix changed dramatically, with renewables overtaking coal to become the dominant source. Nuclear power, meanwhile, was phased out entirely, while gas and other sources saw little change.
+
+---
+
+# ⏱️ SÁBADO 29 — TASK 1 Nº 1, CRONOMETRADA
+
+> **Todo lo necesario está en esta sección.** No hace falta abrir otro archivo ni consultar el chat.
+
+## El enunciado
+
+> *The graph below shows the average number of hours per week that people in four age groups spent using the internet at home in the United Kingdom between 2005 and 2025.*
+>
+> *Summarise the information by selecting and reporting the main features, and make comparisons where relevant.*
+>
+> **Write at least 150 words. You have 20 minutes.**
+
+| Año | 16–24 | 25–44 | 45–64 | 65+ |
+|---|---|---|---|---|
+| 2005 | 12 | 8 | 4 | 1 |
+| 2010 | 20 | 15 | 9 | 3 |
+| 2015 | 28 | 22 | 16 | 7 |
+| 2020 | 34 | 31 | 26 | 15 |
+| 2025 | 36 | 35 | 33 | 27 |
+
+## Antes de arrancar
+
+Cronómetro en **20:00**. **Bloc de notas, sin corrector.** No mirar las pistas de abajo.
+
+| Min | Qué |
+|---|---|
+| **0–1** | ⏱️ **Los 60 segundos.** Mirar, ni una palabra escrita. ① ¿quién sube/baja? → **agrupa** ② ¿cruce, inversión, desaparición? → **titular** ③ ¿tensión? |
+| 1–3 | **Intro** — parafrasear el enunciado. **Una** oración |
+| 3–6 | **Overview** — **dos** oraciones · **cero dígitos** · los cuatro grupos representados |
+| 6–16 | **Dos párrafos de detalle** — aquí **sí** van los números. Sugerencia: párrafo 1 los dos grupos jóvenes, párrafo 2 los dos mayores |
+| **16–20** | 🔴 **Corregir.** No se escribe nada nuevo |
+
+**La regla que hunde bandas:** describes lo que **VES**. Nunca por qué, nunca opinas. *(Este gráfico invita a explicar — no lo hagas.)*
+
+## Los 4 minutos de corrección — en este orden
+
+1. **Artículos, dos barridos** (§4.7): primero **solo `the`** — ¿podría señalar cuál? No → fuera. Luego **solo `a`/`an`** — ¿el sustantivo es incontable? Sí → fuera
+2. **§4.9** — *that*/*than* (¿comparo? → *than*) · *double*, *half*, *a third* **sin** artículo
+3. **Ortografía y terminaciones** (§4.6) — plurales, `-s`, dobles consonantes. **El primer instinto suele ser el correcto**
+4. **¿Dígitos en el Overview?** · **¿Los cuatro grupos aparecen?** · **¿Expliqué algún porqué?**
+5. **Registro** — ¿algún *number*, *thing*, *very*, *a lot*? Las 6 sustituciones están en `03_Writing_Module.md`
+
+## Al cerrar
+- [ ] Pegar el texto abajo, **literal, con los errores intactos**
+- [ ] Anotar el tiempo real y el conteo de palabras
+- [ ] ¿Se usaron los 4 minutos de corrección? **Sí / No** — anotarlo aunque la respuesta sea no
+
+---
+
+<details>
+<summary><b>👀 PISTAS — abrir SOLO después de escribir</b></summary>
+
+**El titular:** los cuatro grupos suben, pero lo llamativo es que **la brecha se cierra**. En 2005 los jóvenes usaban internet doce veces más que los mayores de 65; en 2025 los cuatro grupos casi convergen. Eso es **convergencia**, y es lo que hay que decir primero.
+
+**La tensión secundaria:** el grupo 65+ es el que **menos usa** en todo el período y a la vez el que **más crece**. Misma estructura que el caso de India — *despite* / *yet still*.
+
+**Y un detalle de banda 7:** el grupo 16–24 **se aplana** al final (34 → 36). *level off* · *plateau* · *approach saturation*.
+
+**Léxico útil:** *converge* · *narrow* (the gap narrowed) · *close the gap* · *level off* · *steadily* · *by contrast* · *the figure for*.
+
+⚠️ *the figure for the 65+ group*, **no** *the number*.
+
+</details>
+
+## ✍️ Task 1 nº 1 — texto: **PEGAR AQUÍ**
+
+**Palabras: 118** — 🔴 mínimo 150. Penalización automática en Task Achievement.
+
+### v1 — 29 de agosto · **118 palabras · ~Band 5.5**
+
+The graph below illustrates the average use of internet in hours in the United Kingdom over the last twenty years in different age groups.
+
+Overall, it is noticeble that all the age groups showed an upward trend in the internet consumption, year by year the demand of internet was increasing despite the age of the consumer. However, this growth in use was gradually rising even more for older groups of population.
+
+In the last five years of the study, the gap between the average number of hours of internet was growing with the age of the group. The youngest group in the graph increased this number only in two while the oldest group increased this number almost twice.
+
+### 🔍 Corrección — 31 de agosto
+
+**🔴 118 palabras de 150.** Misma causa que el 15-ago con las 182 del Task 2, y no es que escriba poco: **falta un párrafo entero.** Escribió **un solo** párrafo de detalle, y cubre únicamente **2020–2025**. Los quince primeros años del gráfico no aparecen — no es solo extensión, es **cobertura**.
+
+> ## La regla de Task 1
+> **Dos párrafos de detalle, uno por cada mitad del período. Cuatro oraciones cada uno.**
+> P1 → 2005–2015 · P2 → 2015–2025.
+> Con eso 118 se vuelven ~180 **sin mejorar una sola frase**. Es el equivalente en Task 1 de las *4 oraciones por párrafo* que llevaron el Task 2 de 182 a 270.
+
+**🔴 El titular volvió a faltar — 3ª vez.** El gráfico cuenta **convergencia**: en 2005 los jóvenes usaban internet doce veces más que los mayores de 65; en 2025 los cuatro grupos casi se tocan. Ella dijo que el crecimiento fue mayor en los grupos mayores — correcto, y es media respuesta — pero luego escribió *the gap **was growing** with the age of the group*, que es **la conclusión opuesta**: la brecha se estaba cerrando.
+
+**✅ Entró:** abre con *Overall* · cero dígitos en el Overview · no explica el porqué · *upward trend* · los cuatro grupos representados · **el dato de 15→27 es correcto** — cuando baja a números, acierta.
+
+**Puntuales:** *noticeble* → *noticeable* · *the internet consumption* / *the demand **of** internet* → *internet use* · *demand **for*** · *increased **this number*** ×2 → *this **figure*** (⚠️ 4ª vez, regla 2 del registro) · *only **in** two* → *by only two hours* · *groups **of population*** → *age groups* · **empalme de comas, 5ª ocurrencia**.
+
+---
+
+### v2 — 31 de agosto · **~200 palabras · ~Band 6.5**
+
+The line graph below compares the average use of internet in hours in the United Kingdom over the last twenty years in four different age groups, from teenagers to the eldery.
+
+Overall, internet use rose substantially across all four age groups over the period. Year by year the internet use was increasing despite the age of the consumer in each time. The most striking feature is the convergence: what began as a very wide gap between the youngest and the oldest users had almost disappeared by the end.
+
+In 2005 the differences were pronounced. Those aged 16-24 spent twelve hours per week online, three times the figure for the 45-64 group and twelve times that of people over 65, who recorded just one hour. Over the following decade all four groups grew steadily. By 2015 the youngest group had reached twenty-eight hours, while the oldest had climbed to seven.
+
+The final decade saw the gap narrow sharply. Growth among the 16-24s slowed and eventually levelled off at thirty-six hours. The over-65s, by contrast, almost doubled their usage between 2020 and 2025, rising from fifteen to twenty-seven hours. By the end of the period the four groups were separated by fewer than ten hours.
+
+### 🔴 El hallazgo de la v2 — **injertar reintroduce el error**
+
+Los **dos párrafos de detalle** los tomó enteros: impecables. La **intro y el Overview** los mezcló con su texto — y ahí volvieron los errores corregidos:
+
+> *…over the period**, year by year the demand of internet was increasing despite the age of the consumer in each time**. The most striking feature…*
+
+Ese injerto trae de vuelta **el empalme de comas** y ***demand of internet***, los dos ya corregidos.
+
+> **O se toma la versión nueva completa, o se reescribe desde cero. Coser no funciona.**
+
+3ª confirmación de *copiar/editar introduce errores propios*: *twenty-**right*** por *twenty-eight* · *the **eldery*** por *the elderly*.
+
+**Quedan por aplicar:** borrar el injerto del Overview · los dos typos · la intro → *the average number of hours per week spent using the internet*.
+
+---
+
+# ⏱️ LUNES 31 — TASK 1 Nº 2, CRONOMETRADA
+
+> Autocontenido. **Objetivo único: cuatro párrafos, dos de detalle, cuatro oraciones cada uno.**
+
+## El enunciado
+
+> *The chart below shows the percentage of households in five European countries that owned selected home appliances in 2024.*
+>
+> *Summarise the information by selecting and reporting the main features, and make comparisons where relevant.*
+>
+> **Write at least 150 words. You have 20 minutes.**
+
+| País | Washing machine | Dishwasher | Air conditioning | Tumble dryer |
+|---|---|---|---|---|
+| Germany | 96 | 74 | 12 | 45 |
+| Spain | 98 | 51 | 68 | 22 |
+| Sweden | 94 | 82 | 5 | 61 |
+| Italy | 97 | 49 | 43 | 18 |
+| Poland | 95 | 38 | 8 | 15 |
+
+## El reparto de los 20 minutos
+
+| Min | Qué |
+|---|---|
+| **0–1** | ⏱️ **Los 60 segundos.** Mirar, ni una palabra. ① ¿quién arriba, quién abajo? → **agrupa** ② ¿algo se sale del patrón? → **titular** ③ ¿tensión? |
+| 1–3 | **Intro** — parafrasear el enunciado. **Una** oración |
+| 3–6 | **Overview** — **dos** oraciones · cero dígitos · los cuatro electrodomésticos representados |
+| 6–11 | **Detalle 1** — 4 oraciones. Sugerencia: los dos aparatos más extendidos |
+| 11–16 | **Detalle 2** — 4 oraciones. Los dos más desiguales |
+| **16–20** | 🔴 **Corregir.** No se escribe nada nuevo |
+
+⚠️ **Gráfico estático: no hay eje temporal.** Nada de *rise*, *fall*, *increase*. Aquí se describe **rango, agrupación y contraste**: *gap · range · accounted for · twice as high as · by contrast · the figure for*. Ese fue el error del 25-ago.
+
+**Y la regla que hunde bandas:** describes lo que **VES**. Nunca por qué. *(Este gráfico invita muchísimo a explicar el clima — no lo hagas.)*
+
+## Los 4 minutos de corrección — en este orden
+
+1. **¿Llegué a 150?** Si no: falta una oración en cada párrafo de detalle
+2. **Artículos, dos barridos** (§4.7): solo `the`, luego solo `a`/`an`
+3. **§4.9** — *that*/*than* · *double*, *half*, *a third* **sin** artículo
+4. **Ortografía y terminaciones** (§4.6). El primer instinto suele ser el correcto
+5. **Registro** — ¿algún *number*, *thing*, *very*, *a lot*? → *the **figure for*** (⚠️ 4 ocurrencias ya)
+6. **¿Dígitos en el Overview?** · **¿Los cuatro aparatos aparecen?** · **¿Expliqué algún porqué?**
+
+<details>
+<summary><b>👀 PISTAS — abrir SOLO después de escribir</b></summary>
+
+**El titular:** las lavadoras son universales — casi todos los hogares las tienen en los cinco países. **Todo lo demás varía enormemente.** Esa oposición *una constante / tres variables* es lo que hay que decir primero.
+
+**El caso que se sale del patrón:** el **aire acondicionado** — 68% en España y 43% en Italia frente a **5% en Suecia**. Es el rango más amplio de toda la tabla. Describe el contraste; **no expliques el clima**.
+
+**La segunda agrupación:** lavavajillas y secadora siguen el patrón **norte → sur**: Suecia y Alemania arriba, Italia y Polonia abajo. Polonia es la más baja en tres de los cuatro.
+
+**Léxico:** *near-universal · ownership · the figure for · by contrast · the range · fewer than one in ten · roughly two-thirds · lag behind · be virtually absent*.
+
+</details>
+
+## ✍️ Task 1 nº 2 — texto: **PEGAR AQUÍ**
+
+**Tiempo real:** 19:55 · **Palabras:** ~245 · **¿4 min de corrección?** No
+
+### v1 — 23 sep · **~Band 5.5–6** — NO SE TOCA
+
+The graph below shows the number of millions of passenger journeys made on four different types of public transport over two decades in a European city.
+
+Overall, it is clear that across time, every transport type increased their passenger journeys but the Bus. However, this decrease in passenger journeys made on Bus remained this transport method even more common than Tham and Bike-sharing.
+
+The number of passenger journeys (in millions) made on bus declined around fifteen per cent in the first ten years, while the decline in 2020 is around twenty five per cent. On the other hand, the figure for the metro, tram and bike-sharing growed considerably. The number of passenger journeys made on metro rose more than thirty per cent in the fisrt ten years and more than fifty per cent in the last ten years of the study.
+
+The growth for the Tram and bike-sharing is even more significant. Tram journeys doubled their number for 2010 and their increase for 2020 were about two point five their initial value. Finally, bike-sharing had zero passenger journeys in 2000 but the figure climbed to 10 million ten years later, and for 2020 it was around three point eight times higher. Even with the accelerated increased presented in Tram and Bike-sharing passenger journeys, it remained below than the millions of passenger journeys made on bus in 2020.
+
+### 🔍 Corrección v1
+- 🔴 **Faltó el titular:** el metro **supera al bus** (60 vs 120 → 140 vs 80). No aparece en ninguna parte
+- 🔴 **Datos inexactos:** tram 15→45 es el **triple** (no 2.5) · metro 95→140 es +47% (no "más de 50%")
+- Porcentajes en vez de cifras: en Task 1 se reportan **los números de la tabla**
+- Concordancia: *every type… **its*** · *their increase **was*** · *tram and bike-sharing → **they** remained*
+- *graph → table* · *growed → grew* · *below than → below* · typos *Tham, fisrt*
+- Sin 4 min de corrección → barrido final no hecho (patrón 3 de la semana 10)
+The chart compares the percentage of households in five European countries that owned four selected home appliances in 2024.
+
+Overall, washing machines are near-universal across all five countries, while ownership of the other three appliances varies considerably. The widest variation by far lies in air conditioning, which is common in southern Europe but virtually absent in the north.
+
+Washing machines show almost no variation, ranging from 94 per cent in Sweden to 98 per cent in Spain. Air conditioning, by contrast, shows the widest spread in the chart. Roughly two-thirds of Spanish households own one and 43 per cent of Italian households do so, whereas the figure falls to 12 per cent in Germany and just 8 per cent in Poland. In Sweden the appliance is almost unheard of, at 5 per cent.
+
+The remaining two appliances follow a north-south pattern. Dishwasher ownership is highest in Sweden and Germany, at 82 and 74 per cent respectively, and lowest in Poland at 38 per cent. Tumble dryers are less common everywhere, ranging from 61 per cent in Sweden down to 15 per cent in Polan. In both cases the northern countries lead and Polan records the lowest figure.
+
+
+
+---
+
+## 📌 Pendientes de casa
+- [x] ~~**Task 1 nº 1**~~ ✅ escrita el 29-ago, corregida el 31
+- [ ] **Task 1 nº 2**, bar chart — corrida al **lunes 31**
+- [ ] **Drill de registro** si no se alcanzó el viernes: tapar los modelos, reescribir las propias frases de la v2 aplicando **una sola** de las 6 reglas, comparar al final
+- [x] ~~**Pegar la v1 del 25-ago**~~ ✅ archivada el 29-ago, con su corrección
+
+---
+
+# ⚙️ MARTES 1 SEP — TASK 1 Nº 3: DIAGRAMA DE PROCESO
+
+## El enunciado
+
+> *The diagram below shows the process by which recycled paper is produced from waste paper.*
+>
+> *Summarise the information by selecting and reporting the main features.* **150+ palabras · 20 minutos.**
+
+**Las ocho etapas:**
+
+1. **Waste paper collection** — recogido de hogares y oficinas → llevado en camión a la planta
+2. **Sorting** — separado a mano en cinta transportadora; se retiran plásticos, grapas y contaminantes
+3. **Pulping** — a un tanque grande con agua y químicos → se convierte en *pulp*
+4. **Screening** — la pasta pasa por filtros que retiran partículas restantes
+5. **De-inking** — se inyecta aire; la tinta sube como espuma y se retira
+6. **Drying and rolling** — la pasta se extiende sobre una malla, se prensa entre rodillos calientes y se seca
+7. **Cutting and packaging** — las hojas se cortan a medida y se empacan
+8. **Distribution** — enviado a los comercios
+
+---
+
+## ✍️ v1 — 1 de septiembre · **170 palabras · Band 6**
+
+The diagram below illustrates the standar process to convert waste paper into reclyced paper.
+
+Overall, the process consist of eight stages, beginning with waste paper collection and ending with its distribution once it is ready to use. Iti s a cyclical process because the paper can be recycled multiple times and requires human intervention.
+
+In the first stage the paper is collected from houses and offices to the recycling factory. Once its collection has been done the sorting process starts, in this part of the process the workers retire plastic and other remaining elements. After being classified, the paper goes to a tank with water and chelmical agents that converts it in Pulp. Subsequently, a filter removes polluting particules in the Pulp.
+
+Following this, the ink present in the Pulp is taken away using highly-pressured air. After de-inking process, the Pulp is extended on a grid and dryed using hot rollers. In the final stage  these dryed sheets are divided in standar sizes and packaged, ready to be transported distributed.
+
+---
+
+## 🔍 Corrección
+
+### ⭐ Lo mejor del día — los conectores de secuencia son de banda 7
+
+> *In the first stage… · Once its collection has been done… · **After being classified**… · Subsequently… · Following this… · In the final stage…*
+
+**Seis marcadores distintos, ninguno repetido, ni un solo *then*** — y al primer intento. Incluye la estructura ⭐ del banco (*After being* + participio), que conecta etapas en vez de listarlas. La pasiva también está bien distribuida.
+
+Las ocho etapas cubiertas · cuatro párrafos · 170 palabras. **Tres cronometradas seguidas con la estructura resuelta.**
+
+### 🔴 El Overview — dos violaciones en una frase
+
+> *"It is **a cyclical process because** the paper can be recycled multiple times…"*
+
+**1. Es LINEAL, no cíclico.** Empieza en papel usado y termina en papel distribuido; **no hay flecha de retorno**. Cíclico es el agua: evapora → condensa → llueve → evapora.
+
+**2. *because* — explicó un porqué.** Y *"el papel puede reciclarse muchas veces"* **no está en el diagrama**: es conocimiento del mundo. Razónó hacia afuera del gráfico.
+
+Las dos son lo mismo: **salirse de lo que se ve.**
+
+> ## Test: **¿hay una flecha que vuelva a la primera caja?** No → ***linear***.
+> ## Y si aparece ***because***, se salió de la tarea.
+
+### 🔴 Falso amigo nuevo — *retire*
+
+> *the workers **retire** plastic*
+
+***retirar* → to remove.** *Retire* en inglés es **jubilarse**. Tercer falso amigo del mes, tras *experimented* y *motive*. → §4.5
+
+### 🔴 Empalme de comas — **7ª ocurrencia**
+
+> *…the sorting process starts**,** in this part of the process the workers…*
+
+### 🟠 Ortografía — 7 en 170 palabras, la densidad más alta hasta ahora
+
+Casi todas son **palabras nuevas del banco léxico del 31-ago**: cuando una palabra es reciente, la mano no la tiene automatizada.
+
+| ❌ | ✅ |
+|---|---|
+| standar ×2 | **standard** |
+| reclyced | **recycled** |
+| dryed ×2 | **dried** *(y → i)* |
+| chelmical | **chemical** |
+| particules | **particles** |
+| consist | **consists** *(concordancia)* |
+| Iti s | **It is** |
+| *Pulp* ×4 mayúscula | **pulp** — no es nombre propio |
+
+### Otros puntuales
+
+*collected from houses and offices **to** the factory* (dos ideas mezcladas) → *collected from homes and offices **and transported to*** · *converts it **in** Pulp* → ***into** pulp* · *taken away* → *removed* · *After ___ de-inking process* → *After **the** de-inking process* · *extended on a grid* → *spread onto a mesh screen* · *divided **in** standar sizes* → *cut **into** standard sizes* · *ready to be transported distributed* — edición incompleta, dos verbos.
+
+### 🎯 Versión modelo — ~215 palabras
+
+> The diagram illustrates the process by which waste paper is converted into recycled paper.
+>
+> Overall, the process consists of eight stages, beginning with the collection of waste paper and ending with the distribution of the finished product. It is a linear process which requires a significant degree of human intervention.
+>
+> In the first stage, waste paper is collected from homes and offices and transported by lorry to a recycling plant. Once it has been delivered, the material is sorted by hand on a conveyor belt, where workers remove plastics, staples and other contaminants. After being sorted, the paper is transferred to a large tank containing water and chemical agents, where it is broken down into pulp. The pulp is then passed through a series of filters, which remove any remaining particles.
+>
+> In the following stage, air is injected into the pulp so that the ink rises to the surface as a foam and can be skimmed off. Once it has been de-inked, the pulp is spread onto a mesh screen and pressed between heated rollers until dry. The resulting sheets are then cut to standard sizes and packaged. Finally, the recycled paper is dispatched to retailers, where it is sold to consumers.
+
+⚠️ **La etapa 8 tiene su propia oración.** En la v1 quedó pegada al final de otra.
+
+### Banda
+
+| Criterio | | |
+|---|---|---|
+| **Task Achievement** | **5.5** | Ocho etapas ✅ y Overview completo ✅, pero contiene **un error factual** (*cyclical*) y **una explicación** (*because*). El Overview es el párrafo que más pesa |
+| **Coherence & Cohesion** | **6.5** | ⭐ **Su mejor criterio.** Seis marcadores distintos, progresión impecable. Solo lo baja el empalme |
+| **Lexical Resource** | **5.5** | 7 errores de ortografía · *retire* · *converts it in* |
+| **Grammatical Range** | **6** | Pasiva variada, *After being…* ✅. Baja por *consist*, el empalme y *in* por *into* |
+
+**≈ 5.9 → Band 6.** Igual nota que el lunes, perfil distinto: hoy **CC sube a 6.5** y TA baja por el Overview.
+
+---
+
+## ✍️ v2 — 1 de septiembre
+
+*Escrita en Word para usar el contador de palabras.*
+
+The diagram below illustrates the standard process to convert waste paper into recycled paper.
+
+Overall, the process consists of eight stages, beginning with waste paper collection and ending with its distribution once it is ready to use. It is a linear process and requires human intervention.
+
+In the first stage the paper is collected from houses and offices and transported to the recycling factory. Once its collection has been done the sorting process starts. In this part of the process the workers remove plastic and other remaining elements. After being classified, the paper goes to a tank with water and chemical agents that converts it into pulp. Subsequently, a filter removes polluting particles in the pulp.
+
+Following this, the ink present in the pulp is taken away using highly-pressured air. After the de-inking process, the pulp is spread onto a mesh screen and dried using hot rollers. In the final stage  these dried sheets are cut into standard sizes and packaged, ready to be distributed.
+
+### ✅ Corregido
+
+*standard · recycled · chemical · particles · pulp* en minúscula · *consists* · *It is* — y **el Overview completo: *linear*, sin *because***. Ese párrafo queda bien.
+
+### 🔴 Lo que sobrevivió — y por qué importa cuáles
+
+| # | Como está | Como debe quedar |
+|---|---|---|
+| 1 | the workers **retire** plastic | the workers **remove** plastic — **el falso amigo** |
+| 2 | …the sorting process starts**,** in this part… | punto. **Empalme, 7ª vez** |
+| 3 | and **dryed** using hot rollers | **dried** — corrigió el segundo, no el primero |
+| 4 | collected from houses and offices **to** the factory | collected from **homes** and offices **and transported to** the factory |
+| 5 | converts it **in** pulp | converts it **into** pulp |
+| 6 | After ___ de-inking process | After **the** de-inking process |
+| 7 | **extended on a grid** | **spread onto a mesh screen** |
+| 8 | divided **in** standard sizes | **cut into** standard sizes |
+| 9 | ready to be **transported distributed** | ready to be **distributed** — sobra un verbo |
+
+*(y un espacio doble en "final stage  these")*
+
+> ## 🖥️ Los que corrigió son los que **Word subraya en rojo**. Los nueve que quedan **no los detecta ningún corrector**.
+>
+> *retire* es una palabra inglesa válida · *in* por *into* es gramática · el empalme es puntuación.
+>
+> **Y el examen no tiene Word.** Los errores que sobrevivieron hoy son exactamente la clase de error con la que estará sola el 7 de noviembre.
+>
+> **Solución — conservar el contador, quitar la ayuda:**
+> Word → **Archivo → Opciones → Revisión** → desmarcar *“Revisar ortografía mientras escribe”* y *“Revisar gramática mientras escribe”*. En **Opciones de Autocorrección**, desmarcar *“Poner en mayúscula la primera letra”* — eso fue lo que convirtió *pulp* en *Pulp*.
+
+> ## 📌 3ª confirmación, ahora más precisa: **lo que va en tabla se hace; lo que va en prosa corrida, no.**
+>
+> Los nueve que quedaron estaban **todos** en un párrafo mío titulado *“Otros puntuales”*, encadenados con puntos medios. Los que sí hizo estaban en tablas o encabezados. **Error de formato mío, no de atención suya.** De aquí en adelante: correcciones en tabla, siempre.
+
+### ⚠️ Nota de archivo
+Editó la v1 en vez de crear la v2, lo que borraba la línea base. **v1 restaurada desde el commit `9b39a2e`.** Regla: **la v1 nunca se toca** — sin el original no hay contra qué comparar.
+
+---
+
+## ✅ v3 — 2 de septiembre · **CERRADA**
+
+Los nueve aplicados sobre la v2 (arriba, ya actualizada). **185 palabras, cero errores de gramática, ortografía o puntuación.** Sobrevive un espacio doble en *"final stage  these"*.
+
+### El recorrido
+
+| | |
+|---|---|
+| **v1** en frío, 20 min | 170 palabras · **Band 6** · 7 faltas de ortografía · *cyclical because* · empalme · *retire* |
+| **v2** en Word | corregidas **las que el corrector subraya** |
+| **v3** a mano | **las nueve que ningún corrector detecta** |
+
+⚠️ **La v3 no mide producción en frío** — eso lo mide el Band 6 de la v1. Mide otra cosa: **capacidad de corregir sin ayuda**, hoy 9 de 9.
+
+### 🔴 El patrón que se cerró: **ediciones aditivas**
+
+En la primera ronda de la v3 quedó *spread onto a mesh screen **dried*** (se perdió el *and* al reemplazar *and dryed*) y *cut into **in** standard sizes* (quedó el *in* de *divided in*). **3ª ocurrencia** — la primera fue *ready to be **transported distributed*** en la v1.
+
+> **Las ediciones son aditivas: entra lo nuevo, no siempre sale lo viejo.**
+> **Arreglo:** tras editar una frase, **releer la oración completa desde el punto anterior**, no solo las palabras tocadas. Los restos quedan **a los lados** del cambio, no dentro.
+
+✅ **Señalado y cerrado en la siguiente pasada, sin introducir ninguno nuevo.**
+
+---
+
+# 🗺️ VIERNES 4 SEP — TASK 1 Nº 4: MAPA
+
+> **Autocontenido.** No hace falta el chat ni otro archivo.
+
+## El enunciado
+
+> *The two maps below show the coastal village of Stanwood in 1990 and the same area in 2020.*
+>
+> *Summarise the information by selecting and reporting the main features, and make comparisons where relevant.*
+>
+> **Write at least 150 words. You have 20 minutes.**
+
+### 🗺️ Stanwood, **1990**
+
+| Elemento | Dónde |
+|---|---|
+| **Carretera principal** | de este a oeste, cruzando el centro |
+| **Iglesia** | en el centro, al **norte** de la carretera |
+| **Escuela primaria** (pequeña) | al **este** de la iglesia |
+| **~20 casas** | al **sur** de la carretera |
+| **Tierras de cultivo** | al **norte** y al **oeste** |
+| **Bosque** | esquina **suroeste** |
+| **Río** | borde **este** |
+| **Muelle pequeño** | en la costa, al **este** |
+
+### 🗺️ Stanwood, **2020**
+
+| Elemento | Qué pasó |
+|---|---|
+| **Carretera principal** | **ensanchada** + **rotonda** nueva en el centro |
+| **Iglesia** | ✅ **sin cambios** |
+| **Escuela** | primaria → **ampliada a secundaria** |
+| **Casas** | de ~20 a **~60**, al sur |
+| **Tierras del norte** | → **urbanización de viviendas** |
+| **Tierras del oeste** | → **supermercado con aparcamiento** |
+| **Bosque** | **talado** → **campo deportivo** |
+| **Río** | ✅ **sin cambios** |
+| **Muelle** | → **puerto deportivo con hotel** |
+
+---
+
+## Antes de arrancar
+
+**① Decidir el tiempo verbal primero.** Los dos años son pasados → **pasado simple + pasiva**: *was built · was converted into · was cleared · was extended*.
+
+**② El Overview de un mapa dice dos cosas:**
+
+> *Overall, the area **underwent significant development**, changing from **[carácter A]** to **[carácter B]**. The most notable change was **[el mayor]**, while **[algo] remained unchanged**.*
+
+> 📌 **Lo que NO cambió es obligatorio.** Aquí hay **dos** cosas intactas a propósito. Encontrarlas y mencionarlas es lo que distingue una descripción completa de una lista de novedades.
+
+## El reparto de los 20 minutos
+
+| Min | Qué |
+|---|---|
+| **0–1** | ⏱️ Mirar. Ni una palabra. ① ¿qué carácter tenía antes y cuál tiene ahora? ② ¿cuál es el cambio mayor? ③ ¿qué sigue igual? |
+| 1–3 | **Intro** — parafrasear el enunciado. Una oración |
+| 3–6 | **Overview** — dos oraciones · cambio de carácter + lo que no cambió |
+| 6–11 | **Detalle 1** — 4 oraciones. Sugerencia: **la mitad norte** |
+| 11–16 | **Detalle 2** — 4 oraciones. **La mitad sur y la costa** |
+| **16–20** | 🔴 **Corregir.** No se escribe nada nuevo |
+
+⚠️ **La tentación del mapa es explicar.** *The village grew **because of tourism*** no está en el plano. *…**which improved quality of life*** tampoco: eso es opinión.
+
+📏 Cuatro párrafos · **150 palabras mínimo** · cuatro oraciones por párrafo de detalle.
+
+## Los 4 minutos de corrección — en este orden
+
+1. **¿Llegué a 150?** Si no: falta una oración en cada párrafo de detalle
+2. **¿Mencioné lo que NO cambió?** · **¿Expliqué algún porqué?** · **¿Opiné?**
+3. **Artículos, dos barridos** (§4.7): solo `the`, luego solo `a`/`an`
+4. **Empalme de comas** (§4.10) — ante cada *however/therefore*: **tapar la coma**
+5. **Falsos amigos** (§4.5): *result*+adj → *prove* · *apparently* → *tend to* · *retire* → *remove* · *offer* → *range*
+6. **Ortografía y terminaciones** (§4.6). El primer instinto suele ser el correcto
+7. **Restos de edición** — tras cada cambio, **releer la oración completa hasta el punto final** (4 ocurrencias)
+
+<details>
+<summary><b>👀 PISTAS — abrir SOLO después de escribir</b></summary>
+
+**El titular:** un **pueblo rural y agrícola** se convirtió en una **localidad residencial y turística**. El campo desapareció por completo — no queda una sola parcela de cultivo — y el pueblo triplicó su vivienda.
+
+**Lo que NO cambió, y hay que decirlo:** la **iglesia** y el **río**. Son los dos únicos elementos intactos del plano.
+
+**El cambio individual más notable:** el **muelle → puerto deportivo con hotel**, porque marca la llegada del turismo. *The pier **was replaced by** a marina* · *A hotel **now occupies the site of** the old pier*.
+
+**Léxico:** *underwent considerable development · was cleared to make way for · was replaced by · now occupies the site of · was extended · remained unchanged · farmland · a housing estate · the outskirts · adjacent to · along the eastern edge*.
+
+**Una de banda 7:** *The farmland to the north and west **was cleared to make way for** a housing estate and a supermarket, **leaving no agricultural land in the area**.*
+
+</details>
+
+## ✍️ Task 1 nº 4 — el mapa · **6 de septiembre**
+
+**Tiempo:** 20 min · **v1: 189 palabras · ~Band 5.5** → **final: 178 palabras · ~Band 6.5**
+
+*Escrito al final de una tarde de recuperación, después del Task 2 de 40 min. Leer como primer contacto con el formato, no como medición de banda.*
+
+### v1 — primera escritura
+
+> The two maps below describe same areas in the village of Stanwood during the years 1990 and 2020.
+>
+> Overall, the area underwent significand development over the period, changing from a few buildings and rural areas to modern venues and larger urban areas. The most notable change was the growth in the principal road and the number of households, while the church remained unchanged.
+>
+> Initially, the principal road that goes from the east to the west crossing for the center is wider in 2020, with a roundpoint that allows more cars. Following with this growth, the primary school holds now a new stage for high school students. In the north of the village, during the last years new houses were builded in the lands located in the north whereas in the south a new supermarked with parking lots was erected. The number households along the south of the road increased three hundred per cent.
+>
+> Meanwhile some rural areas such as the forest were replaced by a sport campus and the dock was converted to a sports dock with provided with a hotel, the river located in the east remained steady.
+
+### ✅ Versión final — tras 4 rondas
+
+> The two maps below show the same area in the village of Stanwood in 1990 and 2020.
+>
+> Overall, the area underwent significant development over the period, changing from a few buildings and rural areas to modern facilities and larger urban areas. The most notable change was the widening of the main road and the increase in the number of households, while the church remained unchanged.
+>
+> Initially, the main road that ran from the east to the west crossing through the center was widened in 2020, with a roundabout that eased traffic flow. Following this growth, the primary school was extended to accommodate secondary students. In the north of the village new houses were built on the former farmland, whereas in the west a new supermarket with parking lots was erected. The number of households along the south of the road tripled.
+>
+> Meanwhile some rural areas such as the forest were replaced by a sports field. The pier on the east coast was converted into a marina provided with a hotel. The river located in the east remained unchanged.
+
+### 🎯 Lo que salió bien a la primera
+
+- ✅ **Las DOS cosas que no cambiaron** — iglesia y río. El enunciado advertía que encontrar ambas *"distingue una descripción completa de una lista de novedades"*. Salieron las dos, en el primer mapa de su vida
+- ✅ Overview con el **cambio de carácter** (rural → urbano)
+- ✅ **Pasiva correcta** tres veces: *was erected · were replaced · was converted*
+- ✅ **Ni una explicación causal.** La tentación del mapa es explicar, y no cayó
+- ✅ 189 palabras, cuatro párrafos
+
+### 🔴 Los tres fallos del formato
+
+**1. Mezcla de tiempos verbales** — era el aviso nº1 del ejercicio. Tres presentes en el párrafo 3 (*goes · is wider · holds now*) conviviendo con pasados correctos en el 4. **Los dos planos son pasado: todo va en pasado.**
+
+**2. Ubicación equivocada** — el supermercado al **sur** cuando va al **oeste**. En un mapa, la ubicación mal puesta es información incorrecta, como un número mal leído en un gráfico.
+
+**3. El último párrafo colapsado** — una sola oración de 36 palabras, con un empalme de comas y un resto de edición (*with provided with*), frente a 90 palabras en el párrafo anterior.
+
+### Léxico corregido
+
+*roundpoint* → **roundabout** · *were builded* → **were built** · *the dock* → **the pier** · *sports dock* → **a marina** · *sport campus* → **a sports field** · *remained steady* → **remained unchanged** · *crossing for* → **crossing through** · *converted to* → **converted into** · *a new stage* → **to accommodate secondary students** · *venues* → **facilities** · *principal road* → **main road** · *in the lands located in the north* → **on the former farmland**
+
+**Aritmética:** *increased three hundred per cent* → de 20 a 60 casas es **tripled** (+200%).
+
+### 🔴 El hallazgo — `growidening`
+
+En la ronda 3 apareció ***growidening***: al cambiar *growth* por *widening*, las dos palabras se fusionaron. **Resto de edición**, quinta ocurrencia del patrón, y nada menos que en el Overview.
+
+> Es el error más peligroso porque **no se ve**: el cerebro lee la palabra que se quiso escribir.
+> Checklist punto 7: **tras cada cambio, releer la oración completa hasta el punto final.**
+
+### 📈 Cuatro rondas, un punto de banda
+
+| Ronda | Qué entró |
+|---|---|
+| v1 | 189 palabras, ~5.5 |
+| v2 | Tiempos verbales · supermercado al oeste · último párrafo partido en tres · *tripled* |
+| v3 | Intro reescrita · *eased traffic flow* · *accommodate* — pero entró *growidening* |
+| **final** | *widening* · *main road* · *converted into* · paralelismo del Overview → **~6.5** |
+
+---
+
+# ⏱️ MIÉRCOLES 23 SEP — TASK 1 Nº 5 · TABLA, CRONOMETRADA
+
+> **Autocontenido.** Formato nuevo: **tabla con eje temporal** (sí hay tendencias: *rise, fall, overtake*).
+
+## El enunciado
+
+> *The table below shows the number of passenger journeys (in millions) made on four types of public transport in a European city in 2000, 2010 and 2020.*
+>
+> *Summarise the information by selecting and reporting the main features, and make comparisons where relevant.*
+>
+> **Write at least 150 words. You have 20 minutes.**
+
+| Transport | 2000 | 2010 | 2020 |
+|---|---|---|---|
+| Bus | 120 | 105 | 80 |
+| Metro | 60 | 95 | 140 |
+| Tram | 15 | 30 | 45 |
+| Bike-sharing | 0 | 10 | 38 |
+
+## El reparto de los 20 minutos
+
+| Min | Qué |
+|---|---|
+| **0–1** | ⏱️ **Los 60 segundos.** Sin escribir. ① ¿quién sube, quién baja? ② ¿algún cambio de posiciones? ③ ¿algo que empieza de cero? |
+| 1–3 | **Intro** — parafrasear. **Una** oración |
+| 3–6 | **Overview** — **dos** oraciones · **cero dígitos** · los cuatro medios representados |
+| 6–11 | **Detalle 1** — 4 oraciones |
+| 11–16 | **Detalle 2** — 4 oraciones *(⚖️ mismo tamaño que el 1 — patrón semana 10)* |
+| **16–20** | 🔴 **Corregir.** Nada nuevo |
+
+## Los 4 minutos de corrección
+
+1. **¿Llegué a 150?**
+2. **Artículos** (§4.7): barrido de `the`, luego de `a/an`
+3. **¿Dígitos en el Overview? ¿Los cuatro aparecen? ¿Expliqué algún porqué?**
+4. 🆕 **Barrido final de palabra** (patrón semana 10): typos + los 7 falsos amigos
+5. Registro: *number → the figure for*
+
+<details>
+<summary><b>👀 PISTAS — abrir SOLO después de escribir</b></summary>
+
+**El titular:** el metro **supera al bus** y se convierte en el medio más usado — inversión de posiciones (*overtake*).
+**El único que baja:** el bus. Los otros tres suben.
+**Lo que empieza de cero:** bike-sharing (*did not exist in 2000*, *emerged*).
+**Agrupación sugerida:** Detalle 1 = bus y metro (los grandes, que se cruzan) · Detalle 2 = tram y bike-sharing (los pequeños, que crecen).
+**Léxico:** *overtake · more than doubled · tripled · a third · steady decline · from a standing start · the figure for · respectively*.
+⚠️ **Ojo:** 45 es el **triple** de 15 — *tripled*. 140 es más del doble de 60 — *more than doubled*. §4.9: *double/half/a third* sin artículo.
+
+</details>
+
+## ✍️ Task 1 nº 5 — texto: **PEGAR AQUÍ**
+
+**Tiempo real:** ___ · **Palabras:** ___ · **¿4 min de corrección?** ___
+
+
+
+### v2 — 23 sep · **~Band 6.5** (titular recuperado)
+
+The table below shows the number of millions of passenger journeys made on four different types of public transport over two decades in a European city.
+
+Overall, the metro overtook the bus to become the most widely used form of public transport, while the bus was the only mode to decline. Tram and bike-sharing both grew steadily, the latter from a standing start.
+
+The number of passenger journeys (in millions) made on bus fell from 120 million in 2000 to 105 million in 2010, and then more sharply to 80 million in 2020. On the other hand, the figure for the other three modes grew considerably. The number of passenger journeys made on metro rose more than doubled, rising from 60 to 140 million, overtaking the bus by 2010.
+
+The growth of tram and bike-sharing was even more significant. Tram journeys doubled to 30 million by 2010 and tripled its original figure by 2020, reaching 45 million. Finally, bike-sharing had zero passenger journeys in 2000 but the figure climbed to 10 million ten years later, and for 2020 it was around three point eight times higher. Despite this rapid growth, tram and Bike-sharing remained below than the millions of passenger journeys made on bus in 2020.
+
+### Corrección v2
+- Titular y Overview ✅ · datos del tram ✅ · cifras en vez de porcentajes ✅
+- 🔴 Costura: *rose more than doubled, rising* (regla "no coser" del 28-ago)
+- 🔴 *by 2010* → *by 2020* — el aviso estaba en prosa debajo de la tabla y no entró (regla del 2-sep)
+- Filas 1, 4 y 9 sin aplicar · *Tram journeys… **their*** (plural)
+
+### v3 — 23 sep · **~Band 6.5 sólido / 7** · CERRADO
+
+The table below shows the number of millions of passenger journeys made on four different types of public transport over two decades in a European city.
+
+Overall, the metro overtook the bus to become the most widely used form of public transport, while the bus was the only mode to decline. Tram and bike-sharing both grew steadily, the latter from a standing start.
+
+The number of passenger journeys made by bus fell from 120 million in 2000 to 105 million in 2010, and then more sharply to 80 million in 2020. On the other hand, the figures for the other three modes grew considerably. Metro journeys more than doubled, rising from 60 to 140 million and overtaking the bus by 2020.
+
+The growth of tram and bike-sharing was even more significant. Tram journeys doubled to 30 million by 2010 and tripled their original figure by 2020, reaching 45 million. Finally, bike-sharing had zero passenger journeys in 2000 but the figure climbed to 10 million ten years later, before reaching 38 million in 2020. Despite this rapid growth, both tram and Bike-sharing remained well below the figure for the bus in 2020.
+
+### Corrección v3
+- 6 de 7 filas ✅ · sin costuras ✅ · *their* con *journeys* ✅
+- Quedan: intro *number of millions of* (fila 1) · *Bike-sharing* con mayúscula · *On the other hand → By contrast*
+- **Progresión:** v1 ~5.5–6 → v2 ~6.5 → v3 ~6.5/7
+
+### v4 — 23 sep · **~Band 7** · versión final limpia
+
+The table below shows the number of passenger journeys, in millions, made on four different types of public transport over two decades in a European city.
+
+Overall, the metro overtook the bus to become the most widely used form of public transport, while the bus was the only mode to decline. Tram and bike-sharing both grew steadily, the latter from a standing start.
+
+The number of passenger journeys made by bus fell from 120 million in 2000 to 105 million in 2010, and then more sharply to 80 million in 2020. By contrast, the figures for the other three modes grew considerably. Metro journeys more than doubled, rising from 60 to 140 million and overtaking the bus by 2020.
+
+The growth of tram and bike-sharing was even more significant. Tram journeys doubled to 30 million by 2010 and tripled their original figure by 2020, reaching 45 million. Finally, bike-sharing had zero passenger journeys in 2000 but the figure climbed to 10 million ten years later, before reaching 38 million in 2020. Despite this rapid growth, both tram and bike-sharing remained well below the figure for the bus in 2020.
+
+- Los 3 detalles de la v3 aplicados. Cero errores detectados. **Modelo de referencia para tablas.**
+
+---
+
+# ⏱️ JUEVES 8 OCT — TASK 1 Nº 6 · GRÁFICO DE LÍNEAS · 20 min
+
+> **Autocontenido.** Formato: **line graph** (los datos van en tabla porque aquí no hay imagen; en el examen verías 4 líneas). Lo nuevo: **cuatro líneas que se cruzan** y un **punto máximo** en una de ellas.
+
+## El enunciado
+
+> *The graph below shows the percentage of electricity generated from renewable sources in four countries between 2000 and 2020.*
+>
+> *Summarise the information by selecting and reporting the main features, and make comparisons where relevant.*
+>
+> **Write at least 150 words. You have 20 minutes.**
+
+| Country | 2000 | 2005 | 2010 | 2015 | 2020 |
+|---|---|---|---|---|---|
+| Colombia | 70 | 72 | 68 | 65 | 74 |
+| Germany | 6 | 10 | 17 | 30 | 45 |
+| United Kingdom | 3 | 4 | 7 | 25 | 43 |
+| Japan | 10 | 9 | 9 | 15 | 20 |
+
+## El reparto de los 20 minutos
+
+| Min | Qué |
+|---|---|
+| **0–1** | ⏱️ **Los 60 segundos.** ① ¿quién sube, quién baja? ② ¿se cruzan líneas? ③ ¿hay un máximo o un mínimo destacado? |
+| 1–3 | **Intro**: parafrasear, una oración |
+| 3–6 | **Overview**: dos oraciones · **cero dígitos** · los cuatro países representados |
+| 6–11 | **Detalle 1**: 4 oraciones |
+| 11–16 | **Detalle 2**: 4 oraciones *(⚖️ mismo tamaño)* |
+| **16–20** | 🔴 **Barrido:** ¿150? · artículos · ¿dígitos en el Overview? · ortografía · falsos amigos (*actual, increment*…) |
+
+<details>
+<summary><b>👀 PISTAS: abrir SOLO después de escribir</b></summary>
+
+**El titular:** Colombia es, de lejos, el país con mayor proporción durante todo el período, aunque **fluctúa** (cae hasta 2015 y se recupera). Los otros tres **crecen**, sobre todo Alemania y Reino Unido.
+**El cruce:** el Reino Unido **supera a Japón** entre 2010 y 2015 y casi **alcanza a Alemania** en 2020.
+**Agrupación sugerida:** Detalle 1 = Colombia y Japón (los que se mueven poco o fluctúan) · Detalle 2 = Alemania y Reino Unido (crecimiento rápido).
+**Léxico:** *fluctuate · dip to a low of · recover · overtake · surge · more than sevenfold · fourteenfold · remain well below · by far the highest*.
+⚠️ **Porcentajes:** se dice *the proportion rose **from** 6% **to** 45%*, no *rose 39%* (eso serían **puntos porcentuales**: *rose by 39 percentage points*).
+
+</details>
+
+## ✍️ Task 1 nº 6 — v1 · 8 oct · **~Band 5.5** — NO SE TOCA
+
+**Tiempo real:** ~19:27 · **Palabras:** 226 (19 / 60 / 35 / 71 / 41) · **¿4 min de barrido?** No
+
+The line graph below shows the percentage of electricity generated from renewables sources in for nations in two decades.
+Overall, European countries such as Germany and United Kingdom presented a remarkable increase, whereas Japan remain steadily the first ten years and proceed to rise. Colombia since the first year showed the highest figure compared to the numbers in 2020 for the others three countries. After 2000, the percentages for Colombia oscillated in small values to finally increase in 2020.
+Between 2000 and 2010, Germany doubled the percentages of United Kingdom, whereas 2015 and 2020 the electricity produced from renewable sources in United Kingdom remained lower, these two countries showed similar values that increased gradually.
+For Japan and Colombia the percentage of electricity generated was not growing year by year as for Germany and United Kingdom. Instead of that, both countries, Japan and Colombia, had a highest amount of electricity produced since 2000. In 2005, while Colombia rose from 70% to 72%, Japan declined 1% and remained constant in 2010. In 2015, Japan started to increase and in 2020 doubled its first percentage presented in 2000.
+Finally, while Colombia showed a drop during 2010 and 2015, in 2020 had the highest percentage of electricity generated in all the data presented. Colombia since 2000 recorded the highest figure, even higher than the figures recorded in Germany in 2020.
+
+### 🔍 Corrección v1 · **~Band 5.5** (TA 5 · CC 5.5 · LR 6 · GR 5.5)
+
+**¿Divagó?** Sí. **Colombia aparece en 4 párrafos** y su idea principal ("es la más alta") se repite **tres veces**, mientras que **Alemania y Reino Unido no tienen ni una cifra** (6 → 45, 3 → 43). Es lo más caro del texto: el crecimiento más grande del gráfico quedó sin datos.
+
+| Problema | Dónde |
+|---|---|
+| 🔴 Dígitos en el Overview | *2020*, *2000* |
+| 🔴 Datos clave ausentes | Alemania y Reino Unido: cero cifras |
+| 🔴 Dato falso | *Japan and Colombia had a highest amount… since 2000*: Japón nunca es el más alto |
+| 🔴 Párrafos desequilibrados | 35 / 71 / 41 palabras; Colombia partida en dos párrafos |
+| Empalme de coma | *…remained lower, these two countries showed…* |
+
+### Las sustituciones
+
+| # | Dice | Cambiar por | Por qué |
+|---|---|---|---|
+| 1 | The line graph below shows | The line graph illustrates | no copiar el enunciado |
+| 2 | renewables sources in for nations in two decades | renewable sources in four countries between 2000 and 2020 | *renewable* adjetivo · *four* · período exacto |
+| 3 | Overall, European countries such as Germany and United Kingdom presented a remarkable increase, whereas Japan remain steadily the first ten years and proceed to rise. | Overall, the proportion of renewable electricity rose in Germany, the UK and Japan, with the two European countries experiencing by far the most rapid growth. | sin dígitos · *the UK* · concordancia (*remain/proceed*) |
+| 4 | Colombia since the first year showed the highest figure… [hasta el final del párrafo] | Colombia, by contrast, fluctuated slightly but remained the country with the highest share throughout the period. | **una** oración, **cero dígitos**, sin repetir |
+| 5 | Between 2000 and 2010, Germany doubled the percentages of United Kingdom, whereas 2015 and 2020… gradually. | Germany's share rose steadily from 6% in 2000 to 45% in 2020. The UK started from an even lower base of 3% and grew slowly until 2010, when it reached 7%. It then surged to 25% in 2015 and to 43% in 2020, almost catching up with Germany. | 🔴 **las cifras que faltaban** · sin empalme |
+| 6 | For Japan and Colombia… [párrafos 4 y 5 completos] | Colombia's figure was consistently far higher, starting at 70%. It fluctuated slightly, dipping to a low of 65% in 2015, before recovering to a peak of 74% in 2020. Japan, in contrast, remained almost unchanged at around 9–10% for the first decade, then doubled to 20% by 2020. Even so, it stayed well below the other three countries. | **un solo** párrafo de 4 oraciones · elimina el dato falso y las repeticiones |
+
+**Estructura correcta de la v2:** Intro (1) · Overview (2, sin dígitos) · **Detalle 1 = Alemania + UK** (3–4) · **Detalle 2 = Colombia + Japón** (4). **Cuatro párrafos, no cinco.**
+
+**Regla para el examen:** *Si ya lo dijiste en el Overview, en el detalle solo se añaden **cifras**, no se repite la idea.*
+
+### v2 — 8 oct · **~Band 7** · CERRADO (~170 palabras, 4 párrafos)
+
+The line graph below illustrates the percentage of electricity generated from renewable sources in four countries between 2000 and 2020.
+Overall, the proportion of renewable electricity rose in Germany, the UK and Japan, with the two European countries experiencing by far the most rapid growth. Colombia, by contrast, fluctuated slightly but remained the country with the highest share throughout the period.
+Germany´s share rose steadily from 6% in 2000 to 45% in 2020. The UK started from an even lower base of 3% and grew slowly until 2010, when it reached 7%. It then surged to 25% in 2015 and to 43% in 2020, almost catching up with Germany.
+Colombia´s figure was consistently far higher, starting at 70%. It fluctuated slightly, dipping to a low of 65% in 2015, before recovering to a peak of 74% in 2020. Japan, in contrast, remained almost unchanged at around 9-10% for the first decade, then doubled to 20% by 2020. Even so, it stayed well below the other three countries.
+
+**Corrección v2:** las 6 filas aplicadas ✅ · Overview sin dígitos ✅ · 4 párrafos equilibrados (60 / 50) ✅
+- Detalle: *Germany´s* usa tilde (´) en vez de apóstrofo (') → en el examen usar la tecla **'** (junto al 0 / la Ñ en teclado español, o junto al Enter en teclado inglés)
+- Detalle: *below* se puede quitar (sigue copiando el enunciado)
+- ⚠️ **Ojo:** la v2 es en su mayoría texto de las sustituciones. **Es el modelo de referencia para líneas**, no una medida de su nivel en frío. La medida es la v1 (~5.5).
+
+
+
+---
+
+# ⏱️ SÁBADO 24 OCT — TASK 1 Nº 7 · GRÁFICO DE BARRAS · EN FRÍO · 20 min
+
+> **Autocontenido.** ⚠️ **No abras el enunciado hasta tener el cronómetro en 20:00.**
+> **16 días sin Task 1.** El mock de mañana lo incluye: esto es para despertarlo.
+
+## Lo que se mide hoy
+1. 🔴 **El Overview es el titular, SIN dígitos.** El 8-oct se llenó de cifras y le faltó la idea grande
+2. **Cuatro párrafos:** Intro (1) · Overview (2) · Detalle 1 · Detalle 2. **No cinco**
+3. **Agrupar**, no recorrer barra por barra. Si ya lo dijiste en el Overview, en el detalle solo van **cifras**
+4. **≥150 palabras**, objetivo 160–180
+5. 🔴 **Los últimos 3 minutos son barrido:** concordancia · artículos (*the UK*, *the proportion of*) · apóstrofo con la tecla `'` · nada copiado del enunciado
+
+## Reparto
+**0–3** leer y agrupar · **3–6** intro + overview · **6–16** dos párrafos de detalle · **16–20** barrido
+
+---
+
+<details>
+<summary><b>📊 EL ENUNCIADO — abrir SOLO con el cronómetro listo</b></summary>
+
+> *The bar chart below shows the percentage of households in one country that had access to four different technologies in 2005, 2015 and 2025.*
+>
+> *Summarise the information by selecting and reporting the main features, and make comparisons where relevant.*
+>
+> **Write at least 150 words.**
+
+**Datos (porcentaje de hogares):**
+
+| Tecnología | 2005 | 2015 | 2025 |
+|---|---|---|---|
+| Internet access | 38 | 74 | 92 |
+| Smartphone | 6 | 61 | 89 |
+| Smart TV | 1 | 22 | 58 |
+| Solar panels | 2 | 5 | 19 |
+
+</details>
+
+## ✍️ Task 1 nº 7 — v1 · 24 oct · 20 min · **248 palabras** · **~Band 5.5–6** — NO SE TOCA
+
+The bar chart below illustrates the percentage of households in one country that had access to four different technologies in 2005, 2015 and 2025.
+
+Overall, the access to all technologies across the years of the study increseased over time. While almost all of the households had access to internet at the end of the study, the access to solar panels remained lower compared to the other technologies even in its highest figure.
+
+Between 2005 and 2015 the percentages showed the highest increase for all technologies but solar panels. After 2015, the increase of these percentages remained high but lower than in the first decade. Solar panels instead, showed an increase higher than the double of its original value between 2005 and 2015, whereas in 2025 almost multiplied its value by 4.
+
+Smart tv and smartphones achieved the most remarkable peaks in 2015. While the percentage of households having smartphones in 2005 was 6%, in 2015 this value was more than ten times higher. In 2005 only 1% of households had access to smart tv, ten years later this number reached values of 22%. In 2025, both smartphones and smart tv, increased their accesibility to households to 89% and 58% respectively.
+
+The access to internet was the highest for all four technologies in 2005 with 38%, in 2015 the households with internet almost doubled to 74%. In 2025, the access to internet is the highest of all the chart, with 92% of houlseholds having it in the same country.
+
+---
+
+### ✅ Lo que se medía: **el Overview — arreglado**
+**Cero dígitos.** Tendencia general + el más alto + el más bajo. El 8-oct era cifras sin titular. Faltó solo: **los smartphones, el crecimiento más espectacular**.
+
+### 🔴 Afirmación FALSA sobre los datos
+*"the highest increase **for all technologies** but solar panels"* (2005–2015). **La Smart TV creció más en la 2ª década** (+21 vs **+36**).
+> 🔁 **La lección de Reading al revés:** ***all*** carga el peso también cuando lo escribe ella. **Antes de *all / every / both*, comprobar cada barra.**
+
+*"achieved the most remarkable **peaks** in 2015"* → los picos están en **2025**. Quiso decir ***rises***. `peak` = punto más alto, no salto más grande.
+
+### 🔴 Reincidentes
+- **Coma entre sujeto y verbo ×2** *(detectada el 18-oct)*: *Solar panels instead**,** showed* · *both smartphones and smart tv**,** increased*
+- **Empalmes ×2**: *…with 38%**,** in 2015…* · *…smart tv**,** ten years later…*
+- **3 typos que sobrevivieron 20 min de revisión**: `increseased` · `accesibility` · `houlseholds`
+> ⚠️ **Relee por sentido, y así el ojo completa la palabra.** Para ortografía: **otra pasada, palabra por palabra, señalando con el cursor.**
+
+### Forma
+- **248 palabras** (objetivo 170–190): las comas sujeto–verbo y un empalme están en las frases sobrantes
+- **5 párrafos**: Internet aparece en el Overview, en el párrafo 3 **y** en el 5
+- Intro **casi copiada del enunciado**
+- *access to internet* → **the** internet · *smart tv* → **smart TVs** · *higher than the double* → **more than doubled** · *in 2025 almost multiplied* → **it almost quadrupled** · *reached values of 22%* → **reached 22%** · *is the highest* → **was**
+
+| TA | CC | LR | GR | Global |
+|---|---|---|---|---|
+| 6 | 5.5 | 6 | 5.5 | **~5.5–6** |
+
+**Medio punto sobre el 8-oct.**
+
+### 📐 Modelo de referencia — 4 párrafos, ~180 palabras
+
+The bar chart compares the proportion of households in one country with access to four technologies in 2005, 2015 and 2025.
+
+Overall, access to all four technologies rose over the period. Internet access remained the most widespread throughout, while solar panels were consistently the least common. Smartphones showed by far the most dramatic growth.
+
+In 2005, 38% of households had internet access, a figure that almost doubled to 74% by 2015 and reached 92% in 2025. Smartphone ownership grew even faster, from just 6% to 61% in the first decade, before climbing to 89%, close to the internet figure.
+
+Smart TVs followed a different pattern: from only 1% in 2005, they reached 22% in 2015, **but their sharpest rise came in the second decade**, to 58% in 2025. Solar panels, meanwhile, remained marginal, more than doubling from 2% to 5% before almost quadrupling to 19%.
+
+> **La excepción que ella contó como regla es justo un rasgo que vale la pena reportar.** *"Followed a different pattern"* = lenguaje de banda 7.
+
+### 🎯 Para el mock del 25
+1. **Antes de *all / every / both*: comprobar cada barra**
+2. **4 párrafos, ~180 palabras**, y pasar al Task 2
+3. **Dos barridos separados:** sentido · **ortografía palabra por palabra**
+
+
+---
+
+# 🧭 TASK 1 Nº 8 — TABLA GUIADA *(mock del 25-oct, interrumpido)* · cómo abordar MUCHOS datos
+
+**Se bloqueó a los 5 minutos:** *"son tantos datos, no sé cómo abordarlo"*. Se convierte en **práctica guiada**, sin cronómetro.
+
+## El enunciado
+> *The table below shows how the UK unemployed spent their time last year.*
+> *Summarise the information by selecting and reporting the main features, and make comparisons where relevant.* **150+ words.**
+
+**How the Unemployed Spent their Time (UK, last year), %**
+
+| Actividad | Morning men | Morning women | Afternoon men | Afternoon women |
+|---|---|---|---|---|
+| Housework | 19 | **49** | 7 | 21 |
+| Shopping | 20 | 26 | 9 | 17 |
+| Job hunting | 22 | 16 | 12 | 13 |
+| Visiting friends or relatives | 6 | 10 | 12 | 17 |
+| Gardening | 14 | 2 | 13 | 3 |
+| TV | 4 | 2 | 14 | 12 |
+| Reading | 9 | 5 | 8 | 10 |
+| Decorating | 7 | 3 | 7 | 2 |
+| Walking | 5 | 3 | 8 | 2 |
+| Nothing / sitting around | 3 | 3 | 9 | 6 |
+| Staying in bed | 8 | 8 | 1 | 0 |
+| Visiting town | 5 | 7 | 3 | 4 |
+| Playing sport | 4 | 1 | 4 | 0 |
+| Drinking | 2 | 1 | 3 | 1 |
+
+## 🔑 LA REGLA PARA MUCHOS DATOS
+El enunciado dice ***"selecting and reporting the main features"***. **Elegir ES lo que se califica.** Describir los 56 números convierte el texto en una lista y baja la nota. **Se usan unos 10.**
+
+## El método — los primeros 3 minutos
+1. **¿Qué compara?** Aquí, **dos cruces**: mañana vs tarde · hombres vs mujeres
+2. **Tres rasgos = el Overview, sin cifras:**
+   - **A.** En la mañana dominan las tareas prácticas: *housework, shopping, job hunting*
+   - **B.** La mayor diferencia de la tabla: las mujeres, mucho más *housework* (**49 vs 19**)
+   - **C.** En la tarde todo se reparte más y sube el ocio: *TV* (14/12), *visiting friends* (12/17)
+3. **Dos grupos = dos párrafos**, 2–3 cifras cada uno
+
+| Párrafo | Contenido | Cifras |
+|---|---|---|
+| **Detalle 1: LA MAÑANA** | housework, shopping, job hunting | 49 vs 19 · 26 vs 20 · 22 vs 16 |
+| **Detalle 2: LA TARDE** | baja el housework, sube el ocio, jardín = hombres | 21 vs 7 · TV 14/12 · friends 17/12 · gardening 13 vs 3 |
+
+**Se ignora sin culpa:** reading, decorating, walking, sitting around, visiting town, sport, drinking. Como mucho, una frase: *"Activities such as playing sport and drinking accounted for very small proportions throughout."*
+
+## ✍️ Para escribir — 15 min, ~180 palabras, 4 párrafos
+**Intro (dada):** *The table compares how unemployed men and women in the UK spent their mornings and afternoons last year.*
+**Overview:** A + B + C · **Detalle 1:** mañana · **Detalle 2:** tarde
+
+### v1 *(26-oct)*
+> The table compares how unemployed men and women in the UK spent their mornings and afternoons last year.
+>
+> Overview, practical activities such as housework, shopping and job hunting were considerably higher during the mornings than in the evenings for both men and women. The most striking feature was the amount of time women spent in houseworkinh during the mornings compared to men. During the evenings, all activities presented similar numbers and spare time activites were more common than in the mornings.
+>
+> In the mornings, almost 50% of women were doing houseworking while the figure for men was almost the half, 19%. For shopping, similar figures are present for both men and woman, 20% and 26%, respectively. For job hunting, figures for men are higher than for women; 22% compared to 16%, respectively.
+>
+> In the evenings, the tme spent in houseworking for both men and woman decrease to 7% and 21%, respectively, but women remain spending more time despite of the time of the day. Spare time activites such as watching tv, gardening and visiting friends/relatives increase during the evenings. Men spent more time in gardening than woman during mornings and evenings. Other activities remained with the minimum of time spent for both women and men.
+
+*(26-oct, oficina, ~15 min, ~215 palabras)*
+
+### 🩺 Corrección v1 — **~6.0** (TA 6 · CC 6.5 · LR 5.5 · GRA 5.5)
+
+**✅ Lo que funcionó — el bloqueo está resuelto:**
+- **Selección perfecta:** usó solo las ~10 cifras del plan e ignoró el resto sin culpa. Eso era exactamente lo que se medía.
+- 4 párrafos, Overview con los tres rasgos A + B + C, *respectively* bien usado, *the most striking feature* (banco C4) ✅, *considerably higher* (banco C3) ✅.
+
+**🔴 Errores de contenido (TA):**
+| | v1 | Corrección |
+|---|---|---|
+| 1 | *evenings* (×4) | La tabla dice **afternoons**. Copiar las etiquetas de la tabla. |
+| 2 | *the figure for men was **almost the half**, 19%* | 19 es **menos de la mitad** de 49 → *less than half that figure* |
+| 3 | *During the evenings, **all** activities presented similar numbers* | **Falso**: housework 21 vs 7, gardening 13 vs 3. 🔁 **Reincidente del Task 1 nº7** (la afirmación falsa con *all*) → *the gender gap narrowed for most activities* |
+| 4 | *practical **activities** were considerably higher* | Lo que es alto es la **proporción**, no la actividad → *a considerably higher proportion of people did…* |
+| 5 | Detalle 2 sin cifras de TV / friends | Añadir *TV (14% and 12%)*, *visiting friends (12% and 17%)* |
+
+**🔴 Gramática (GRA):**
+- **Tiempo:** *last year* → todo en **pasado**. *are present, are higher, decrease, increase, remain* → *were, were, fell, rose, still spent*.
+- ***housework* es sustantivo incontable**: *~~houseworking~~* → *doing housework* / *time spent on housework*.
+- ***despite of*** no existe → *despite* / *regardless of the time of day*.
+- *women **remain spending*** → *women **still spent** more time*.
+- *spent time **in** gardening* → *spent time **on** gardening* (*spend time on X* / *spend time doing X*).
+- *Overview,* como conector → ***Overall,***.
+
+**🔴 Typos (LR) — 6, el barrido no se hizo:** *houseworkinh · activites ×2 · tme · woman ×3 (→ women) · tv (→ TV)*
+
+**✍️ Para la v2:** corregir solo esto, sin reescribir desde cero. Meta: **6.5**.
+
+
+### v2 *(26-oct)*
+> The table below compares how unemployed men and women in the UK spent their mornings and afternoons last year.
+>
+> Overall, considerably higher proportion of people did practical activities such as housework, shopping and job hunting  during the mornings than in the afternoons. The most striking feature was the amount of time women spent in houseworking during the mornings compared to men. During the afternoons, the gender gap narrowed for most activities.
+>
+> In the mornings, almost 50% of women were doing houseworking, while the figure for men was less than the half that figure, 19%. For shopping, similar figures are present for both men and women, 20% and 26%, respectively. For job hunting, figures for men are higher than for women; 22% compared to 16%, respectively.
+>
+> In the afternoons, the time spent in houseworking for both men and women decrease to 7% and 21%, respectively, but women remained spending more time despite the time of the day. Spare time activities such as watching tv, gardening and visiting friends/relatives increased during the afternoons. Men spent more time on gardening, 14% and 13%, than women during mornings and afternoons, 2% and 3%. Other activities remained with the minimum of time spent for both women and men.
+
+### 🩺 Corrección v2 — **~6.5 en contenido, gramática aún 5.5–6** (TA 6.5 · CC 6.5 · LR 6 · GRA 5.5)
+
+**✅ Arreglado:** *afternoons* · *less than half* · el *all* falso → *the gender gap narrowed* · *a higher proportion of people did* · cifras de gardening · *Overall* · typos (salvo *tv*).
+
+**🔴 Lo que sobrevivió — todo gramática:**
+| v2 | Corrección |
+|---|---|
+| *considerably higher proportion* | ***a** considerably higher proportion* (sustantivo contable singular → artículo) |
+| *houseworking* ×3 · *spent **in*** | *spent **on housework*** · *doing **housework*** |
+| *less than **the** half that figure* | *less than half that figure* |
+| *are present · are higher · decrease* | *were · were · fell* — **se corrigió en una frase y no en las otras: barrer TODOS los verbos** |
+| *remained spending* | *still spent* |
+| ***despite** the time of day* | Cambia el sentido (*despite* = a pesar de un obstáculo) → ***regardless of** the time of day* |
+| *watching tv* | *watching **TV*** |
+| *Other activities remained with the minimum…* | *Other activities accounted for very small proportions throughout.* |
+| Detalle 2 | Siguen faltando TV (14/12) y friends (12/17) |
+
+**Diagnóstico:** el contenido ya está en 6.5. Lo que la frena es que **corrige el caso señalado y no el patrón**: se le marcó *are → were* y quedaron otros tres presentes. En el barrido, revisar **cada verbo**, no solo el marcado.
+
+### v3 *(26-oct)* — ✅ FINAL
+> The table below compares how unemployed men and women in the UK spent their mornings and afternoons last year.
+>
+> Overall, a considerably higher proportion of people did practical activities such as housework, shopping and job hunting  during the mornings than in the afternoons. The most striking feature was the amount of time women spent on housework during the mornings compared to men. During the afternoons, the gender gap narrowed for most activities.
+>
+> In the mornings, almost 50% of women were doing housework, while the figure for men was less than half that figure, 19%. For shopping, similar figures were present for both men and women, 20% and 26%, respectively. For job hunting, figures for men were higher than for women; 22% compared to 16%, respectively.
+>
+> In the afternoons, the time spent doing housework for both men and women fell to 7% and 21%, respectively, but women still spent more time regardless of the time of the day. Spare time activities such as watching TV, gardening and visiting friends/relatives increased during the afternoons. For watching TV, the figure for both men and women rose 10% in the afternoon. Visiting relatives/friends increased 4% in the afternoons for both men and women. Men spent more time on gardening, 14% and 13%, than women during mornings and afternoons, 2% and 3%. Other activities accounted for very small proportions throughout.
+
+### 🩺 Corrección v3 — **~6.5** ✅ (TA 6.5 · CC 6.5 · LR 6.5 · GRA 6.5)
+
+**✅ Gramática limpia:** todos los verbos en pasado, *housework* bien en las 3, *a considerably higher proportion*, *regardless of*, *TV*. **Esta vez barrió el patrón, no el caso.**
+
+**🔴 Lo último — dos cifras al calcular:**
+- *Visiting friends **increased 4%** for both* → **falso**: hombres 6→12 (**+6**), mujeres 10→17 (**+7**). Al calcular una diferencia, **recalcular antes de escribir**.
+- *gardening… increased* → hombres **bajaron** 14→13. Sacar *gardening* de esa lista.
+
+**⭐ Para 7:** *rose 10%* → *rose by **10 percentage points*** (de 4% a 14% es +250%, no +10%) · *the time of the day* → *the time of day*.
+
+
+
+---
+
+# 🏁 TASK 1 — MOCK Nº2 · 1 nov 2026 · Tabla: hogares con internet (Noruega, España, Brasil, India · 2005/2015/2025)
+*Tarea original de Claude. Datos: Noruega 64→91→98 · España 34→79→96 · Brasil 13→51→84 · India 2→19→62 (%).*
+
+## v1
+> The table illustrates the number of households with internet connection in four nations over two decades.
+> Overall, in every country, the access to internet rose year by year. Whereas almost every country showed the highest increase in the first decade,  India showed its highest increase in the second decade.
+> In 2005, more than half of Norway's population already was connected to internet. Ten years later, the growth in internet's accesibility reached 91% of households and in the final year of the study, almost all Norway's households have access to internet. Whereas Spain started the study with almost half the figure of Norway in 2005, the access to internet climbed to 79% in 2015 and ended with the similar figure of Norway in 2025, with 98% of houselholds with connection.
+> In 2005, only 13% of houses in Brazil had access to internet. In 2015 this figure increased to 51% and rose more than 30% in 2025. India was the country with the lowest amount of population connected to internet in 2005, only 2%. In 2015, this number increased almost ten times its original value. India remained with the lowest figure for 2025, with 62% of households connected to internet.
+
+## Corrección v1 — estimado **6.0–6.5**
+| Criterio | Banda | Por qué |
+|---|---|---|
+| TA | 6.0 | **Overview excelente** (la mayor subida en la 1ª década salvo India: verificado). Pero hay un dato mal (España 98% → **96%**), falta la cifra final de Brasil (**84%**) y dice *number* para porcentajes. |
+| CC | 6.5 | Buena agrupación: Noruega+España (altos) y Brasil+India (bajos). |
+| LR | 6.0 | *climbed, almost ten times*. Pero hay errores de ortografía y *amount of population*. |
+| GRA | 6.0 | Presente en vez de pasado (*have access*), orden de *already*, *the* general. |
+
+**Errores:**
+- *the number of households* → **the proportion / percentage of households** (es una tabla de %)
+- *rose year by year* → **rose steadily over the period** (solo hay 3 años de datos)
+- *almost every country* → **three of the four countries**
+- *Norway's population* → **Norway's households** (la tabla habla de hogares)
+- *already was connected* → **was already connected**
+- *almost all Norway's households have* → **almost all households in Norway had** (pasado)
+- *the access to internet* → **internet access** (sin *the*) · pero *connected to **the** internet* (con *the*: es un nombre único)
+- España *98%* → **96%** (dato mal leído; Noruega es la del 98%)
+- *rose more than 30% in 2025* → **rose by a further 33 percentage points to 84%**
+- *the lowest amount of population* → **the lowest proportion of households**
+- *increased almost ten times* → **increased almost tenfold**
+- *remained with the lowest figure* → **still had the lowest figure**
+- Ortografía: accesibility → **accessibility** · houselholds → **households**
+
+**Regla de la sesión:** *internet access* (general, sin *the*) vs *the internet* (nombre único, con *the*). Y antes de entregar, **comprobar cada cifra contra la tabla**.
+
+
+---
+
+# ✍️ TASK 1 — sáb 7 nov 2026 · Gráfico de líneas: horas semanales de ocio (2000–2020) · ⏱️ 20 min
+*Tarea original de Claude. ⚠️ Cronómetro en 20:00 antes de leer los datos.*
+
+> **The graph below shows the average number of hours per week that people in one country spent on four leisure activities between 2000 and 2020.**
+> **Summarise the information by selecting and reporting the main features, and make comparisons where relevant.**
+> **Write at least 150 words.**
+
+*(Gráfico de líneas; estos son los datos de cada línea)*
+| Activity | 2000 | 2005 | 2010 | 2015 | 2020 |
+|---|---|---|---|---|---|
+| Watching TV | 18 | 17 | 15 | 12 | 9 |
+| Using social media | 0 | 2 | 6 | 11 | 16 |
+| Reading | 6 | 5 | 5 | 4 | 4 |
+| Sport and exercise | 3 | 3 | 4 | 4 | 5 |
+
+**Checklist:**
+- ☐ **Overview** justo después de la intro: las 2 tendencias principales, **sin números**
+- ☐ Lenguaje de **tendencias**: *declined steadily · rose sharply · overtook · remained stable* (Banco Léxico C1, C3)
+- ☐ Son **horas**, no porcentajes
+- ☐ **Comparar cada cifra con la tabla antes de entregar**
+- ☐ Ortografía, *the* general, pasado en todo el texto
+
+## ✍️ v1 — 7 nov · **17:24** (sobraron 2:36) · **194 palabras** · **~Band 6.0** — NO SE TOCA
+
+The graph bellow illustrates the average of hours that people spent per week in four spare-time activities in a country between 2000 and 2020.
+
+Overall, the most remarkable feature is the drop in the average of hours spent watching TV and the increase in the use of social media over the twenty years. Although, reading, sport and exercise remained with small variations.
+
+The people spent an average of 18 hours per week watching TV in 2000 but with the years this figure declined to the half in 2020. Whereas the people did not use social media in 2000, after five years the people spent an average of two hours using social media and it increased until 16 hours per week in 2020, the highest number for any of the four activities in 2020.
+
+Although, the time spent in reading showed a downward trend across the twenty years of the study, this figure only reduced from six in 2000 to four in 2020, remaining almost constant. The average hours people spent doing sport and exercise showed a similar behavior over time, with a slightly decrease from three hours in 2000 to five hours in 2020.
+
+### ✅ Forma resuelta
+4 párrafos · Overview sin cifras · pasado en todo el texto.
+
+### 🔴 Dato al revés
+*"sport and exercise showed **a similar behavior**… with a slightly **decrease** from three hours… to **five**"* → **de 3 a 5 es SUBIDA**, y es lo **contrario** del Reading (bajó). Con 2:36 de sobra, el chequeo *"cifra por cifra contra la tabla"* no se hizo. **Mismo error que la Smart TV del 24-oct.**
+✅ *Time spent on sport and exercise, by contrast, rose slightly, from three hours to five.*
+
+### 🔴 Faltó el titular: el CRUCE
+Las redes **adelantaron** a la TV (2015: TV 12 / redes 11 → 2020: redes 16 / TV 9).
+✅ *Overall, time spent watching TV fell steadily, while social media use rose sharply, **overtaking television** to become the most popular activity by 2020. Reading and sport changed only slightly.*
+
+### 🔴 *Although* usado como *However* (×2)
+*Although* = *aunque* → **dos partes en la misma oración**, sin coma después. Para empezar frase: ***By contrast,*** / ***However,***.
+
+### El resto
+*bellow* (→ quitar; **below**) · *the average **of** hours* → **average number of hours** · *spent **in*** → **on** (×2) · ***The** people* (×3) → **People** · *declined **to the half*** → **halved** · *increased **until** 16* → **rose to** · *only reduced from six* → **fell only slightly, from six hours**
+
+| TA | CC | LR | GR | Global |
+|---|---|---|---|---|
+| 5.5–6 | 6 | 6 | 6 | **~6.0** |
+
+**Para el mock:** ① ¿algo adelanta a algo? → titular · ② minutos sobrantes = **cifra por cifra contra la tabla**, no releer de memoria.
+
+
+---
+
+# 🏁 MOCK Nº4 — TASK 1 · 8-nov · tabla de desempleados UK *(la misma del 25-oct)* · **226 palabras** · **~6.0**
+
+The table below illustrates how unemployed people in the UK spent their time last year.
+
+Overall, people spent most of their time in activities such as housework, shopping, visiting friends or relatives and job hunting, while the time spent for the rest of activities was significantly less. In addition, whereas women spent more time than men in activities such as housework and shopping, men spent more time than women in activities such as job hunting and gardening.
+
+Both men and women spent more time during morning to housework, nineteen and fourty nine per cent respectively, than during afternoon, seven and twenty one per cent respectively. Shopping, gardening and job hunting were also more common to do during morning than afternoons.
+
+Furthermore, leisure time activities such as visiting friends or relatives, watching TV, reading and decorating were more usual during afternoon. Men spent four time per cent watching TV during morning and fourteen per cent during afternoon, while woman spent two per cent during morning and twelve per cent during afternoon.
+
+The rest of activities represented small percentages of the total free time unemployed people have. Only two per cent of men were driking during the morning, the figure for women is just one per cent during morning and afternoon, but during afternoon, three per cent of men were drinking, a slightly increase of one per cent.
+
+✅ Overview con dos rasgos (actividades principales + diferencia de género).
+🔴 **Datos que no se sostienen:** *reading and decorating* "más en la tarde" (decorating bajó; reading de hombres bajó) · *gardening* "más en la mañana" (mujeres subió). **Mirar cada actividad antes de agruparlas.**
+🔴 **Ortografía:** `fourty` (🔴 repetido, 1-oct) · `driking`
+⚠️ **5 párrafos, 226 palabras**; el último entero sobre *drinking* (1–3%, lo menos relevante)
+⚠️ *during morning* ×7 → **in the morning** · cifras en palabras → **19% / 49%** · *spent time to/for* → **on** · *woman* → women · *a slightly increase* → slight · *have* → had
+
+| TA | CC | LR | GR | Global |
+|---|---|---|---|---|
+| 6 | 6 | 6 | 5.5 | **~6.0** |
+
+
+---
+
+# ✍️ TASK 1 — mar 10 nov 2026 · Gráfico de líneas: electricidad por fuente (1995–2020) · ⏱️ 20 min
+*Tarea original de Claude. ⚠️ Pon el cronómetro en 20:00 antes de leer los datos.*
+
+> **The graph below shows the percentage of electricity generated from four sources in one country between 1995 and 2020.**
+> **Summarise the information by selecting and reporting the main features, and make comparisons where relevant.**
+> **Write at least 150 words.**
+
+*(Gráfico de líneas, % del total)*
+| Source | 1995 | 2000 | 2005 | 2010 | 2015 | 2020 |
+|---|---|---|---|---|---|---|
+| Coal | 52 | 48 | 41 | 30 | 19 | 11 |
+| Gas | 18 | 22 | 27 | 30 | 31 | 29 |
+| Nuclear | 29 | 28 | 26 | 27 | 28 | 26 |
+| Wind and solar | 1 | 2 | 6 | 13 | 22 | 34 |
+
+**Checklist:**
+- ☐ **Overview** justo después de la intro: las 2 tendencias principales, **sin números**
+- ☐ El **cruce** de líneas como titular (*overtook*)
+- ☐ Son **porcentajes** → *the proportion / share of electricity*, no *the number*
+- ☐ **Comparar cada cifra con la tabla antes de entregar**
+- ☐ Ortografía, *the* general, pasado en todo el texto
+
+## ✍️ v1: PEGAR AQUÍ
+
+> The graph below illustrates the percentage of electricity generated from four different sources in one country between 1995 and 2020.
+> Overall, Coal and Wind and solar sources showed a linear downgrade and upgrade, respectively. Gas sources diminished and Nuclear sources increased but presented oscillations during time.
+> Coal started in 1995 with fifty two per cent, the highest figure of the graph and ended with the lowest percentage in 2020. Wind and solar sources started with the lowest percentage of electricity produced, only one per cent in 1995. In 2020 climbed to the highest value of that year, thirty four per cent.
+> Gas sources started with eighteen per cent in 1995 and rose to thirty one per cent in 2015, five years later in 2020 declined two per cent, ending with ninety nine per cent of electricity produced. Nuclear sources started with ninety nine per cent in 1995 and declined to ninety seven per cent in 2010, in 2015 increased one per cent and in 2020 it dropped to ninety six per cent.
+> Whereas Gas and Wind and solar sources presented remarkable growth, the drop in Nuclear was only three per cent while the drop in Coal sources was the highest, fourty one per cent of electricity.
+
+## Corrección v1 — estimado **5.5** (TA es lo que baja)
+| Criterio | Banda | Por qué |
+|---|---|---|
+| TA | 5.0 | **Overview con 2 tendencias al revés**: el gas **subió** (18→29) y la nuclear quedó **estable** (29→26). Cuatro cifras mal: **29, 29, 27, 26** escritas como 99, 99, 97, 96. Falta el cruce (renovables superan al carbón en 2015) y el 11% final del carbón. |
+| CC | 6.0 | Buena agrupación (carbón vs renovables; gas + nuclear) y párrafo final de comparación. Falta *by contrast / meanwhile*. |
+| LR | 5.5 | *downgrade/upgrade* (no son tendencias), *presented* (falso amigo), *fourty*. |
+| GRA | 6.0 | Sujeto omitido (*In 2020 climbed*), mayúsculas en *Coal, Gas*. |
+
+**Errores:**
+- La intro copia el enunciado → **The line graph compares the share of electricity produced from four sources in a country from 1995 to 2020.**
+- *linear downgrade and upgrade* → **declined steadily … rose dramatically**
+- *Gas sources diminished* → **gas rose overall** · *Nuclear increased* → **nuclear remained fairly stable**
+- *presented oscillations during time* → **fluctuated slightly over the period** (*presentar* = falso amigo)
+- *Coal, Gas, Nuclear* con mayúscula → **coal, gas, nuclear power**
+- *In 2020 climbed to* → **By 2020 it had climbed to**
+- *declined two per cent* → **fell by two percentage points**
+- **ninety nine / ninety seven / ninety six → 29 / 27 / 26** (¡*twenty* ≠ *ninety*!)
+- *fourty* → **forty** (la palabra 4 sí lleva U: *four*, *fourteen*; el 40 no)
+- Cifras en letras → **escribir 52%, 34%** (más rápido y sin errores de deletreo)
+
+**Overview modelo:** *Overall, coal fell sharply while wind and solar power rose dramatically, overtaking coal in 2015 and becoming the main source by 2020. Gas increased moderately, whereas nuclear power remained fairly stable.*
+
+**Regla de la sesión:** antes de entregar, **tapar el texto y leer cada cifra contra la tabla** (el checklist decía esto). Y escribir los números en **dígitos**.
+
+
+## v2 (mismo día)
+> The line graph compares the share of electricity generated from four different sources in one country between 1995 to 2020.
+> Overall, coal fell sharply while wind and solar power rose dramatically, overtaking coal in 2015 and becoming the main source by 2020. Gas increased moderately, whereas nuclear power remained fairly stable.
+> Coal started in 1995 with fifty two per cent, the highest figure of the graph and ended with the lowest in 2020, eleven per cent. Wind and solar sources started with the lowest percentage of electricity produced, only one per cent in 1995. By 2020 it had climbed to the highest value of that year, thirty four per cent.
+> Gas sources started with eighteen per cent in 1995 and rose to thirty one per cent in 2015, five years later in 2020 fell by two percentage points, ending with ninety nine per cent of electricity produced. Nuclear sources started with twenty nine per cent in 1995 and declined to twent seven per cent in 2010, in 2015 increased one per cent and in 2020 it dropped to twenty six per cent.
+> Whereas gas and Wind and solar sources presented remarkable growth, the drop in Nuclear was only three per cent while the drop in coal sources was the highest, forty one per cent of electricity.
+
+## Corrección v2 — estimado **≈6.0** (sube de 5.5)
+- ✅ Overview correcto con el cruce · nuclear bien (29/27/26) · 11% del carbón · *By 2020 it had climbed* · *fell by two percentage points*.
+- 🔴 **El gas sigue en *ninety nine*** → **29%**. Mismo fallo, por eso: **dígitos siempre**.
+- *between 1995 to 2020* → **between 1995 and 2020** / **from 1995 to 2020**
+- *five years later in 2020 fell* (frase pegada con coma y sin sujeto) → **. Five years later, it fell…**
+- *twent seven* → **twenty-seven** (o mejor **27%**) · *increased one per cent* → **rose by one percentage point**
+- *presented remarkable growth* → **grew remarkably** · *Wind, Nuclear* → minúscula · *of the graph* → **on the graph**
+- Nota: el overview es el modelo de Claude; el sábado hay que producirlo solo (fórmula: lo que más baja + lo que más sube + el cruce + lo estable).
+
+
+## v3 (mismo día)
+> The line graph compares the share of electricity generated from four different sources in one country between 1995 and 2020.
+> Overall, coal fell sharply while wind and solar power rose dramatically, overtaking coal in 2015 and becoming the main source by 2020. Gas increased moderately, whereas nuclear power remained fairly stable.
+> Coal started in 1995 with fifty two per cent, the highest figure of the graph and ended with the lowest in 2020, eleven per cent. Wind and solar sources started with the lowest percentage of electricity produced, only one per cent in 1995. By 2020 it had climbed to the highest value of that year, thirty four per cent.
+> Gas sources started with eighteen per cent in 1995 and rose to thirty one per cent in 2015. Five years later in 2020 fell by two percentage points, ending with twenty nine per cent of electricity produced. Nuclear sources started with twenty nine per cent in 1995 and declined to twenty seven per cent in 2010, in 2015 rose by one percentage point and in 2020 it dropped to twenty six per cent.
+> Whereas gas and wind and solar sources presented grew remarkably, the drop in nuclear was only three per cent while the drop in coal sources was the highest, forty one per cent of electricity.
+
+## Corrección v3 — estimado **≈6.5** ✅ todas las cifras correctas
+- Quedan: sujeto omitido ×2 (*Five years later in 2020 **it** fell* · *and **rose** by one percentage point **in 2015***) · resto de edición *presented grew* → **grew** · *only three per cent* → **only three percentage points** · *of the graph* → **on the graph**.
+- Patrón: **sujeto omitido** (pro-drop del español) aparece en las 3 versiones → al revisar, buscar cada verbo y preguntar "¿quién?".
+- Falso amigo nuevo en la lista: *present* (= mostrar formalmente / representar un reto) ≠ *presentar un aumento* → **rise, fall, fluctuate, show, experience**.
+
+
+## v4 (mismo día)
+> The line graph compares the share of electricity generated from four different sources in one country between 1995 and 2020.
+> Overall, coal fell sharply while wind and solar power rose dramatically, overtaking coal in 2015 and becoming the main source by 2020. Gas increased moderately, whereas nuclear power remained fairly stable.
+> Coal started in 1995 with fifty two per cent, the highest figure on the graph and ended with the lowest in 2020, eleven per cent. Wind and solar sources started with the lowest percentage of electricity produced, only one per cent in 1995. By 2020 it had climbed to the highest value of that year, thirty four per cent.
+> Gas sources started with eighteen per cent in 1995 and rose to thirty one per cent in 2015. Five years later, it fell by two percentage points, ending with twenty nine per cent of electricity produced. Nuclear sources started with twenty nine per cent in 1995 and declined to twenty seven per cent in 2010, then rose by one percentage point in 2015, before dropping to twenty six per cent in 2020.
+> Whereas gas and wind and solar sources presented grew remarkably, the drop in nuclear was only three percentage points, while the drop in coal sources was the highest, forty one per cent of electricity.
+
+## Corrección v4 — estimado **≈6.5–7.0** ✅
+- Sujetos y preposiciones arreglados. Quedan 2: *presented grew* (sigue ahí) → **grew** · *forty one per cent of electricity* → **41 percentage points**.
+- Lección: al corregir, **releer la frase entera**, no solo la palabra cambiada.
+
+
+## v5 — versión final (mismo día)
+> The line graph compares the share of electricity generated from four different sources in one country between 1995 and 2020.
+> Overall, coal fell sharply while wind and solar power rose dramatically, overtaking coal in 2015 and becoming the main source by 2020. Gas increased moderately, whereas nuclear power remained fairly stable.
+> Coal started in 1995 with fifty two per cent, the highest figure on the graph and ended with the lowest in 2020, eleven per cent. Wind and solar sources started with the lowest percentage of electricity produced, only one per cent in 1995. By 2020 it had climbed to the highest value of that year, thirty four per cent.
+> Gas sources started with eighteen per cent in 1995 and rose to thirty one per cent in 2015. Five years later, it fell by two percentage points, ending with twenty nine per cent of electricity produced. Nuclear sources started with twenty nine per cent in 1995 and declined to twenty seven per cent in 2010, then rose by one percentage point in 2015, before dropping to twenty six per cent in 2020.
+> Whereas gas and wind and solar sources grew remarkably, the drop in nuclear was only three percentage points, while the drop in coal sources was the highest, 41 percentage points.
+
+## Corrección v5 — estimado **≈7.0** ✅ (5.5 → 7.0 en 5 versiones)
+- Limpio. Detalles finos: *Wind and solar sources … it had climbed* → **they had climbed** (o *wind and solar power … it*) · el gas subió *moderately* (overview) ≠ *remarkably* (cierre) → coherencia: **grew** a secas o *wind and solar grew remarkably and gas moderately*.

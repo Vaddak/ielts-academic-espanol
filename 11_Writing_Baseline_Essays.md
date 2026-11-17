@@ -1,0 +1,1331 @@
+# Ensayos completos — archivo de versiones
+
+> Aquí se guarda el texto íntegro de cada Task 2 cronometrado, con sus reescrituras.
+> Sirve para comparar contra los mocks de octubre. Sin el texto guardado, las bandas
+> del tracker son números sin evidencia detrás.
+
+---
+
+# ENSAYO 1 — Prompt 1 (salud pública) · *Discuss both views*
+
+**Enunciado:** *Many people believe that the best way to improve public health is to increase the number of sports facilities. Others believe that this would have little effect and other measures are required. Discuss both views and give your own opinion.*
+
+| Versión | Fecha | Palabras | Banda |
+|---|---|---|---|
+| v1 — primera escritura cronometrada, 40 min | 2026-08-15 | **182** ❌ | ~5.5 |
+| v2 — reparación | 2026-08-17 | **248** ❌ | ~6 |
+| v3 — segunda reparación | 2026-08-18 | **263** ✅ | ~6.5 |
+| **v7 — FINAL, sin errores** | **2026-08-18** | **272** ✅ | **~7** |
+
+---
+
+## ✅ v7 — VERSIÓN FINAL · 272 palabras · ~Band 7
+
+*(TA 7 · CC 7 · LR 7 · GR 7) — verificada frase por frase: **sin errores gramaticales, léxicos ni de puntuación**.*
+
+> **[INTRODUCCIÓN — 52]** While many individuals express the importance of increasing the number of venues designed for physical activity as a means of improving general wellness, others identify different alternatives and aspects that will also positively impact public health. This essay contends that factors such as mental health are equally fundamental to achieve greater wellbeing.
+
+> **[BODY 1 — 89]** The role physical activity plays in all bodily systems is crucial. Noticeable improvements appear within a few weeks of including at least ten minutes of exercise per day. Multiple studies show diverse benefits such as a significant increase in sleep quality after practicing sports. Other vital variables such as blood pressure and cortisol levels remain within normal ranges. Consequently, in order to have more people interested in practicing sports despite their age, a varied programme is required, demanding greater infrastructure, more facilities and professionals prepared for each community's needs.
+
+> **[BODY 2 — 77]** Nevertheless, fitness is not the only element to ensure total wellbeing. Focusing only on this factor may exclude the importance of mental health. Conditions such as depression, anxiety and stress negatively affect general wellbeing. Data collected from psychological research in universities demonstrate a decline in health in individuals with psychological issues and poor or no assistance. Therefore, a strategy that addresses physical provision alone leaves a substantial proportion of the population unsupported, however many facilities are built.
+
+> **[CONCLUSIÓN — 54]** In conclusion, to achieve wellbeing with specific outcomes in society, any effective strategy must cover a sufficient number of facilities with a wide range of activities for all ages and physical conditions. Moreover, affordable and local psychological assistance is, in my opinion, mandatory to address the principal aspects of healthcare and help people holistically.
+
+---
+
+### El recorrido: siete versiones en cuatro días
+
+| Operación | Qué se hizo | Resultado |
+|---|---|---|
+| **1. Diagnosticar** | Encontrar por qué salieron 182 palabras → plantilla mal contada, bodies a la mitad | 4 oraciones por body |
+| **2. Completar** | Añadir los movimientos que faltaban a Body 1 y conclusión | 182 → 263 |
+| **3. Corregir** | 12 errores en una pasada, luego los reincidentes | Empalme de comas, artículos |
+| **4. Pulir** | Precisión léxica hasta el cero | 263 → 272, ~7 |
+
+**Son cuatro operaciones distintas y no son intercambiables.** Aplicar *"corregir es quitar, no añadir"* a un párrafo incompleto lo dejó en 229; completar sin corregir habría dejado los 12 errores.
+
+### Lo que quedaría por hacer para un 7.5 — estructural, no de edición
+
+1. **El claim del Body 1 no nombra el tema del enunciado.** Abre con *"The role physical activity plays… is crucial"*: argumenta que el ejercicio es bueno, cuando la pregunta es sobre **instalaciones**. La conexión llega en la última oración.
+2. **Falta un ejemplo concreto.** *"Multiple studies show"* es vago: sin dato, sin país, sin cifra. Band 7.5 pide evidencia específica.
+3. **Poca variedad sintáctica.** Casi todas las oraciones son declarativas de longitud parecida.
+
+Los tres son de **planificación**, no de corrección. Se resuelven antes de escribir, no después.
+
+### Las cuatro lecciones de método
+
+1. **Se corrige lo que se mira.** El empalme de comas del Body 2 necesitó **tres pasadas** para morir; las dos primeras se dieron por hechas sin verificar contra el texto.
+2. **Cuando una corrección tiene dos cambios en la misma frase, solo entra el resaltado.** Pasó con *prepared **for** each community**'s** needs* (entró la preposición, no el posesivo) y con *a **greater** infrastructure* (entró el adjetivo, no el artículo).
+3. **Editar introduce errores nuevos.** Tres días seguidos: se perdió la coma del *While*, la oración nueva de la conclusión llegó con cinco fallos, y la corrección *criterion → factor* creó una repetición.
+4. **Reparar puede borrar aciertos.** La conclusión del 15-ago tenía la opinión propia explícita; las reparaciones la eliminaron sin querer.
+
+> **Corolario para el examen:** toda frase añadida o reescrita necesita su propia revisión — no hereda la del texto anterior. Y la última pasada se hace sobre la versión **final**, no sobre la anterior.
+
+---
+
+---
+
+# ENSAYO 2 — Prompt 4 (brecha ricos/pobres) · *Problem–Solution*
+
+**Enunciado:** *In many countries, the gap between the rich and the poor is widening. **What problems does this cause and what measures can be taken to address the situation?***
+
+**🧊 Primera banda fría de la preparación:** tema nunca trabajado, tipo de pregunta nunca practicado.
+
+| Versión | Fecha | Palabras | Banda |
+|---|---|---|---|
+| v1 — cronometrada, 40 min, **sin pasada de corrección** | 2026-08-22 | 252 | ~5.5–6 |
+| **v5 — FINAL** | **2026-08-24** | **275** | **~7** |
+
+## ✅ v5 — FINAL · 275 palabras · ~Band 7
+
+*(TA 7 · CC 7 · LR 7 · GR 6.5)*
+
+> **[INTRODUCCIÓN — 43]** Around the world, differences in living conditions across population groups are increasingly stark. This essay contends that the Government and the private sector can create and promote measures to improve the quality of life of those with low incomes and reduce this gap.
+
+> **[BODY 1 — 112]** This widening gap produces two immediate consequences for vulnerable socioeconomic groups: restricted access to healthcare and to higher education. Data collected from surveys over the last ten years demonstrate that an average American family of four cannot afford medical insurance with only one regular salary. Access to higher education depends on expensive tuition fees and scholarships are not sufficient to cover enough students. As a consequence, a growing number of American students are enrolled in European universities. Taken together, these pressures mean that income inequality and inflated prices are the reality for almost all of society, entrenching disadvantages across generations, since neither health nor education can easily be recovered later in life.
+
+> **[BODY 2 — 70]** Therefore, new measures are needed to tackle this situation and guarantee basic and essential services for everyone. The medical sector must be the first to be addressed in order to have a sufficient budget and provide critical services for free. In addition, higher education institutions require funding from the government to enable a greater number of students from low-income families to become professionals and have a career without incurring debt.
+
+> **[CONCLUSIÓN — 51]** In conclusion, while the gap between the poor and the rich is large, the government and the private sector are obliged to provide solutions that allow vulnerable communities access to basic, good-quality services that help them to achieve a better quality of life and contribute to reducing this gap over time.
+
+### 🎯 El aprendizaje grande: la corrección estructural SÍ entra
+
+La v1 gastaba ~90 de 89 palabras del Body 1 **demostrando la premisa** que el enunciado ya daba (*"the gap is widening"*), y los problemas aparecían en la última línea.
+
+En **una sola pasada** el párrafo pasó a abrir con los problemas:
+
+> *This widening gap produces two immediate consequences for vulnerable socioeconomic groups: restricted access to healthcare and to higher education.*
+
+Misma evidencia, orden invertido. **En *Problem–Solution* la premisa es un dato dado: no se demuestra, se parte de ella.**
+
+> ⚠️ **Corrección de una afirmación anterior:** el 24-ago se dijo que "las correcciones de lengua entran y las de arquitectura no". Se desmintió en el intento siguiente. Eran tres casos, no un patrón.
+
+### 🎉 Entró la fuga de cerebros
+
+*As a consequence, a growing number of American students are enrolled in European universities.* — su mejor argumento propio, preparado el 19-ago en el banco Society & Work y sin usar hasta ahora.
+
+### 🔴 Patrón confirmado: dos arreglos en una frase, entra uno
+
+| Frase | Entró | No entró |
+|---|---|---|
+| *prepared **to** each community **needs*** | la preposición | el posesivo |
+| *a **bigger** infrastructure* | el adjetivo | el artículo |
+| *basic and **qualified** services* | *minimal* → *basic* | *qualified* |
+
+> **Si una frase necesita dos arreglos, reescríbela entera. No la parchees.**
+
+Y un segundo fallo distinto: *of **the** American students* fue **marcada en rosa dos veces** y sobrevivió las dos. Detectar y ejecutar son pasos separados — **corrige en el momento de marcar**.
+
+### Otros errores registrados
+
+*the wealthy* por *the wealth* (§4.4, señalado el 22-ago, sobrevivió una pasada) · *allowance* por *funding* (estaba en las palabras nuevas del 22-ago) · *minimal services* (= deliberadamente pobres) · *qualified services* (*qualified* describe personas) · *take on* por *tackle* · artículos **10/10 tareas** · *goverment · reallity · establisments · adquiring · european · disadvantges · socioeconomical*.
+
+
+---
+
+## v3 — 18 de agosto de 2026 · 263 palabras · ~Band 6.5
+
+*(TA 6.5 · CC 7 · LR 6 · GR 6)*
+
+> **[INTRODUCCIÓN — 48]** While many individuals express the importance of increasing the number of venues designed for physical activities in general wellness some others identify different alternatives and aspects that will also positively impact public health. This essay contends that factors like mental health are equally fundamental to achieve greater wellbeing.
+
+> **[BODY 1 — 92]** The role physical activity plays in all the bodily systems is crucial. General improvements are notable with a few weeks of including at least 10 minutes per day of any exercise. Multiple studies show diverse benefits like a significant increase in sleep quality after practicing sports. Other vital variables like blood pressure and cortisol levels remain within their average values. Consequently, in order to have more people interested in practicing sports despite their age a varied agenda is required, demanding a bigger infrastructure, more facilities and proffessionals prepared to each community needs.
+
+> **[BODY 2 — 77]** Nevertheless, fitness is not the only criterion to ensure total wellbeing. Focusing only on this factor may exclude the importance of mental health. Conditions such as depression, anxiety and stress negatively affect general wellbeing. Data collected from psychological research in universities demonstrate the decrease of health in individuals with psychological issues and poor or no assistance. Therefore, a strategy that addresses physical provision alone leaves a substantial proportion of the population unsupported, however many facilities are built.
+
+> **[CONCLUSIÓN — 46]** In conclusion, to achieve wellbeing with specific outcomes in society the whole scheme must cover a sufficient number of facilities with a wide range of activities for all ages and physical conditions. In the same space psychological professionals are necessary to provide treatments and specialized attention.
+
+### Lo que se resolvió en esta versión
+
+- ✅ **Empalme de comas del Body 2** — muerto tras **tres supervivencias**. *total wellbeing**.** Focusing only…*
+- ✅ **Artículo** — *a greater wellbeing* → *greater wellbeing*
+- ✅ **263 palabras** — cruza el mínimo con 13 de margen, por expansión propia del Body 1 y la conclusión
+- ✅ **Repetición de *wellbeing*** — de 5 a 4, usando *wellness* y *fitness*
+- ✅ **Conclusión partida en dos oraciones**
+- ✅ *Conditions **like*** → *such as*
+
+### Lo que sigue abierto
+
+| # | Error | Corrección |
+|---|---|---|
+| 1 | ⚠️ **La conclusión no dice qué piensa** — se perdió al reparar; el 15-ago sí la tenía | *In my view…* · *are, in my view, equally essential*. Lo pide el enunciado (*give your own opinion*) |
+| 2 | ***proffessionals*** (Body 1) — **y *professionals* bien escrita en la conclusión**, misma palabra, mismo ensayo | Bucle de la duda, §4.6. La sabe: la escribió bien 12 líneas después |
+| 3 | **Coma perdida en la intro** — *…in general wellness ∅ some others…* | La cláusula con *While* la necesita. **Error nuevo, introducido al reescribir sobre limpio** |
+| 4 | Tres ***like*** — *factors like* · *benefits like* · *variables like* | ***such as***. *like* es informal en registro académico |
+| 5 | *prepared **to** each community needs* | *prepared **for** each community**'s** needs* |
+| 6 | *the decrease **of** health* | *a decline **in** health* |
+| 7 | ***In the same space*** | Calco de "en el mismo espacio" → *At the same time* · *Equally* |
+| 8 | *all **the** bodily systems* | *all bodily systems* (artículo) |
+| 9 | Comas tras frase introductoria | *…in society**,** the whole scheme…* · *In the same space**,** psychological…* |
+
+### Observación estructural — para el prompt 4, no para este
+
+El Body 1 abre con *"The role physical activity plays… is crucial"*: argumenta que **el ejercicio es bueno**, cuando el enunciado pregunta por **las instalaciones**. La conexión con instalaciones solo llega en la última oración.
+
+**El claim debe nombrar el tema del enunciado desde la primera oración.**
+
+---
+
+## v1 — 15 de agosto de 2026 · 182 palabras · ~Band 5.5
+
+*(TA 5.5 · CC 6 · LR 6 · GR 5.5) — **línea base**, 40 min cronometrados*
+
+| Bloque | Palabras | Objetivo |
+|---|---|---|
+| Introducción | 43 | 40–60 ✅ |
+| Body 1 | 53 | 90–110 ❌ mitad |
+| Body 2 | 53 | 90–110 ❌ mitad |
+| Conclusión | 33 | 40–60 ⚠️ |
+
+**Causa raíz:** las notas de la autopsia del 14-ago decían *"dos oraciones robustas bastan"* para el Body 1. El Body 1 del ensayo modelo tiene **cuatro** — Claim → Explain → Example → Link. Sus frases son largas y se contaron mal.
+
+> **4 ORACIONES POR BODY.** Convierte 182 en ~270 sin mejorar una sola frase.
+
+**Lo que sí midió la línea base, y era lo que importaba:** usó los 40 minutos completos (tras seis tareas entregando temprano), planificó antes de escribir por primera vez, activó 13 palabras del batch, y puso la opinión propia explícita en la conclusión.
+
+*El texto íntegro de la v1 no se conservó; los fragmentos citados están en `07_Error_Log.md`.*
+
+---
+
+# ✍️ PÁRRAFO DE PRÁCTICA — 2 de septiembre · discourse markers
+
+**Enunciado:** *Some people believe universities should focus on practical skills; others argue they should prioritise theoretical knowledge.*
+
+**Condiciones:** 3 marcadores de 3 funciones distintas · al menos uno **en medio** de la oración · **cero empalmes**.
+**Contexto:** primer contacto con argumentación en **dos semanas**, antes de la sesión completa del sábado 5.
+
+## v1
+
+> While some people argument the focus universities should have only on practical skills, others contend that theoretical knowledge should be the priority. However, the evidence demonstrates how critical and essential these two components together are to achieve a better educational system. Moreover, students find more techniques that help them improving their performance at university by being enrolled in an environment with a wide offer to Access knowledge. Furthermore, industry appreciate and look after studends who had experience in both practical skills and theoretical knowledge.
+
+**✅ Cero empalmes** — los tres marcadores puntuados con punto. Y ***contend***, verbo académico excelente.
+**🔴 Solo dos funciones:** contraste + adición ×2 seguidas. Sin causa, sin ejemplo, los tres al inicio.
+
+## v3 — FINAL
+
+> While some people argue that universities should focus only on practical skills, others contend that theoretical knowledge should be the priority. However, the evidence suggests that the two are complementary rather than opposed. Moreover, students find more techniques that help them improve their performance at university by being enrolled in an environment with a wide range of ways to access knowledge. Therefore, industry appreciates and seeks out students who have experience in both practical skills and theoretical knowledge. The electronics industry, in particular, needs young professionals able to lead and propose new solutions based on both experience and theoretical knowledge.
+
+### ✅ Las tres condiciones, cumplidas
+
+| | |
+|---|---|
+| Tres funciones | contraste (*While/However*) · causa (*Therefore*) · ejemplo (*in particular*) |
+| Uno en medio | *The electronics industry**, in particular,** needs…* |
+| Cero empalmes | ✅ **tres versiones seguidas** |
+
+### ⭐ El hallazgo del día
+
+Su reacción fue *“no se me ocurrió una oración con uno en medio”*. **No hay nada que ocurrirse: es mecánico.** `Sujeto , marcador , verbo`. Se toma una oración que ya empieza con marcador y se mueve detrás del sujeto. → §4.10
+
+### 🔁 4ª ocurrencia de ediciones aditivas
+
+En la v2 quedó *complementary rather than opposed **to achieve a better educational system*** — la cola vieja sobrevivió al cambio y *opposed to achieve* ya no cierra.
+
+> **Releer la oración completa hasta el punto final.** Los restos quedan **después** del cambio.
+
+### Pendientes menores
+*Moreover* sobra (4 marcadores en 5 oraciones roza la Regla 3; la 3ª oración desarrolla la 2ª, no añade) · *theoretical knowledge* ×3 y *practical skills* ×3 → cerrar con **both** a secas · *students find more techniques* es vago.
+
+---
+
+# ⚖️ EJERCICIO DE HEDGING — 3 de septiembre
+
+Diez afirmaciones absolutas **suyas** (ensayo del prompt 1 + párrafo del 2-sep), suavizadas con **una sola** herramienta cada una.
+
+| # | Su versión | Corregida |
+|---|---|---|
+| 1 | the evidence **suggests that** the two are complementary | ✅ **perfecta** |
+| 2 | might **result essential** | *may **prove** essential* 🆕 falso amigo |
+| 3 | There is evidence to **suggests** … within a few weeks … at least ten minutes | *…to **suggest that** improvements **can appear relatively quickly, even with modest amounts of daily exercise*** |
+| 4 | Multiple studies **would** show | *Multiple studies **suggest*** |
+| 5 | **Apparently**, other vital variables… | *…**tend to remain** within normal ranges* |
+| 6 | a varied programme **could be required** | ✅ **correcta** *(may be required también)* |
+| 7 | …stress **in certain contexts** negatively affect… | *…stress **can** negatively affect…* — sobre-matizado |
+| 8 | Data… **would demonstrate** | *Data… **indicate*** |
+| 9 | any effective strategy **must cover**… | ✅ **firme, correcto** |
+| 10 | psychological assistance **is mandatory** | ✅ **firme, correcto** |
+
+## Lo que salió bien
+**4 de 10 perfectas**, y **acertó las dos de firmeza**: dejó la tesis y la conclusión sin matizar. Eso es criterio, que es la parte difícil. Lo que falló fue **vocabulario de hedging**.
+
+## Las tres trampas — detalle en `02_Vocabulary_Engine.md`, Unit 4
+
+1. 🔴 **`would` no suaviza.** Marca hipótesis; aplicado a una fuente sugiere que la fuente no existe
+2. ⚠️ ***apparently*** carga esceptismo coloquial — no es *aparentemente*
+3. 🔴 **Un dato inventado se generaliza, no se matiza.** Suavizar el marco y dejar las cifras deja la frase **más** expuesta
+
+> **Se matiza lo discutible. Lo obvio, no.**
+> **La tesis y la conclusión van firmes.** Un ensayo entero en condicional baja Task Response igual que el exceso de certeza.
+
+
+
+---
+
+# 🏁 TASK 2 Nº 3 — PROMPT 3 · 6 de septiembre
+## *Advantages–Disadvantages* — el último tipo de pregunta sin practicar
+
+> *The increasing use of technology in the workplace has reduced the need for face-to-face interaction between employees.*
+>
+> ***Do the advantages of this development outweigh the disadvantages?***
+
+**40 min cronometrados · 356 palabras · dentro de una sesión de 60 minutos seguidos (mapa + ensayo).**
+
+| Criterio | En frío | Final |
+|---|---|---|
+| Task Achievement | 5.5 | **6.5** |
+| Coherence & Cohesion | 6 | **6.5** |
+| Lexical Resource | 5.5 | **6.5** |
+| Grammatical Range | 5 | **6** |
+| **Global** | **~5.5** | **~6.5** |
+
+## ✅ Versión final
+
+> The growth in the use of different technologies in the workplace has considerably reduced human interactions between coworkers. This essay argues that while face-to-face interactions dropped, other important variables in working life have increased due to technology.
+>
+> Over the last ten years technology has become more essential than any other tool in working life. Its use has grown sharply and has reshaped a considerable number of processes in the industry. While some processes still require no technological intervention and depend on workers collaborating in person, others have been completely transformed, proving that full automation can increase results and productivity. As an example, a large number of jobs remained remote after the pandemic in 2020 because employers realized that the comfort provided for working from home and avoiding daily stressful situations such as traffic proved a rise in the quality of life of workers. Other important advantages are the better understanding that technology has given to workers in jobs that are linked to data analysis and numbers. The possibility to process a greater number of data in less time has allowed workers to improve their performance at work. To illustrate this, some companies that sell products such as clothing retailers implemented machine learning and deep data analysis to get a better understanding of their demand, achieving larger numbers in sales over the last three years.
+>
+> However, a significant drawback of this trend is that human interactions have been reduced to a minimum. Some people working remotely with minimum social interactions can get mental illness such as depression and anxiety. Over the last years universities in the United Kingdom have researched how loneliness affects the brain and neuronal activity. These studies suggest that avoiding social interactions can increase the risk of dementia and depression. Consequently, when for some people the only human interactions they have happen at work, for others these exchanges do not have a place if they work in isolation or from home.
+>
+> In conclusion, although the advantages in productivity are substantial, they do not outweigh the cost to workers' wellbeing: face-to-face interactions remain fundamental to balanced mental health.
+
+## 🔴 EL HALLAZGO DEL DÍA — *4 oraciones por body* NO son 4 razones
+
+Autodiagnóstico suyo, textual:
+
+> *"me mentalicé con las 4 oraciones en el body 1 y **lo tomé como 4 razones diferentes** para argumentar"*
+
+**Por eso el Body 1 salió con 187 palabras** (objetivo 90–110) y el Body 2 con 96: metió **dos argumentos completos**, cada uno con su ejemplo.
+
+> **4 oraciones = 4 MOVIMIENTOS de UN argumento**, no 4 argumentos.
+> **CLAIM** → **EXPLAIN** (el mecanismo) → **EXAMPLE** (de *ese* punto) → **LINK** (reafirma *ese* punto).
+>
+> El descriptor de Band 7 dice *"extends and supports"*: **profundidad, no cantidad.** Cuatro razones sueltas es Band 5–6 aunque el inglés sea perfecto, porque ninguna alcanza a desarrollarse.
+
+**Y explica el otro síntoma que reportó** — *"me quedé mucho tiempo pensando, como sin rumbo de sobre qué escribir"*: no decidió cuál argumento usar, así que usó los dos, y el tiempo salió de los minutos de corrección.
+
+📌 **Refuerza la necesidad del `Topic Idea Bank`**, pedido el 30 de agosto y aún pendiente.
+
+## 🔴 El veredicto — la trampa del tipo *Advantages–Disadvantages*
+
+La pregunta es **sí o no**. La v1 no la respondió: la tesis decía que pasaron las dos cosas, y la conclusión se inclinaba sin llegar a nombrarlo.
+
+**Es la trampa que se le señaló dos veces antes de escribir, y cayó igual** — y no por descuido: viene entrenada en *Discuss both views*, donde equilibrar es exactamente lo correcto. Este tipo pide lo contrario.
+
+**Doce palabras lo resolvieron:**
+
+> *…although the advantages in productivity are substantial, **they do not outweigh** the cost to workers' wellbeing…*
+
+## Lo que salió bien
+
+- ✅ **356 palabras.** El problema de la longitud está resuelto: 182 → 252 → 285 → **356**
+- ✅ **Dos ejemplos concretos y verificables:** el trabajo remoto tras la pandemia, y una empresa de ropa con machine learning para modelar demanda
+- ✅ **Hedging correcto** — *These studies suggest that · can increase the risk*. La Unit 4 del jueves, aplicada sola
+- ✅ ***has considerably reduced*** — adverbio antes del verbo, repasado esa misma tarde
+- ✅ **Un mecanismo real** en el Body 2: soledad → riesgo de demencia. No es opinión, es cadena causal
+- ✅ Conectores variados y bien puestos: *However · Consequently · To illustrate · As an example*
+
+## Los patrones que costaron banda
+
+**Concordancia sujeto–verbo ×4** — *variables… **has*** · *interactions **has*** · *universities… **has*** · *interactions **remains***. En las cuatro, el sujeto queda lejos del verbo y la concordancia se hace con la palabra más cercana.
+
+> **El método:** tapar todo lo que hay entre el sujeto y el verbo. **El sujeto nunca está dentro de una frase con preposición.**
+> Y acertó la más difícil del ensayo: *The growth ~~in the use~~ ~~of different technologies~~ ~~in the workplace~~ **has** considerably reduced…* ✅ Tres frases preposicionales en medio, y el verbo bien.
+
+**Frases sin verbo conjugado ×2** — *while **is** important* · *interactions **still being** fundamental*. *Being* no conjuga: la oración se queda sin núcleo.
+
+***worklife*** ×3 — familia de *laboral*, señalada esa misma tarde → *working life · the workplace*.
+
+**Ortografía:** *has growth* (por *grown*) · *conserable* · *confort* · *possibily* · *Consequenly* · *theyhave*.
+
+## ⚠️ Las correcciones que traen errores — 3ª y 4ª ocurrencia
+
+Al arreglar *still being* → *remains*, entró un **error de concordancia**. Al escribir el veredicto, entró ***overweigh*** por *outweigh* — **la palabra clave del enunciado, que estaba escrita en el propio enunciado**.
+
+> **La corrección también pasa por el checklist.**
+
+✅ **La última ronda no introdujo ninguno.** Primera vez desde el 17 de agosto.
+
+
+---
+
+# 🎯 TASK 2 Nº 4 — PROMPT 5 · 12 de septiembre
+## *Opinion* — el cuarto y último tipo de pregunta
+
+> *Some people argue that technological innovation is the most important factor in addressing climate change.*
+>
+> ***To what extent do you agree or disagree?***
+
+**40 minutos exactos · 316 palabras** · intro 55 · B1 113 · B2 105 · conclusión 43.
+**En frío: ~5.5.** Sin tiempo de corrección.
+
+## v1 — primera escritura, sin corregir
+
+Some individuals debate about how technological innovation is the most important factor in addressing climate change. While some argue that the environment cannot be improved using technological advances, this essay contends that technological innovation in fields such as applied sciences and engineering can accelerate the development of sophisticated techniques to mitigatethe effects of climate change.
+
+The use humakind gives to natural resources corresponds to search a better quality of life, every process in modern society involves minerals, metals and other natural resources. Over almost all the history of civilization humans used nature as a tool without considering consequences. However, a significan impact in the environment and the acceleration in climate change lead to invest and research about how can humankind address this situation. Over the last decades, technological advances allowed essential process to be more efficient and showed a good performance mitigating these effects of climate change. For example, the way energy is produced changed dramatically with renewable energies, leaving fossiel fuels as a temporal option for now.
+
+It is clear that society are in the need of natural resources to survive and to have a good quality of life. Resources such as water, energy and food are fundamental but the way humans access to them can be changed through new techniques in engineering, physics and other fields involved. Solar panels materials are being studied in United States over the last thirty years, data shows an increase around twenty per cent in the voltage produced for modern panels with even smaller sizes that older models. This leads to avoid using sources of energy with heavy consequences on the environment such as fossil fuels.
+
+In conclusion, while natural resources are essential in process involved in modern civilizations, it is clear that the way we extract, use and dispose of them can be changed and improved through technological innovation in the fields in charge of every process involved.
+
+---
+
+## 🔴 EL HALLAZGO — respondió una pregunta más débil
+
+El enunciado no pregunta *"¿sirve la tecnología?"*. Pregunta si es **EL FACTOR MÁS IMPORTANTE**, y eso obliga a **compararla con los otros**: política, regulación, hábitos, acuerdos internacionales.
+
+**La expresión *most important* no reaparece ni una vez** después de la introducción. El ensayo defiende *"la tecnología ayuda mucho"* — verdadero, bien argumentado, y **otra pregunta**.
+
+> ### Es el gemelo exacto del error de Reading del 12-sep
+> En la #7 del pasaje integrado el ojo se ancló en *"traced to"* y **el peso estaba en *single***.
+> Aquí el ojo se ancló en *"technological innovation… climate change"* y **el peso estaba en *the most important factor***.
+>
+> **La misma técnica sirve en los dos módulos: subrayar la palabra que carga el peso ANTES de empezar.**
+
+## 🔴 La plantilla equivocada
+
+> *"**While some argue that** the environment cannot be improved…, **this essay contends that**…"*
+
+Esa es la plantilla de **Discussion**. En *Opinion* no hay una posición ajena a la que contestar: **la postura ocupa la intro entera**. Además la contraparte que introduce (*"el medio ambiente no puede mejorarse con tecnología"*) **no la sostiene nadie y no vuelve a aparecer** — 15 palabras de hombre de paja.
+
+**Y falta el grado.** *"To what extent"* pide una dosis y no se da ninguna.
+
+### Intro reescrita — misma idea, pregunta correcta
+
+> *Technological innovation has transformed the way societies produce energy and manage resources. **This essay largely agrees that it is the decisive factor**, since engineering solutions address the physical causes of emissions directly, **although political regulation remains necessary to deploy them at scale**.*
+
+`largely agrees` = el grado. `although…` = el matiz — que **no es "depende"**: dice cuánto y por qué.
+
+## 🔴 Los dos bodies argumentan lo mismo
+
+| | Tesis real | Ejemplo |
+|---|---|---|
+| **Body 1** | La tecnología hace los procesos más eficientes | renovables vs. fósiles |
+| **Body 2** | La tecnología cambia cómo accedemos a los recursos | paneles solares vs. fósiles |
+
+Mismo argumento, casi el mismo ejemplo → el examinador lee **un solo punto desarrollado dos veces**.
+
+**Y ninguno tiene topic sentence.** El Body 1 abre con contexto histórico; el argumento no arranca hasta *"Over the last decades…"*, la **cuarta** oración.
+
+> **REGLA NUEVA:** la **primera oración de cada body es la tesis del párrafo**, y **debe contener la palabra clave del enunciado**.
+> **Test:** si tu primera oración podría abrir un ensayo sobre cualquier otro tema, no es topic sentence.
+
+**Las dos que hacían falta:**
+- **B1:** *Technological innovation is decisive **because it attacks the physical source of emissions**, which no amount of regulation can do on its own.*
+- **B2:** *It is also **the factor that scales fastest**, since each improvement in efficiency spreads globally without requiring political consensus.*
+
+La segunda **compara con el otro factor**. Ahí es donde se responde *"most important"*.
+
+## ⚠️ El error gramatical más caro — pregunta indirecta
+
+> ❌ *research about **how can humankind address** this situation*
+> ✅ *research into **how humankind can address** this situation*
+
+Detalle completo y 8 ejemplos en `10_Grammar_Quick_Reference.md` **§4.11**.
+
+## Los cinco patrones reincidentes — aparecieron los cinco
+
+| | Patrón | En el texto | Correcto |
+|---|---|---|---|
+| 1 | **Empalme de comas** (§4.10) | *quality of life**,** every process…* | `life. Every` |
+| | | *thirty years**,** data shows…* | `years. Data shows` |
+| 2 | **Sujeto–verbo** | *society **are*** | `society **is**` |
+| 3 | ***need of*** | *are in **the need of** natural resources* | `**need** natural resources` |
+| 4 | **Artículo** | *studied in ∅ United States* | `in **the** United States` |
+| 5 | ***that / than*** (§4.9) | *smaller sizes **that** older models* | `**than** older models` |
+
+**Los dos empalmes son la misma coma.** `need of` y `than` **ya estaban en el error log** — no es desconocimiento, es **falta de barrido final**.
+
+## Incontables y plurales
+
+***process* es CONTABLE.** Varios = **`processes`** */ˈprəʊsesɪz/*. Aparece **dos veces** en singular: *"essential process to be more efficient"* · *"essential in process involved"*.
+
+## Falsos amigos y forma
+
+| ❌ | ✅ | Por qué |
+|---|---|---|
+| *a **temporal** option* | **temporary** | `temporal` en inglés = *relativo al tiempo* (filosofía) |
+| *corresponds to **search** a better…* | *reflects **the search for**…* | tras preposición: gerundio o sustantivo, **nunca infinitivo** |
+| *leads to **avoid** using* | *makes it possible **to avoid**…* | `lead to` + **-ing** |
+| *an increase **around** 20%* | *an increase **of** around 20%* | |
+| *humans **access to** them* | *humans **access** them* | verbo transitivo, sin `to` |
+| *impact **in** the environment* | *impact **on*** | |
+
+**Ortografía (sin corrector en el examen):** `mitigatethe` · `humakind` · `significan` · `fossiel`.
+
+## Lo que salió bien
+
+- ✅ **316 palabras en 40 minutos**, y **bodies equilibrados** (113/105) — primera vez
+- ✅ **Los 40 minutos completos**, sin entregar antes
+- ✅ **Léxico: 6.5, el criterio más alto del día** — `mitigate`, `dispose of`, `sophisticated`, `dramatically`, `accelerate`
+- ✅ ***"leaving fossil fuels as a … option"*** — construcción participial elegante, de banda 7
+- ✅ **Ejemplo con cifra** en el Body 2 (paneles, 20% de voltaje) — el hábito ya está
+
+## 📊 Bandas en frío
+
+| TA | CC | LR | GR | Global |
+|---|---|---|---|---|
+| 5.5 | 5.5 | **6.5** | 5.0 | **~5.5** |
+
+Misma cifra que el 6-sep, **pero no el mismo ensayo**: longitud, equilibrio y léxico subieron. Lo que ahora tapa la nota es **una decisión de los primeros 8 minutos**, no la escritura.
+
+---
+
+## 📝 PARA CORREGIR — checklist del domingo 13
+
+- [ ] **Intro nueva**: postura + grado (*largely agrees*), **sin** *"while some argue"*
+- [ ] **Topic sentence en B1** con la palabra del enunciado
+- [ ] **Topic sentence en B2 que COMPARE** la tecnología con otro factor (política/regulación/hábitos) — ahí vive el *most important*
+- [ ] **Cambiar el ejemplo del B2** para que no repita el de energía
+- [ ] Los **2 empalmes de comas** → punto y seguido
+
+---
+
+## ✅ v4 — 14 de septiembre · **Band 6.5 sólido**
+
+Technological innovation has transformed the way societies produce energy and manage resources. This essay largely agrees that it is the decisive factor in addressing climate change, since engineering solutions attack the physical causes of emissions directly, although political regulation remains necessary to deploy them at scale.
+
+Technological innovation is decisive because it attacks the physical source of emissions, which no amount of regulation can achieve on its own. Over almost all the history of civilization humans used nature as a tool without considering consequences. However, a significant impact on the environment and the acceleration in climate change led to investment and research how humankind can address this situation. Over the last decades, technological advances allowed essential processes to be more efficient and showed a good performance mitigating these effects of climate change. For example, the way energy is produced changed dramatically with renewable energies, leaving fossil fuels as a secondary option for now.
+
+It is also the factor that scales fastest, since each improvement in efficiency spreads globally without requiring political consensus. Resources such as water, energy and productive lands are fundamental to everyday processes; therefore, new techniques to approach them are needed to reduce climate change and manage them properly. The bovine meat industry largely leads greenhouse gas emissions. Whereas international regulation on meat consumption has been debated for decades without significant traction, lab-grown alternatives have moved from research to supermarket shelves in under ten years. Data collected from the last five years showed a decrease in cow meat demand due to meat alternatives produced in laboratories.
+
+In conclusion, natural resources are essential in every system in modern civilizations, whereas the processes and techniques need to remain in constant transformation to achieve a higher performance. Technological innovation is the most important factor to transform and create these techniques.
+
+### 🎯 Dos patrones cerrados en la misma revisión
+
+- **Pregunta indirecta** (§4.11) — 4 ocurrencias, sobrevivió en v1, v2, v3. **Corregida en v4**: *research **how humankind can address*** (sin inversión)
+- **Empalme de comas con *therefore*** (§4.10) — 8ª ocurrencia total del empalme. En septiembre se cerró la variante con *however*; hoy se cierra la variante con *therefore*. *processes**;** therefore,* con punto y coma
+
+### 🎯 El logro de método — la oración de comparación
+
+En la v3 aceptó la oración modelo *"Whereas international regulation on meat consumption has been debated for decades without significant traction, lab-grown alternatives have moved from research to supermarket shelves in under ten years"* y **la copió tal cual**. Es la que finalmente prueba *"most important"* al comparar dos velocidades — sin ella el B2 argumentaba solo *"la tecnología funciona"*. Escritura de banda 7.
+
+### 📊 Bandas por versión
+
+| | v1 frío | v2 | v3 | **v4** |
+|---|---|---|---|---|
+| TA | 5.5 | 6 | 6.5 | **6.5** |
+| CC | 5.5 | 6 | 6 | **6.5** |
+| LR | 6.5 | 6 | 6.5 | **6.5** |
+| GR | 5.0 | 5.5 | 6 | **6.5** |
+| **Global** | ~5.5 | ~6 | ~6.5 | **6.5 sólido** |
+
+**Métrica de mantenimiento cumplida:** 5.5 en frío → 6.5 corregido en 4 pasadas. La brecha se acortó a la mitad respecto al 6-sep, esta vez sin desviación estructural (la del titular del enunciado que en v1 costó una banda entera de TA).
+- [ ] `society is` · `need natural resources` · `the United States` · `than older models`
+- [ ] `processes` ×2 · `temporary` · `the search for` · `access them` · `impact on` · `an increase of around`
+- [ ] `how humankind can address` (§4.11)
+- [ ] Las 4 tipografías
+- [ ] 🔴 **Tras cada cambio, releer la oración hasta el punto final** (patrón de correcciones que traen errores)
+
+---
+
+# ✍️ TASK 2 Nº 5 — Prompt 6 (Discussion) · 22-sep
+
+> *As automation and artificial intelligence continue to advance, many traditional jobs will disappear. Some believe this will create new opportunities, while others fear widespread unemployment. Discuss both views and give your own opinion.*
+
+## v1 — 22-sep · 40 min (sobró 1:25) · ~350 palabras · **~Band 6** — NO SE TOCA
+
+Whereas artificial intelligence and automation keep increasing their development, many traditional jobs will no longer be needed. Some people believe this change will create new opportunities, while others argue that unemployment rates will increase. This essay contends that automation and artificial intelligence are tools that combined with ethics provide a higher quality of life for everyone.
+
+Artificial intelligence and automation are remarkable tools thought to improve efficiency and provide better results in every-day tasks. These tools can contribute in the transformation of the fields where are applied and can create new opportunities for workers and clients. For example, since free models of artificial intelligence can create robust apps in a short time with no cost, some nutricionists and diet professionals are able to collect, process and analyze data while clients can track and follow their plans with more comfort. This easeness removes the barrier that data collection and analysis mean for both clients and professionals, promoting new ways to follow processes related with health habits.
+
+Nevertheless, it must be acknowledged that the strong influence of artificial intelligence and its ease to automate processes in all fields requires ethics barriers. While some processes and jobs remain the same after the integration of artificial intelligence, others will be replaced to reduce costs, causing a rise in unemployment rates. For example, over the last two years graphic designers reported a drop in employment rates. A large part of illustrations are now made with artificial intelligence and some companies do not hire designers anymore.
+
+In conclusion, while artificial intelligence and automation encourage new opportunities and provide improvements in performance, it is clear that these tools must integrate and promote changes in processes instead of causing increments in unemployment. In my view, the processes where automation and arificial intelligence are now essential must be planned to integrate workers in their flow, in order to guarantee employs and high quality performance provided for both humans and technologic tools. The industry must adapt to guarantee sufficient conditions for workers while integrate these tools.
+
+## 🔍 Corrección v1
+
+| Criterio | Banda | |
+|---|---|---|
+| TA | 6 | Dos visiones ✅ · opinión explícita ✅ · pero la tesis responde *cómo debería ser* (ética) y no *cuál visión pesa más* |
+| CC | 6 | 4 párrafos limpios, *Nevertheless* bien · topic sentences sin la palabra clave · *artificial intelligence and automation* repetido 8 veces |
+| LR | 6 | *remarkable, robust, acknowledged* ✅ · errores: *easeness, employs, nutricionists, related with* |
+| GR | 6 | Estructuras complejas ✅ · **cero empalmes de coma** ✅ · errores: sujeto omitido, *while integrate*, *a large part of… are* |
+
+**Tabla de correcciones literales:** ver chat 22-sep (21 filas) — aplicar en v2 **tachando cada fila**.
+
+## v2 — 22-sep · **~Band 6.5 (la conclusión la frena)**
+
+As artificial intelligence and automation keep increasing their development, many traditional jobs will no longer be needed. Some people believe this change will create new opportunities, while others argue that unemployment rates will increase. This essay will examine both views before arguing that, although job losses are real, the opportunities created by these technologies are likely to outweigh them.
+
+Those who believe that automation will create new opportunities argue that it makes everyday tasks far more efficient. These tools can contribute to the transformation of the fields in which they are applied and can create new opportunities for workers and clients. For example, since free models of AI can create robust apps in a short time at no cost, some nutritionists and diet professionals are able to collect, process and analyze data while clients can track and follow their plans with more comfort. This ease removes the barrier that data collection and analysis represent for both clients and professionals, promoting new ways to follow processes related to health habits.
+
+Critics, however, fear that automation will lead to widespread uneployment, as companies replace workers in order to reduce costs. While some processes and jobs remain the same after the integration of these technologies, others will be replaced to reduce costs, causing a rise in unemployment rates. For example, over the last two years graphic designers reported a drop in employment rates. A large proportion of illustrations are now made with AI and some companies no longer hire designers.
+
+In conclusion, while artificial intelligence and automation encourage new opportunities and provide improvements in performance, I believe these tools should integrate and promote changes in processes instead of causing rises in unemployment. During history, new techniques and advances supposed automation in processes that where done by workers, leading to the lose of their jobs, but the increment in the performance allowed other processes to be born and the most important reason, allowed the development of advanced techniques.
+
+### Corrección v2
+- 19 de 21 filas aplicadas. Intro y bodies ya están en banda 6.5-7 (topic sentences con la palabra clave ✅)
+- 🔴 **La conclusión contradice la tesis**: la intro dice *opportunities outweigh*; la conclusión vuelve al *should* normativo
+- Falso amigo nº 7: **supposed** (suponer ≠ suppose) → *involved / entailed*
+- Errores nuevos en la conclusión: *where→were · lose→loss · During→Throughout · increment→gains*
+- Body 2 repite *to reduce costs* dos veces
+
+## v3 — 22-sep · **~Band 6.5 sólido, rozando 7** · CERRADO
+
+As artificial intelligence and automation continue to advance, many traditional jobs will no longer be needed. Some people believe this change will create new opportunities, while others argue that unemployment rates will increase. This essay will examine both views before arguing that, although job losses are real, the opportunities created by these technologies are likely to outweigh them.
+
+Those who believe that automation will create new opportunities argue that it makes everyday tasks far more efficient. These tools can contribute to the transformation of the fields in which they are applied and can create new opportunities for workers and clients. For example, since free models of AI can create robust apps in a short time at no cost, some nutritionists and diet professionals are able to collect, process and analyze data while clients can track and follow their plans with more comfort. This ease removes the barrier that data collection and analysis represent for both clients and professionals, promoting new ways to follow processes related to health habits.
+
+Critics, however, fear that automation will lead to widespread unemployment, as companies replace workers in order to reduce costs. While some processes and jobs remain the same after the integration of these technologies, others will disappear entirely, causing a rise in unemployment rates. For example, over the last two years graphic designers reported a drop in employment rates. A large proportion of illustrations are now made with AI and some companies no longer hire designers.
+
+In conclusion, while automation will undoubtedly emininate some jobs, it also creates new roles and ways of working. In my view, the opportunities are likely to outweigh the losses. Throughout history, technological advances have automated tasks once performed by workers, yet the resulting gains in productivity have given rose to entirely new industries. Provided that workers are supported during the transition, AI is likely to follow the same path.
+
+### Corrección v3
+- Las 3 filas de la v2 aplicadas ✅ · tesis y conclusión dicen lo mismo ✅
+- 2 typos al copiar: *emininate → eliminate* · *given rose → given rise*
+- Lo que queda para 7: Body 2 (~70 palabras) más corto que Body 1 (~105): falta una oración de mecanismo en el Body 2
+- **Progresión:** v1 ~6 → v2 ~6.5 → v3 ~6.5 sólido/7 en 3 versiones (el nº 4 necesitó 4 para llegar a 6.5)
+
+
+---
+
+# ✍️ TASK 2 Nº 6 — Prompt 7 (Opinion) · 23-sep
+
+> *Some people think that governments should spend money on improving public transport rather than on building new roads. To what extent do you agree or disagree?*
+>
+> **Write at least 250 words. You have 40 minutes.**
+
+## En qué se diferencia de Discussion
+
+| | Discussion (nº 5) | **Opinion (hoy)** |
+|---|---|---|
+| Postura | Solo en intro y conclusión | **Desde la intro y en todo el ensayo** |
+| Bodies | Uno por visión, voz de terceros | **Los dos defienden TU postura**, con tu voz |
+| Visión contraria | Un body entero | Como mucho **una concesión + refutación** dentro del Body 2 |
+
+**Palabra que carga el peso:** *to what extent*. Se responde con **grado**, no con sí/no: *largely agree · completely agree · agree only partly*.
+
+## Estructura
+
+| | Oraciones | Contenido |
+|---|---|---|
+| **Intro** | 2–3 | Parafrasear + **postura con grado**: *"I largely agree that…"* |
+| **Body 1** | 4 | Topic sentence (razón 1, con *public transport*) → mecanismo → ejemplo → cierre |
+| **Body 2** | 4 | Topic sentence (razón 2) → mecanismo → ejemplo → cierre · *(opcional: "Admittedly, … However, …")* |
+| **Conclusión** | 2–3 | Postura con **el mismo grado** de la intro + la razón más fuerte |
+
+## 🎯 Los 3 patrones de la semana 10 aplicados
+
+1. ⚖️ **Bodies equilibrados**: 4 oraciones y 4 oraciones, ~80–90 palabras cada uno
+2. 🔍 **Barrido final**: los últimos 3 min, solo typos y los 7 falsos amigos (*result · apparently · retire · experimented · offer · employs · supposed*)
+3. ⏱️ **Parar de escribir en el min 31**, aunque falte una oración
+
+## Reparto (40 min)
+
+| Min | Qué |
+|---|---|
+| 0–8 | Planificar: postura + grado · 2 razones · 1 ejemplo por razón |
+| 8–31 | Escribir sin mirar atrás |
+| 31–37 | Corregir: artículos · concordancia (*its/their*, sujeto-verbo) · empalmes de coma · tesis = conclusión |
+| 37–40 | 🔍 Barrido final de palabra |
+
+📏 **250 mínimo · 270–300 objetivo.** Bloc de notas, sin corrector.
+
+<details>
+<summary><b>💡 Ideas — abrir SOLO si te bloqueas planificando</b></summary>
+
+- **A favor del transporte público:** menos tráfico y emisiones · accesible para quien no tiene coche · un metro mueve más personas por euro invertido · las carreteras nuevas generan más tráfico (*induced demand*)
+- **Concesión posible:** en zonas rurales las carreteras siguen siendo necesarias
+- **Léxico:** *congestion · emissions · infrastructure · commuters · affordable · induced demand · long-term investment · rural areas*
+
+</details>
+
+## ✍️ Texto: **PEGAR AQUÍ**
+
+**Tiempo real:** 22 min (sobraron 18, usó tiempo para rectificar) · **Palabras:** ~330 · *"fluí mucho, no me enredé ni sentí pánico"*
+
+### v1 — 23 sep · **~Band 6** — NO SE TOCA
+
+Some people argue that governments should invest in public transport instead of building new roads. In this essay I largely agree in more public transport investment as the best solution to traffic problems.
+
+Since the substantial growth presented in many cities over the last two hundred years, transport methods remained reduced to cars and trains. In the last century in America, a several number of new roads were build, giving more space to hundreds of cars that were bought in a short time, while train systems could not outweigh the transport demand due to poor investment. Compared to Europe, where all the territory is fully connected by trains, American cities do not present the equivalent infrastructure. Principal cities such like Texas and New York are not connected, while others like Paris and Amsterdam are since decades.
+
+Public transport is, by contrast, the solution to traffic problems that emerged with the growth of the population. Studies in different cities around the world over the last ten years demonstrate that despite the number of persons living in a city, public transport decreased traffic problems in less time that in other cities where its infrastructure is poor and main roads were widely constructed. In Bogota, a large number of roads were build and fixed while the public transport sector remained reduced to a few buses operating in the city, as a consequence, Bogota has one of the worst traffic rates in America.
+
+In conclusion, while cities are in a constant growing, public transport investment is the key to guarantee quality of life related to daily transportation. I completely agree with the evidence that shows a reduction of traffic in cities with strong public transport systems instead of those with several number of roads and poor public transportation infrastructure.
+
+### Corrección v1
+- 🔴 **Grado inconsistente:** intro *largely agree* → conclusión *completely agree*. Y *agree with the evidence* ≠ estar de acuerdo con el enunciado
+- 🔴 Body 1 cuenta historia, no da una razón. *Texas* es un estado, no una ciudad
+- Empalme de coma con *as a consequence* (Body 2) — vuelve tras el nº 5 limpio
+- Falso amigo nº 8: **America** (= EE. UU. en inglés) → *Latin America / the Americas*
+- *build→built · several number→large number · that→than · since decades→for decades · persons→people*
+- ✅ Bodies equilibrados (~100/~95) · usó el tiempo sobrante para corregir · ejemplo Bogotá concreto
+
+
+### v2 — 23 sep · **~Band 6.5**
+
+Some people argue that governments should invest in public transport instead of building new roads. I largely agree that investing in public transport is a more effective solution to traffic problems than building new roads.
+
+The main reason I support this view is that building new roads does not solve congestion; it simply encourages more people to drive. In the last century in America, a large number of new roads were built, giving more space to millions of cars that were bought in a short time, while train systems could not keep up with the demand due to poor investment. Compared to Europewhere most major cities are connected by rail, American cities do not present the equivalent infrastructure. Major cities such as Houston and New York are not linked by high-speed rail, whereas others like Paris and Amsterdam have been connected for decades.
+
+By contrast, public transport offers a more effective solution to problems that emerged with population growth. Studies in different cities around the world over the last ten years demonstrate that regardless of the size of a city’s population, public transport decreased traffic problems in less time that in other cities where public transport infrastructure is poor and main roads were widely constructed. In Bogota, a large number of roads were build and fixed while the public transport sector remained reduced to a few buses operating in the city; as a consequence, Bogota has one of the worst traffic rates in Latin America.
+
+In conclusion, I largely agree that governments should prioritise public transport over new roads. As cities continue to grow, building more roads only attracts more cars, whereas efficient public transport can move far more people with less congestion. Nevertheless, new roads may still be necessary in rural areas where public transport is now viable.
+
+### Corrección v2
+- ✅ *largely* en intro y conclusión · topic sentence del Body 1 · empalme arreglado
+- *America*: ella quiso decir el continente. En inglés *America* sola = EE. UU.; continente = *the Americas*. Aquí los ejemplos del Body 1 son de EE. UU. → *the United States*
+- 🔴 *now viable* → *not viable* (typo que invierte el sentido)
+- Quedan: *Europewhere* · *present* (≠ tener) · *in less time that* · *were build* (Body 2)
+
+### v3 — 23 sep · **~Band 6.5 sólido / 7** · CERRADO
+
+Some people argue that governments should invest in public transport instead of building new roads. I largely agree that investing in public transport is a more effective solution to traffic problems than building new roads.
+
+The main reason I support this view is that building new roads does not solve congestion; it simply encourages more people to drive. In the last century in United States, a large number of new roads were built, giving more space to millions of cars that were bought in a short time, while train systems could not keep up with the demand due to poor investment. Compared to Europe, where most major cities are connected by rail, American cities do not have the equivalent infrastructure. Major cities such as Houston and New York are not linked by high-speed rail, whereas Paris and Amsterdam have been connected for decades.
+
+By contrast, public transport offers a more effective solution to problems that emerged with population growth. Studies in different cities around the world over the last ten years demonstrate that regardless of the size of a city’s population, public transport reduces congestion more quickly than in cities where public transport infrastructure is poor and main roads were widely constructed. In Bogota, a large number of roads were built and repaired, while the public transport sector remained reduced to a few buses operating in the city; as a consequence, Bogota has some of the worst traffic congestion in Latin America.
+
+In conclusion, I largely agree that governments should prioritise public transport over new roads. As cities continue to grow, building more roads only attracts more cars, whereas efficient public transport can move far more people with less congestion. Nevertheless, new roads may still be necessary in rural areas where public transport is not viable.
+
+### Corrección v3
+- 8/8 filas ✅ · grado constante · concesión que justifica *largely*
+- Queda: *in United States* → *in **the** United States* (§4.7, mismo error del 12-sep)
+- **Progresión:** v1 ~6 → v2 ~6.5 → v3 ~6.5/7
+
+---
+
+# ✍️ TASK 2 Nº 7 — Problem–Solution · 1-oct · ⏱️ 40 min
+
+> **Autocontenido.** Tipo *Problem–Solution*: solo lo habías hecho una vez, en el ensayo 2 (agosto). Es el tipo de la clase en vivo de hoy en el portal.
+
+## El enunciado
+
+> *The amount of electronic waste, such as old phones and computers, is increasing rapidly around the world.*
+>
+> ***What problems does this cause, and what solutions can be proposed?***
+>
+> **Write at least 250 words. You have 40 minutes.**
+
+## La estructura (Problem–Solution)
+
+| Párrafo | Oraciones | Qué va |
+|---|---|---|
+| **Intro** | 2 | Parafrasear + *"This essay will examine… and propose…"*. **Sin opinión** |
+| **Body 1: PROBLEMAS** | 4 | Topic sentence con **los dos problemas** → mecanismo → ejemplo → consecuencia |
+| **Body 2: SOLUCIONES** | 4 | Topic sentence con **las dos soluciones** → mecanismo → ejemplo → por qué funcionaría |
+| **Conclusión** | 2 | Resumen + **cuál solución es más viable** |
+
+⚖️ **Bodies equilibrados:** si el 1 tiene 4 oraciones, el 2 también.
+🔴 **La premisa no se demuestra** (lección del ensayo 2). *"E-waste is increasing"* ya es un dato: empieza directo con los problemas.
+🔗 **Cada solución responde a un problema.** Si el problema 1 es X, la solución 1 lo ataca.
+
+## El reparto de los 40 minutos
+| Min | Qué |
+|---|---|
+| 0–5 | Plan en papel: 2 problemas, 2 soluciones emparejadas, 1 ejemplo para cada body |
+| 5–10 | Intro |
+| 10–20 | Body 1 |
+| 20–30 | Body 2 |
+| 30–35 | Conclusión |
+| **35–40** | 🔴 **Barrido final:** typos, falsos amigos (*result · apparently · retire · experimented · offer · employs · supposed · America*), artículos, ¿250 palabras? |
+
+<details>
+<summary><b>👀 PISTAS: abrir SOLO si te bloqueas en el plan</b></summary>
+
+**Problemas posibles:** sustancias tóxicas (plomo, mercurio) que contaminan el suelo y el agua · exportación a países en desarrollo con reciclaje informal y riesgos para la salud · pérdida de materiales valiosos (oro, cobre, tierras raras).
+**Soluciones posibles:** *right to repair* y diseño modular (vida útil más larga) · responsabilidad extendida del productor (*take-back schemes*) · reciclaje formal certificado.
+**Léxico:** *hazardous · discard · dispose of · landfill · leach into · built-in obsolescence · extend the lifespan · take-back scheme · hold manufacturers accountable*.
+💡 **Tu ventaja:** vienes de un campo técnico. Un ejemplo técnico concreto (PCB, baterías de litio) vale más que uno genérico.
+
+</details>
+
+## ✍️ v1 — 1-oct · **~Band 6** — NO SE TOCA
+
+**Tiempo real:** 37:29 · **Palabras:** 319 (49 / 123 / 86 / 61) · **¿5 min de barrido?** No (2:31)
+
+Since the last decades, the amount of electronic wasted has increased rapidly over all the world. In this essay, some consequences such as a growth in pollution will be disscused and some solutions will be presented, including the importance of marketing oriented to reduce and reuse these electronics devices.
+
+The main problem caused by electronic waste is the lack of recycling protocols and tools when these devices are not longer useful, leading it to highly contribute with environmental pollution. Compared to other kind of waste such as paper and glass made of simple materials and with standard and easy recycling processes, electronic waste is made of multiple materials such as metal, plastic and chemicals. Components such as batteries requires special treatment due to the chemicals inside of it and when the dispose of them is not appropiate, they ends polluting sources of water. Furthermore, over the last decades, electronic devices such as phones and computers are thought to have a short lifetime, forcing people to adquire new ones and discard them frequently.
+
+Although, recycling programs are needed to reduce and reuse electronic waste,  the role played by electronic industry is essential. Manufacturers must develop electronic devices with a long lifetime and with ease to be repaired. But not only a high quality in electronic devices is needed, the role marketing plays is also important. Nowdays, marketing is oriented to present overconsumption like a lifestyle. Consequently, both manufacturers and marketing must be oriented to offer electronic devices able to have a long lifetime and being thought to easily recycle.
+
+In conclusion, while standard and massive recycling protocols are a rapid solution to the increment of electronic waste, manufacturers and marketing are the ones who avoids the future increment on this waste. The correct dispose and treatment of the actual electronic devices is a short-time solution, whereas a world without overconsumption can be thought throught the electronic industry and the marketing.
+
+### 🔍 Corrección v1 · **~Band 6** (TA 6 · CC 6 · LR 6 · GR 6)
+
+✅ **Lo bueno:** 319 palabras · terminó con tiempo · estructura Problem–Solution correcta · **no demostró la premisa** (lección del ensayo 2 aplicada) · la conclusión distingue solución a corto y a largo plazo (buena idea, y eso es lo que pide *"más viable"*).
+
+🔴 **Lo que la frena en 6:**
+1. **Bodies desequilibrados:** Body 1 = 123 palabras, Body 2 = 86 (patrón de la semana 10, 3ª vez)
+2. **Body 2 sin ejemplo concreto.** Y la ventaja del perfil técnico no se usó en ninguno de los dos bodies
+3. **Ortografía de palabras que conoce** (la misma fuga del Listening de hoy): *wasted, disscused, appropiate, adquire, Nowdays, throught*
+4. **Falsos amigos nuevos:** *actual* (= real, no "actual") · *increment* (= aumento en pasos fijos; se dice *increase*)
+5. **Concordancia sujeto–verbo** ×3: *batteries requires · they ends · manufacturers… who avoids*
+
+### Las sustituciones (aplicar fila por fila para la v2)
+
+| # | Párrafo | Dice | Cambiar por | Por qué |
+|---|---|---|---|---|
+| 1 | Intro | Since the last decades | Over recent decades | *since* + punto en el tiempo, no período |
+| 2 | Intro | electronic wasted | electronic waste | sustantivo, no participio |
+| 3 | Intro | over all the world | all over the world | orden fijo |
+| 4 | Intro | some consequences such as a growth in pollution will be disscused | the problems it causes, particularly pollution, will be discussed | ortografía + el enunciado dice *problems* |
+| 5 | Intro | including the importance of marketing oriented to reduce and reuse these electronics devices | with a focus on the role of manufacturers and marketing in reducing waste | *electronics devices* → *electronic devices*; más corto |
+| 6 | B1 | are not longer useful | are no longer useful | *no longer* |
+| 7 | B1 | leading it to highly contribute with environmental pollution | which contributes significantly to environmental pollution | *contribute **to*** |
+| 8 | B1 | other kind of waste | other kinds of waste | plural tras *other* |
+| 9 | B1 | made of simple materials and with standard and easy recycling processes | which are made of simple materials and can be recycled easily | paralelismo |
+| 10 | B1 | batteries requires | batteries require | concordancia |
+| 11 | B1 | the chemicals inside of it | the hazardous chemicals they contain | plural + léxico |
+| 12 | B1 | when the dispose of them is not appropiate, they ends polluting | when they are not disposed of properly, they end up polluting | *dispose* es verbo · *appropriate* · *end up* |
+| 13 | B1 | are thought to have a short lifetime | are designed to have a short lifespan | *thought* ≠ diseñado |
+| 14 | B1 | adquire | acquire / buy | 🔴 ortografía española |
+| 15 | B2 | Although, recycling programs are needed | Although recycling programmes are needed | sin coma tras *although* |
+| 16 | B2 | the role played by electronic industry | the role played by the electronics industry | artículo + *electronics industry* |
+| 17 | B2 | with ease to be repaired | that are easy to repair | estructura |
+| 18 | B2 | But not only a high quality in electronic devices is needed, the role marketing plays is also important. | However, durable products alone are not enough; marketing also plays a key role. | empalme de coma + *But* al inicio |
+| 19 | B2 | Nowdays, marketing is oriented to present overconsumption like a lifestyle | Nowadays, marketing presents overconsumption as a lifestyle | ortografía · *like* → *as* |
+| 20 | B2 | able to have a long lifetime and being thought to easily recycle | that last longer and are designed to be recycled easily | paralelismo |
+| 21 | B2 | ➕ añadir antes de *Consequently* | **Una oración de ejemplo concreto** (ej. *For example, smartphones with replaceable batteries and modular components…*) | ⚖️ equilibrar con el Body 1 |
+| 22 | Concl | the increment of electronic waste | the increase in electronic waste | falso amigo |
+| 23 | Concl | the ones who avoids the future increment on this waste | are the ones who can prevent it from growing in the future | concordancia + *avoid* ≠ *prevent* |
+| 24 | Concl | The correct dispose and treatment of the actual electronic devices | The proper disposal and treatment of existing devices | *disposal* (sustantivo) · 🔴 *actual* = real |
+| 25 | Concl | short-time solution | short-term solution | colocación fija |
+| 26 | Concl | can be thought throught the electronic industry and the marketing | can only be achieved through the electronics industry and responsible marketing | *throught* → *through* · sin *the* ante *marketing* |
+
+**Falsos amigos nº 9 y 10:** ***actual*** (= real) · ***increment*** (= incremento técnico; en ensayo: *increase*).
+
+## ✍️ v2 — 1-oct · **~Band 6.5**
+
+**Palabras:** 322 (46 / 118 / 97 / 61)
+
+Over recent decades, the amount of electronic waste has increased rapidly all over the world. In this essay, the problems it causes, particularly pollution, will be disscused and some solutions will be presented, with a focus on the role of manufacturers and marketing in reducing waste.
+
+The main problem caused by electronic waste is the lack of recycling protocols and tools when these devices are no longer useful, which contributes significantly to environmental pollution. Compared to other kinds of waste such as paper and glass which are made of simple materials and can be recycled easily, electronic waste is made of multiple materials such as metal, plastic and chemicals. Components such as batteries require special treatment due to the hazardous chemicals they contain and when they are not disposed of properly, they end up polluting. Furthermore, over the last decades, electronic devices such as phones and computers are designed to have a short lifespan, forcing people to acquire new ones and discard them frequently.
+
+Although recycling programs are needed to reduce and reuse electronic waste,  the role played by the electronics industry is essential. Manufacturers must develop electronic devices with a long lifetime that are easy to repair. However, durable products alone are not enough, marketing also plays a key role. Nowadays, marketing presents overconsumption as a lifestyle. Modular components such as modular batteries allow devices such as phones and computers to be used even for a longer time. Consequently, both manufacturers and marketing must be oriented to offer electronic devices that last longer and are designed to be recycled easily.
+
+In conclusion, while standard and massive recycling protocols are a rapid solution to the increase in electronic waste, manufacturers and marketing are the ones who can prevent it from growing in the future. The proper disposal and treatment of existing devices is a short-term solution, whereas a world without overconsumption can only be achieved through the electronics industry and responsible marketing.
+
+### 🔍 Corrección v2 · **~Band 6.5** (TA 6.5 · CC 6.5 · LR 6.5 · GR 6.5)
+
+✅ 24 de 26 filas aplicadas · bodies 118 / 97 (antes 123 / 86) · falsos amigos *actual* e *increment* eliminados · concordancia ×3 corregida · ejemplo técnico propio añadido (fila 21).
+
+| # | Párrafo | Dice | Cambiar por | Por qué |
+|---|---|---|---|---|
+| 1 | Intro | disscused | discussed | 🔴 fila 4 de la v1 sin aplicar del todo |
+| 2 | B1 | they end up polluting. | they end up polluting water sources. | *pollute* necesita objeto: se perdió *sources of water* |
+| 3 | B1 | over the last decades, electronic devices… are designed | over the last decades, electronic devices… have been designed | *over the last decades* → present perfect |
+| 4 | B2 | However, durable products alone are not enough, marketing also plays a key role. | However, durable products alone are not enough; marketing also plays a key role. | 🔴 empalme de coma: la fila 18 llevaba **punto y coma** |
+| 5 | B2 | (orden) la oración *Modular components…* después de *Nowadays, marketing…* | **moverla justo después de** *…that are easy to repair.* | 🔗 el ejemplo es de **fabricantes**, no de marketing: va pegado a su idea |
+| 6 | B2 | Modular components such as modular batteries allow devices such as phones and computers to be used even for a longer time. | For example, replaceable batteries and modular components allow phones and computers to be used for much longer. | *such as* ×2 en una oración · *even for a longer time* → *for much longer* · arranca con *For example* |
+| 7 | B2 | must be oriented to offer | must work together to offer | *oriented to* es calco del español |
+| 8 | Concl | standard and massive recycling protocols | large-scale recycling programmes | *massive* suena a "enorme"; *large-scale* es el registro |
+
+## ✍️ v3 — 1-oct · **~Band 6.5 sólido, rozando 7** · CERRADO
+
+Over recent decades, the amount of electronic waste has increased rapidly all over the world. In this essay, the problems it causes, particularly pollution, will be discussed and some solutions will be presented, with a focus on the role of manufacturers and marketing in reducing waste.
+
+The main problem caused by electronic waste is the lack of recycling protocols and tools when these devices are no longer useful, which contributes significantly to environmental pollution. Compared to other kinds of waste such as paper and glass which are made of simple materials and can be recycled easily, electronic waste is made of multiple materials such as metal, plastic and chemicals. Components such as batteries require special treatment due to the hazardous chemicals they contain and when they are not disposed of properly, they end up polluting sources of water. Furthermore, over the last decades, electronic devices such as phones and computers have been designed to have a short lifespan, forcing people to acquire new ones and discard them frequently.
+
+Although recycling programs are needed to reduce and reuse electronic waste,  the role played by the electronics industry is essential. Manufacturers must develop electronic devices with a long lifetime that are easy to repair. For example, replaceable batteries and modular components allow phones and computers to be used for much longer. However, durable products alone are not enough; marketing also plays a key role. Nowadays, marketing presents overconsumption as a lifestyle. Consequently, both manufacturers and marketing must work together to offer electronic devices that last longer and are designed to be recycled easily.
+
+In conclusion, while larg-scale recycling programmes are a rapid solution to the increase in electronic waste, manufacturers and marketing are the ones who can prevent it from growing in the future. The proper disposal and treatment of existing devices is a short-term solution, whereas a world without overconsumption can only be achieved through the electronics industry and responsible marketing.
+
+### Corrección v3
+- **Las 8 filas de la v2 aplicadas** ✅ · el ejemplo ahora va pegado a su idea · punto y coma correcto
+- 1 typo al copiar: *larg-scale* → **large-scale** (+ doble espacio tras *waste,*)
+- Lo que queda para 7: la idea de marketing (*presents overconsumption as a lifestyle*) no tiene **mecanismo ni ejemplo**; una oración más (*e.g. annual launch campaigns that present last year's model as outdated*) la cerraría
+- **Progresión:** v1 ~6 → v2 ~6.5 → v3 ~6.5 sólido/7 en 3 versiones (igual que el nº5 y el nº6)
+- ✅ **v3 final (1-oct):** *larg-scale* → **large-scale** corregido por ella. Texto limpio de typos.
+
+---
+
+# ✍️ TASK 2 Nº 8 — EN FRÍO · Two-part question · 13-oct (noche, en casa) · ⏱️ 40 min
+
+> **Autocontenido.** ⚠️ **No leas el enunciado hasta tener el cronómetro listo.** Tipo nuevo: **Two-part question** (dos preguntas directas). La meta: **que la v1 salga en 6.5** usando el barrido de 5 min.
+
+## La estructura (Two-part question)
+| Párrafo | Oraciones | Qué va |
+|---|---|---|
+| Intro | 2 | Parafrasear + responder **las dos preguntas en una frase** (la tesis) |
+| Body 1 | 4 | **Respuesta a la pregunta 1**: topic sentence → mecanismo → ejemplo → consecuencia |
+| Body 2 | 4 | **Respuesta a la pregunta 2**: igual. ⚖️ Mismo tamaño que el Body 1 |
+| Conclusión | 2 | Las dos respuestas, resumidas |
+
+🔴 **Cada pregunta se contesta de forma DIRECTA.** Si te preguntan *why?*, das razones; si te preguntan *is this positive or negative?*, eliges y lo dices.
+
+## Barrido final (min 35–40)
+¿250 palabras? · artículos · concordancia (sujeto plural → verbo sin -s) · ortografía (*acquire, through, nowadays, discussed, appropriate*) · falsos amigos (*actual, increment, pretend, career, thought* = diseñado ✗) · ¿bodies equilibrados?
+
+---
+
+<details>
+<summary><b>📝 EL ENUNCIADO: abrir SOLO con el cronómetro listo</b></summary>
+
+> *Nowadays, many young people choose to study or work abroad for several years.*
+>
+> ***Why do they make this choice? Is this a positive or negative development for their home countries?***
+>
+> **Write at least 250 words. You have 40 minutes.**
+
+</details>
+
+## ✍️ v1 — 18-oct · **34 min** (sobraron 6) · **300 palabras** · **~Band 6.0**
+
+*Intro 59 · B1 100 · B2 97 · conclusión 44.* ⚠️ **El barrido de 5 min no se hizo.**
+
+> 🔴 **EL FALLO GRANDE — el veredicto salió invertido.**
+> *"…the general overview of their home countries could have a **positive** impact."*
+> Faltaba un *not*. Todo el ensayo defiende que el brain drain **perjudica** al país de origen, y la frase que lo sentencia decía lo contrario.
+> **Es el patrón *"el veredicto en preguntas de sí o no"*, abierto desde el 6-sep.**
+
+**Los 8 de gramática:** *A example* · *can not* · *may improved* · *countries **who*** · *the home countries **of them*** · *the **need of** professionals* ← **el error vivo más antiguo (9-ago)** · *remained* (tiempo) · **coma entre sujeto y verbo** 🆕 · punto y coma por coma en aposición.
+
+**Los 4 de léxico:** ***principal*** (falso amigo: en inglés = *director de colegio*) · ***local* countries** *(y escribe* home countries *bien 3 veces después)* · *the **general overview*** · ***restricting** … **of***.
+
+> ### 🆕 COMA ENTRE SUJETO Y VERBO
+> *"Those students who cannot afford private institutions**,** find…"*
+> En español se hace con sujetos largos. **En inglés, nunca.**
+
+| TA | CC | LR | GR | Global |
+|---|---|---|---|---|
+| 6.0 | 6.0 | 6.5 | 5.5 | **~6.0** |
+
+## v2 — **296 palabras** · **~Band 6.5** ✅
+
+Las 12 correcciones aplicadas; veredicto explícito y correcto.
+
+> 🔴 **Pero la corrección introdujo DOS errores — patrón nº5, 6ª ocurrencia:**
+> - **`overal`** *(una L)* — esa palabra **no existía en la v1**
+> - **`their local countries`** — arregló *the home countries of them* **y de paso cambió `home` por `local`**, justo la palabra marcada como incorrecta en el mismo mensaje
+
+**Quedaron 7:** *overal* · *impact **in*** (→ *on*, logueado el 12-sep) · *local countries* ×2 · *received/found* (tiempos) · *collaborate with* · *the well-known phenomenon brain drain*.
+
+## ✅ v3 — **FINAL · ~Band 6.5 sólido, rozando 7** · CERRADO
+
+Los 7 aplicados. Veredicto explícito, tiempos coherentes, léxico consistente.
+
+> ⚠️ **7ª ocurrencia del patrón, en miniatura:** *collaborate with* → ***contribute with***.
+> Cambió el verbo y **dejó la preposición vieja colgando**. ***contribute*** va solo o con ***to***, nunca con ***with*** — es calco de *contribuir **con***.
+
+**Lo que queda, menor:** *Over the last years* → **In recent years** · *after their master* → **master's**.
+
+| TA | CC | LR | GR | Global |
+|---|---|---|---|---|
+| 6.5 | 6.5 | 6.5–7 | 6.5 | **~6.5 sólido / 7** |
+
+---
+
+## 🎯 LAS DOS LECCIONES DEL ENSAYO Nº8
+
+> ### 1. La última frase de cada body es un VEREDICTO. Léela SOLA, en voz alta.
+> Dentro del párrafo la cabeza la completa con lo que querías decir. **Aislada, no.** 20 segundos por body; hoy valían medio punto.
+
+> ### 2. Tras cada cambio, releer la ORACIÓN ENTERA hasta el punto final.
+> No la palabra cambiada. **Las tres fugas de hoy** (`overal`, `local`, `contribute **with**`) **nacieron todas al corregir.**
+
+### 📈 Y el dato que importa
+
+**v1 → v3 en DOS rondas.** Los ensayos nº5, 6 y 7 necesitaron **tres**.
+**34 minutos, con 6 de sobra, y el barrido sin hacer.** Esos 6 minutos habrían cazado *a example*, *can not*, *may improved*, la coma y el punto y coma — **5 de los 8**. La v1 misma habría salido en 6.5.
+
+> 🔴 **El examen solo ve la v1. No falta inglés: faltan los minutos que ya sobran.**
+
+
+
+---
+
+# ✍️ TASK 2 Nº 9 — EN FRÍO · Discussion · 24-oct · ⏱️ 40 min
+
+> **Autocontenido.** ⚠️ **No leas el enunciado hasta tener el cronómetro en 40:00.**
+> **Ensayo de vestuario del mock de mañana.**
+
+## Por qué Discussion hoy
+Su hueco abierto, en Writing **y** en Speaking: **argumenta un lado muy bien y no va al otro** (12-sep por escrito, 20-oct hablando: `Having said that` 0/3). **El *Discuss both views* obliga a defender de buena fe la postura contraria.**
+
+## La estructura
+| Párrafo | Qué va |
+|---|---|
+| Intro (2) | Parafrasear + *"…this essay will examine both views before arguing that…"* — **la postura ya aquí** |
+| Body 1 (4) | **Visión A, de buena fe.** Topic sentence → mecanismo → ejemplo → consecuencia |
+| Body 2 (4) | **Visión B, de buena fe.** ⚖️ **Mismo tamaño que el Body 1** |
+| Conclusión (2) | **Tu opinión explícita** + por qué |
+
+🔴 **Las dos reglas del 18-oct:**
+- **La última frase de cada body es un veredicto: léela SOLA, en voz alta.** *(el `not` que faltó)*
+- **NO entregar antes de tiempo.** El 18-oct sobraron 6 min y **5 de 8 errores eran cazables**
+
+## 🔍 Barrido final (min 35–40) — su lista personal
+☐ ¿250+? · ☐ **artículos** ante plural general (*the schools* ✗) · ☐ **concordancia** a distancia · ☐ **incontables** (*effort, research, advice, equipment*) · ☐ ***need of*** ✗ → *need for* · ☐ ***impact in*** ✗ → *impact on* · ☐ falsos amigos: ***principal, local countries, actual, pretend, wait/expect, labor, media*** · ☐ **sin coma entre sujeto y verbo** · ☐ cada corrección: **releer la oración entera**
+
+---
+
+<details>
+<summary><b>📝 EL ENUNCIADO — abrir SOLO con el cronómetro listo</b></summary>
+
+> *Some people believe that the main purpose of a university education is to prepare students for employment. Others think universities should mainly provide knowledge for its own sake, regardless of whether it leads to a job.*
+>
+> ***Discuss both views and give your own opinion.***
+>
+> **Write at least 250 words. You have 40 minutes.**
+
+</details>
+
+## ✍️ v1 — 24-oct · **38:25** (sobró 1:35) · **279 palabras** · **~Band 5.5–6** — NO SE TOCA
+
+*Intro 61 · B1 73 · B2 90 · conclusión 55.*
+
+Whereas some people think that the key purpose of a university is preparing students to enter labor market, others argue how universities should mainly contribute to student's knowledge, in spite of whether it leads to a job. This essay will examine both views before arguing that providing knowledge and professional skills guarantees better opportunities than focusing only in becoming an employ.
+
+Universities are institutions where knowledge is teached with standard methodologies and tools. The main purpose is to certificate students in a certain field to access as formed professionals into specific jobs. For example, electrical engineers should pass through the same curriculum despite of the country, guaranteeing the quality of their work due to their diploma. With these standards, industry could trust the source of the knowledge of the professionals that would be hiring.
+
+Whereas a certificate allows professionals to go abroad, it does not means that getting into labor market is guaranteed. Over the last years, soft skills and problem-solving skills are as important as a diploma. Providing students with strong soft skills such as assertive communication and a correct management of stress becomes more important in a job than a grade. Whereas knowledge can be learned in many platforms due to technology, universities turn into the perfect environment to learn and develop soft skills needed to increase the performance in nowadays tasks.
+
+In conclusion, universities have the challenge to be the integral space where students can access to knowledge and be able to develop soft skills at the same time. Today's world requires professionals who understand technical problems but most important; that can have skills to propose and communicate a plan, leading teams into a succesful environment.
+
+---
+
+## 🔴 EL HALLAZGO — la Visión B nunca aparece
+
+| | Tema | Visión que defiende |
+|---|---|---|
+| Body 1 | títulos estandarizados → la industria confía | **A** (empleo) |
+| Body 2 | las soft skills importan más que el título **en el trabajo** | **A otra vez** |
+
+**Nadie defiende el conocimiento *for its own sake*.** El Body 2 *parece* el otro lado (*"el título no basta"*) pero propone **otra forma de ser empleable**.
+
+> ### El patrón que cruza módulos, en su versión más clara
+> 12-sep escrito (dos bodies con el mismo argumento) · 20-oct Speaking (`Having said that` 0/3) · **hoy: un *Discuss both views* con UNA visión**
+> **La palabra que carga el peso:** ***for its own sake, regardless of whether it leads to a job***. La parafraseó en la intro y escribió el ensayo como si no estuviera.
+
+### 💡 El ejemplo que tenía a mano — su campo
+**El láser (1960): *"a solution looking for a problem"*** → hoy fibra óptica, cirugía ocular. **La cuántica de los años 20**, pura curiosidad → el transistor → toda la electrónica.
+
+**Body 2 modelo:**
+> On the other hand, others argue that a university's value lies in knowledge pursued for its own sake. Many of the most important discoveries had no obvious application at first. When the laser was invented in 1960, it was famously described as "a solution looking for a problem"; today it underpins fibre-optic communication and eye surgery. If universities only taught what employers currently demand, this kind of curiosity-driven research would never take place.
+
+## 🔴 Verbos — pasaron con 1:35 de sobra
+*knowledge is **teached*** → **taught** · *it does not **means*** → **mean** · *to **certificate*** → **certify**
+
+## 🆕 Falsos amigos nº17 y nº18
+***formed** professionals* → **trained / qualified** · *the **integral** space* → **all-round** development · *(y otra vez)* *an **employ*** → **employee**
+
+## El resto
+*argue **how*** → **that** · *enter **labor** market* → **the labour** market · ***student's*** → **students'** · ***in spite of whether / despite of*** → **regardless of (whether)** · *focusing **in*** → **on** · *the professionals **that would be hiring*** → **they** would be hiring *(el sentido se invierte)* · ***Over the last years… are*** → **In recent years… have become** *(igual que el 18-oct)* · *learned **in** platforms* → **on** · *in **nowadays** tasks* → **today's** · ***access to** knowledge* → **access** *(12-sep)* · *but **most important;** that* → **but, most importantly, who** *(punto y coma mal, otra vez)* · *succesful* · ***Whereas*** ×3
+
+## ✅ Bien
+Intro con la plantilla *Discussion* perfecta · ejemplo concreto propio · 279 palabras · **sin coma sujeto–verbo** ✅ · *soft skills, problem-solving, assertive communication*
+⚠️ Bodies **73/90**
+
+| TR | CC | LR | GR | Global |
+|---|---|---|---|---|
+| 5.5 | 6 | 6 | 5.5 | **~5.5–6** |
+
+> **En un *Discussion*, si falta una visión, TR no pasa de 5.5–6.**
+
+## 🎯 REGLA NUEVA PARA EL MOCK
+> **En la planificación: una frase para cada visión como si ELLA la creyera.**
+> Luego: **¿esta frase de la Visión B podría defender la A?** Si sí, **todavía no hay Visión B.**
+> *(La de hoy —"soft skills matter more than a diploma in a job"— habría caído en esa prueba.)*
+
+
+---
+
+# ✍️ TASK 2 EN FRÍO — 30 oct 2026 · Transporte público vs carreteras (Discuss both views)
+*Pregunta original de Claude. Escrito en 32:34 (le sobraron 7:26). ~300 palabras.*
+
+## v1
+> Whereas some people contend that governments shoud invest more resources on public transport, others think a better choice the funding the building of new roads. In this essay both views will be discussed and the reasons why spending money on public transport brings more benefits to whole society will be exposed.
+>
+> Public transport is essential to move high amount of people eficciently with a reduced cost in urban area and environmental consequences compared to other mobility options. Over the last five years, a research compared the traffic in highly populated cities across the world such as Ciudad de Mexico, Tokyo and New York. The data showed that cities which spent more resources on public transport such as Tokyo, could improve the traffic during peak hours and reduce the pollution produced by cars than other cities with a poor public transport system, such as Ciudad de Mexico, considered one of the cities with the worst traffic in the research.
+>
+> On the other hand, those in favour of new roads believe that supporting the building and the fixing of roads will improve the traffic during peak hours and will reduce the risk of having accidents due to the bad state of some roads. Erecting new roads can benefit several amount of industries such as local manifacturing of vehicules, fuel producers and construction. A research made by american universities estimated that the amount of jobs generated by those industries grew considerably in cities with a high budget to construct new roads.
+>
+> In conclusion, while building new roads can support some industries and generate jobs, the government should invest more money on public transport instead due to the benefits linked with eficcientcy in transporting high amount of people, the reduction of the carbon footprint and the possibility to have more green areas.
+
+## Corrección v1 — estimado **6.0–6.5**
+| Criterio | Banda | Por qué |
+|---|---|---|
+| TR | 6.5 | Postura clara desde la intro y las dos vistas desarrolladas. Pero la conclusión mete una idea nueva (*green areas*) y los datos inventados son vagos. |
+| CC | 6.5 | Buena progresión y conectores (*Whereas, On the other hand, In conclusion*). El body 1 tiene una frase de 60 palabras. |
+| LR | 6.0 | Buenas colocaciones (*contend, peak hours, carbon footprint*), pero hay 5 errores de ortografía y *amount* con contables. |
+| GRA | 6.0 | Frases complejas, pero falta un verbo en la intro, el comparativo está roto y *a research* aparece dos veces. |
+
+**Errores:**
+- *a better choice the funding the building* → **a better choice is to fund the construction of** (falta el verbo)
+- *invest … on* → **invest in** (×2)
+- *will be exposed* → **will be explained / set out** (*exponer* es un falso amigo)
+- *to whole society* → **to society as a whole**
+- *high amount of people* → **large numbers of people** (*people* es contable) (×2)
+- *several amount of industries* → **several industries**
+- *amount of jobs* → **number of jobs**
+- *a research* → **a study / research** (incontable, como en su propio banco) (×2)
+- *improve the traffic* → **ease traffic congestion** (sin *the* en general)
+- *reduce the pollution … than other cities* → **reduce pollution more than** (falta *more*)
+- *Erecting new roads* → **Building new roads** (*erect* es para edificios y monumentos)
+- *american* → **American**
+- Ortografía: shoud → should · eficciently → efficiently · manifacturing → manufacturing · vehicules → vehicles · eficcientcy → efficiency
+- Conclusión: quitar *green areas* (idea nueva).
+
+**Regla de la sesión:** *amount* va con incontables (*money, traffic*) y *number* con contables (*people, jobs, industries*). Y *research* nunca lleva *a*.
+
+**Usar los 7 minutos que sobraron:** 3 min de revisión con la lista de ortografía + *amount/number* + *invest in*.
+
+## v2 (31 oct) — estimado **6.5**
+Corrigió *invest in*, *large numbers of*, *number of jobs*, *is to fund*, *explained*, *Building*, *American*, *more than*, *Research* (body 2) y casi toda la ortografía.
+
+**Quedan:**
+- *to whole society* → **to society as a whole**
+- *a research compared* (body 1) → **a study compared**
+- *with a reduced cost in urban area* → **at a lower cost in urban areas**
+- *improve the traffic / the pollution* → **ease traffic congestion / reduce pollution** (sin *the* en general)
+- *spent more resources on* → **devoted more resources to** (*spend* va con *money / time*)
+- *eficciency* → **efficiency**
+- Conclusión: sigue *green areas* (idea nueva) → quitar
+- Body 1: la frase de *The data showed…* sigue en ~60 palabras → partirla en dos
+
+**Regla:** *invest **in*** (meter dinero dentro de algo y esperar retorno) · *spend **on*** (gastar dinero en algo).
+
+## v3 (31 oct) — estimado **6.5 sólido, rozando 7** · FINAL
+Arregló *society as a whole*, *a study*, *at a lower cost in urban areas*, *ease traffic congestion*, *reduce pollution*, partió la frase larga y quitó *green areas*.
+
+**Últimos pulidos:**
+- *cities which spent … benefit* → **benefited** (concordancia de tiempos: pasado con pasado)
+- *at a lower cost … and environmental consequences* → **at a lower cost and with fewer environmental consequences** (paralelismo)
+- *compared the traffic* → **compared traffic levels**
+- Body 2: *improve the traffic* → **ease congestion** (el mismo *the* general, otra vez)
+- *Research made by* → **Research conducted by**
+- Conclusión: *…large numbers of people, the reduction of the carbon footprint.* → **…large numbers of people and a smaller carbon footprint.** (falta *and* en la lista)
+- *the government* → **governments** (coherencia con la intro)
+
+## v4 (31 oct) — estimado **7.0** · FINAL REAL
+Aplicó los 7 pulidos de v3: *benefited*, paralelismo *and with fewer*, *traffic levels*, *ease congestion*, *conducted by*, *and* en la lista y *governments*.
+
+**Detalles opcionales (no bajan banda):**
+- *Tokyo could ease* → **Tokyo, for example, managed to ease** (*could* suena a posibilidad; *managed to* es un logro en pasado)
+- *in the research* → **in the study** (ya lo llamó *study* antes)
+- *supporting the building and the fixing of roads* → **building and repairing roads** (más directo)
+
+**Lección del ensayo:** de v1 (6.0) a v4 (7.0) sin cambiar ni una idea. Solo cambiaron precisión y revisión. Los 7 minutos de revisión valen una banda.
+
+
+---
+
+# ✍️ TASK 2 Nº 10 — EN FRÍO · Discussion (universidades) · 4-nov · ⏱️ 40 min
+
+> **Autocontenido.** ⚠️ **No abras el enunciado hasta tener el cronómetro en 40:00.**
+> **10 días para el examen.** Se mide **la v1**: es lo único que ve el examinador.
+
+## El hueco que se mide hoy
+El 24-oct, en el *Discussion* de universidades, **la Visión B nunca apareció**: los dos bodies defendían lo mismo.
+
+> 🔴 **En el plan (minutos 0–8), antes de escribir:**
+> 1. **Una frase para la Visión A, como si TÚ la creyeras**
+> 2. **Una frase para la Visión B, como si TÚ la creyeras**
+> 3. **¿La frase B podría defender A?** Si sí → **todavía no tienes la B**. Rehazla
+
+## Estructura
+| Párrafo | Qué va |
+|---|---|
+| Intro (2) | Parafrasear + *"…this essay will examine both views before arguing that…"* |
+| Body 1 (4) | **Visión A de buena fe** — topic sentence → mecanismo → ejemplo → consecuencia |
+| Body 2 (4) | **Visión B de buena fe** — mismo tamaño que el Body 1 |
+| Conclusión (2) | **Tu opinión explícita**, sin ideas nuevas |
+
+## 🔍 Barrido final (min 33–40) — su lista
+☐ 250+ · ☐ **última frase de cada body leída SOLA** (¿dice lo que defiendo?) · ☐ ***amount*** solo con incontables / ***number*** con contables · ☐ ***research*** nunca con *a* · ☐ ***invest in*** / ***spend on*** · ☐ ***the*** ante plural general ✗ · ☐ concordancia · ☐ falsos amigos (*formed, integral, employ, principal, actual*) · ☐ **segunda pasada: ortografía palabra por palabra**
+
+🚫 **No entregar antes de tiempo.**
+
+---
+
+<details>
+<summary><b>📝 EL ENUNCIADO — abrir SOLO con el cronómetro listo</b></summary>
+
+> *Some people believe that university education should be free for all students. Others think that students should pay for their own university studies.*
+>
+> ***Discuss both views and give your own opinion.***
+>
+> **Write at least 250 words. You have 40 minutes.**
+
+</details>
+
+## ✍️ v1 — 4-nov · **37:06** (sobró 2:54) · **275 palabras** · **~Band 6.0–6.5** — NO SE TOCA
+*Intro 45 · B1 82 · B2 98 · conclusión 50.*
+
+Whereas some people think students should not pay for their education in universities, others argue that students should pay a fee for their own university studies. In this essay, both views will be discussed and the benefits of guaranteeing free college studies will be exposed.
+
+In countries such as America, private universities dominate education system, leading students to pay tuition fees or to apply for scholarship programmes in order to enroll in these universities. This system guarantees resources for universities that are used in several ways, benefitting both students and academic community. For example, implementation of new technologies in universities can only be achieved through research groups, these groups have a budget where they can find finnancial support to get both students and materials needed for researching.
+
+On the other hand, students who cannot afford private colleges or could not get a scholarship are finding other ways to get enrolled in professional careers. The brain drain phenomenon is caused, in part, by the lack of opportunities some students find in their local universities. Once students go abroad and become professionals, they stay in the countries which offered them better conditions. Countries such as Germany provide to both locals and foreigns free education, absorbing them in its industry and allowing them to contribute to Germany's advance in several fields such as engineering, applied and social sciences.
+
+In conclusion, whereas private universities do not create a dependency on governments and cannot allow a larger number of students, public universities supported by governmets can provide education to more students, guaranteeing development of society in fields such as medicine, engineering and sciences given by a larger number of professionals.
+
+---
+
+## 🎉 LO QUE SE MEDÍA: los dos bodies, OPUESTOS
+B1 = **pagar** (las matrículas financian a las universidades) · B2 = **gratis** (*On the other hand*: sin oportunidades, los estudiantes se van; Alemania retiene el talento). **El 24-oct los dos bodies decían lo mismo. Hoy no.** Opinión explícita en la conclusión ✅. *Brain drain* reutilizado ✅.
+
+## 🔴 Lo que baja la nota
+1. **Conclusión enredada:** junta una ventaja y una desventaja de las privadas en la misma mitad de la frase → ✅ *In conclusion, **although** private universities **are less dependent on** governments, public universities **can educate far more students**…*
+2. **Body 2 sin topic sentence** (empieza con contexto) → ✅ *On the other hand, supporters of free tuition argue that it keeps talented students in their own countries.*
+
+## Falsos amigos
+*will be **exposed*** → **outlined** · *professional **careers*** → **degree programmes** (🔴 ya en la lista) · ***America*** → **the United States** (🔴 nº8, sep) · ***foreigns*** → **international students**
+
+## Gramática
+*dominate ∅ education system* → **the** · *∅ academic community* → **the** · *research groups**,** these groups* → empalme · *provide **to** both… free education* → **provide free education to** · *absorbing them **in*** → **into** · *for **researching*** → **for research** · `finnancial` · `governmets` *(pasaron con 2:54 de sobra: la pasada de ortografía no se hizo)*
+
+| TR | CC | LR | GR | Global |
+|---|---|---|---|---|
+| 6.5 | 6 | 6 | 6 | **~6.0–6.5** |
+
+**Medio punto sobre el 24-oct, y la Visión B resuelta.**
+**Para el mock:** ① la 1ª frase de cada body es su tesis · ② los minutos que sobran van a la pasada de ortografía.
+
+## ✍️ v2 — 5-nov · **~6.5**
+Arregló *outlined*, *international students*, *development*, `financial`, `governments`. Conclusión sin tocar (no sabía cómo).
+
+**Quedan:**
+- Body 2 empieza con *part-time jobs*: **perdió el *On the other hand*** y sigue sin topic sentence → ✅ *On the other hand, supporters of free tuition argue that it keeps talented students in their own countries.*
+- *America* → **the United States** · *dominate ∅ education system* → **the education system** · *∅ academic community* → **the academic community**
+- *research groups, these groups have* (dos frases pegadas con coma) → **research groups, which have…**
+- *for researching* → **for research** · *provide to both locals and international students free education* → **provide free education to both…** · *absorbing them in* → **into**
+
+## 🧩 Cómo se hace la conclusión — fórmula de 2 frases
+1. **Resumir las dos posturas en una frase con *Although*:** *Although* [lo mejor de la postura que NO eliges], [tu postura] *because* [tu razón principal].
+2. **Una frase de cierre con tu opinión**, sin ideas nuevas.
+
+**Su conclusión, reescrita con sus mismas ideas:**
+> *In conclusion, **although** tuition fees give private universities financial independence, I believe that university education should be free, **because** it allows far more students to study and prevents talented graduates from leaving their country. In the long term, this benefits society as a whole.*
+
+**Qué se arregló:** *do not create a dependency… and cannot allow a larger number* (una ventaja y una desventaja mezcladas) → una sola concesión con *although*. *given by a larger number of professionals* (idea nueva y enredada) → quitado.
+
+## ✍️ v3 — 5-nov · **~6.5–7.0** · FINAL
+Aplicó todo: topic sentence en Body 2 con *On the other hand*, *the education system*, *the academic community*, *which have*, *for research*, *provide free education to*, *into*, y la conclusión con la fórmula *although… I believe… because*.
+
+**Últimos pulidos:**
+- *such as ∅ United States* → **such as the United States** (los nombres de países en plural o con *States/Kingdom* llevan *the*)
+- **Body 1 sin topic sentence** (empieza con el ejemplo de EE. UU.) → ✅ *Those in favour of tuition fees argue that they provide universities with essential funding.* Luego el ejemplo
+- *∅ implementation of new technologies* → **the implementation of…**
+- *a budget where they can find financial support* → **a budget that provides financial support** (*where* es para lugares)
+
+**Lección:** cada body = **1ª frase con la postura** → explicación → ejemplo. En la v3 el Body 2 ya lo cumple; falta el Body 1.
+
+
+---
+
+# 🏁 MOCK Nº4 — WRITING · 8-nov · portal, 60 min, en frío
+
+## Task 2 — *Animal testing* (Discussion) · **316 palabras** · **~6.0**
+*Intro 57 · B1 99 · B2 81 · conclusión 79.*
+
+Whereas some people believe that testing on animals must continue as a practice in scientific research, others find this practice cruel and argue that should not be allowed. This essay will discuss both point of views and will outline why testing on animals is a cruel and unnecesary practice that should be outlawed, bringing up better alternatives.
+
+During the twentieh century, several advances in medicine were achieved due to cruel experimentation on humans in extermination camps in Germany and China made by both Nazi and Japanese armies. Although, these practices are now forbidden by human rights, experimentation on other living beings such as animals was not covered by any law until recent years. This allowed cosmetics, pharmacies and medical industries to still testing techniques and products on animals, leading to rapid advances. Due to these advances, researching in different illness and treatments could be implemented with ease in humans, guaranteeing results with low risks for humans.
+
+Regardless of the rapid advance in fields such as medicine, these practices remain extremely cruel and the results achieved are not worthy due to the suffer animals have to experiment, Current technology can provide better alternatives that lead the cruelty free slogan as a feature users andresearchers prefer. The implementation of lab-grown cells allow scientists to experiment with more freedom. These cells represent human conditions more accurately than any other animal, providing precise results and allowing science advance without representing cruelty.
+
+In conclusion, animal testing depicted the only way to advance in different fields during some time but the cruelty it carried could not be justified. Alternatives rapidly came up and guarantee high quality results at the same time that do not represent risk or cruel treatments to any living being. The fist step humankind had to do to achieve these new alternatives was outlawing brutal and inhumane conditions in order to manage science to find decent ways to research.
+
+✅ **Dos visiones opuestas otra vez** (a favor / en contra) · opinión explícita en intro y conclusión.
+
+🔴 **Ortografía:** `unnecesary` · `twentieh` · `andresearchers` · `fist` · *suffer* (sustantivo: **suffering**)
+🔴 ***"Although,"*** con coma (3ª vez en dos días) → **However,** / *Although X, Y*
+🔴 **B1 sin tesis y con un ejemplo fuera del tema** (experimentos con humanos en la guerra). ✅ *Supporters of animal testing argue that it has driven many of the most important medical advances of the last century.*
+⚠️ **Falsos amigos:** *suffer animals have to **experiment*** (→ endure) · ***depicted*** the only way (→ was) · ***pharmacies*** (→ pharmaceutical companies)
+⚠️ **Gramática:** *argue that ∅ should* · *point of views* · *to still testing* · *researching in different illness* · *cells allow* (→ allows) · *allowing science ∅ advance* · empalme *experiment, Current*
+
+| TR | CC | LR | GR | Global |
+|---|---|---|---|---|
+| 6.5 | 6 | 6 | 5.5 | **~6.0** |
+
+---
+
+# ✍️ TASK 2 — EN FRÍO · Discussion · lun 9 nov · ⏱️ 40 min
+*Pregunta original de Claude. ⚠️ No abrir el enunciado hasta tener el cronómetro en 40:00.*
+
+**Checklist (min 33–40):** ☐ 1ª frase de cada body = su postura · ☐ bodies **opuestos** · ☐ opinión en intro y conclusión (*Although… I believe… because…*) · ☐ **cero *"Although,"*** (frase nueva con contraste → *However,*) · ☐ revisión 1: ¿tiene sentido? · ☐ revisión 2: **ortografía palabra por palabra** · ☐ *the* general · *amount/number* · *research* sin *a* · 250+
+
+<details>
+<summary><b>📝 EL ENUNCIADO — abrir SOLO con el cronómetro listo</b></summary>
+
+> *Some people believe that working from home benefits both employees and companies. Others think that it is better for people to work together in an office.*
+>
+> ***Discuss both views and give your own opinion.***
+>
+> **Write at least 250 words. You have 40 minutes.**
+
+</details>
+
+## ✍️ v1 — en frío, 35:35 (le sobraron 4:25) · ≈300 palabras
+
+> While some people find more advantageous working beside colleagues in an office, others contend that work remotely brings more benefits for both employees and companies. In this essay, both point of views will be discussed and the reasons why working from home are more solid and beneficial  will beo utlined.
+>
+> Working from office provides an evironment where challenges and experiences can be shared and accomplish. Several companies prefer have a budget that guarantees facilities and everything needed for those instead of having remote work as a possibility. These conditions could improve aspects such as teamworking, soft skills and rapid answers to daily problems presented at work. A research made by universities in United States during 2024 outlined a decline in depression and anxiety rates in several number participants after they could return to the office once pandemic risks dropped.
+>
+> On the other hand, working from home provides a wider spectrum of benefits that most employees and companies prioritize. Whereas some people find interactions with coworkers as something positive, others find more value in having their own space to be calm and proactive, avoiding some of the conflicts that can occur in shared spaces. Saving money and time in transport and avoiding traffic are some of the benefits employees also value. Finally, companies can benefit from evading the rent of expensive facilities and hiring people just to maintain them clean and safe.
+>
+> In conclusion, whereas working from office can be better for some people due to their need to social interactions, remote work is more advantageous due to a larger number  of reasons that benefit more people and could compensate these interactions. Additionally, if a company saves money on rent, can provide a bigger budget to other things such as better devices for employees.
+
+## 📊 Calificación: **≈6.0–6.5**
+| Criterio | Banda | |
+|---|---|---|
+| Task Response | **6.5** | las dos visiones + opinión clara en intro y conclusión · ⚠️ idea nueva en la conclusión (presupuesto para equipos) |
+| Coherence & Cohesion | **6.5** | ✅ **bodies opuestos** con topic sentence · *On the other hand, Finally, Additionally* |
+| Lexical Resource | **6.0** | buen vocabulario (*contend, a wider spectrum, evading*) · colocaciones: *maintain them clean, need to social interactions, point of views* |
+| Grammar | **6.0** | gerundio/infinitivo: *find more advantageous working, prefer have, work remotely brings* · sujeto omitido: *if a company saves…, can provide* |
+
+**✅ Lo que mejoró:** **cero *"Although,"*** · bodies opuestos · typos de 7 (mock 4) a **2** (*evironment, beo utlined*) · terminó con 4 minutos de sobra.
+**🔴 Lo que queda:** **usar los 4 minutos en la revisión 2** (los dos typos estaban a la vista) · gerundio/infinitivo · *research* sin *a* (estaba en el checklist).
+
+| Ella escribió | Correcto |
+|---|---|
+| find more advantageous working | find **it** more advantageous **to work** |
+| work remotely brings | **working** remotely brings |
+| both point of views | both **points of view** |
+| the reasons why working from home **are** | … **is** |
+| Working from office | Working **in an** office |
+| shared and accomplish | shared and **accomplished** |
+| prefer have | prefer **to** have |
+| A research made by universities in United States | **Research conducted** by universities in **the** United States |
+| in several number participants | in **a number of** participants |
+| find interactions as something positive | **see** interactions as positive |
+| maintain them clean | **keep** them clean |
+| their need to social interactions | their need **for** social **interaction** |
+| if a company saves money on rent, can provide | …, **it** can provide |
+
+
+
+---
+
+# ✍️ TASK 2 — EN FRÍO · Opinion · mié 11 nov · ⏱️ 40 min
+> *Some people think that governments should spend money on public transport rather than on building new roads. To what extent do you agree or disagree?*
+
+## v1 (≈300 palabras)
+> It is often argued that governments should invest more in public transport instead of building new roads. I largely agree with this view, since a larger part of the population benefits from it, leading to develop greener and healthier societies.
+>
+> Having a larger number roads brings more drawbacks than benefits; a larger number of roads attract more cars, causing a worst. It also increases the budget that governments must have for fixing roads and significantly reduces green areas, causing more noise and pollution. A research conducted by American universities, collected data from traffic in different cities across the world. Ciudad de Mexico showed the worst traffic and Kyoto instead, showed an efficient mobility at peak hours. The main difference between these two cities is the investment on public transport. Kyoto spends millions on improvements to public transport, while the figure for Ciudad de Mexico is remarkably lower.
+>
+> Regardless of the strikingly reduction in traffic and the improvement in urban mobility, investment in public transport brings more advantages linked to health and social development. The decrease of polluting air in the atmosphere and a better sleep achieved with lower levels of noise are key factors that health institutes propose as essential to improve both physical and mental health. Finally, wider urban areas would be available to be converted into parks and green areas, preserving natural schemes inside cities and promoting cultural and social spaces.
+>
+> In conclusion, I firmly believe that governments should spend more money on public transport instead of building new roads, because basic aspects of a large proportion of society can be improved with a stronger investment in public transport. Current roads need to have regular maintainance that guarantee car owners high quality mobility.
+
+## 📊 Calificación: **≈6.5**
+| Criterio | Banda | |
+|---|---|---|
+| Task Response | **7.0** | postura clara y sostenida · ejemplo concreto (Kyoto vs Ciudad de México) · ⚠️ *largely agree* en la intro vs *firmly believe* en la conclusión · última frase = idea nueva |
+| Coherence & Cohesion | **6.5** | body 1 = tráfico, body 2 = salud y espacio · ⚠️ *Regardless of* mal usado (= "sin importar") → **Apart from** |
+| Lexical Resource | **6.5** | ✅ *remarkably lower, peak hours, urban mobility* · ⚠️ *natural schemes, polluting air, investment on* |
+| Grammar | **6.0** | *a research* (otra vez) · *a larger number roads* · *strikingly reduction* · frase incompleta *causing a worst* |
+
+**✅ Mejoró:** cero *Although,* (2º texto seguido) · el mejor Task Response hasta hoy · un ejemplo concreto que de verdad sostiene el argumento.
+**🔴 Queda:** la **revisión 1** habría detectado *causing a worst* · ***research* sin *a*** (3ª vez) · adjetivo vs adverbio.
+
+| Ella escribió | Correcto |
+|---|---|
+| leading to develop greener… societies | **helping to create** greener… societies |
+| a larger number roads | a larger number **of** roads |
+| causing a worst. | causing **worse congestion**. |
+| A research conducted by American universities, collected | **Research** conducted by American universities **collected** (sin coma) |
+| Ciudad de Mexico | **Mexico City** |
+| Kyoto instead, showed | **whereas** Kyoto showed |
+| the investment **on** public transport | investment **in** |
+| Regardless of the strikingly reduction | **Apart from** the **striking** reduction |
+| The decrease of polluting air | The **reduction in air pollution** |
+| natural schemes | **natural spaces** |
+| maintainance that guarantee | **maintenance** that **guarantees** |

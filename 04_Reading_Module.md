@@ -1,0 +1,892 @@
+# Reading Module
+**Target: Band 7.5–8 | 3 passages · 40 questions · 60 minutes**
+
+---
+
+## Overview
+
+The IELTS Academic Reading test has 3 passages of increasing difficulty, each approximately 700–900 words. All texts are taken from academic journals, magazines, and books — topics include science, technology, social sciences, and humanities.
+
+**You do NOT need specialist knowledge.** All answers are in the text.
+
+| Passage | Difficulty | Typical topic |
+|---|---|---|
+| Passage 1 | Moderate | Factual/descriptive (science, history, environment) |
+| Passage 2 | Harder | More analytical, some argument |
+| Passage 3 | Hardest | Abstract, discursive, complex argument |
+
+**Time allocation (suggested):**
+- Passage 1: 17 minutes
+- Passage 2: 20 minutes
+- Passage 3: 23 minutes
+
+---
+
+## The 13 Question Types
+
+| # | Question Type | Frequency | Difficulty |
+|---|---|---|---|
+| 1 | Multiple Choice | Common | Medium |
+| 2 | Identifying Information (True/False/Not Given) | Very common | High |
+| 3 | Identifying Writer's Views (Yes/No/Not Given) | Common | High |
+| 4 | Matching Information | Common | Medium |
+| 5 | Matching Headings | Very common | High |
+| 6 | Matching Features | Less common | Medium |
+| 7 | Matching Sentence Endings | Less common | Medium |
+| 8 | Sentence Completion | Common | Medium |
+| 9 | Summary Completion | Common | Medium |
+| 10 | Note Completion | Less common | Low-Medium |
+| 11 | Table Completion | Less common | Low-Medium |
+| 12 | Flow-chart Completion | Less common | Low |
+| 13 | Short Answer Questions | Less common | Medium |
+
+The 4 you will encounter most often: **T/F/NG, Matching Headings, Sentence Completion, Multiple Choice.**
+
+---
+
+## Core Strategy: Locate, Don't Read
+
+The biggest mistake in IELTS Reading is reading the whole passage before answering questions. You don't have time.
+
+**The correct process:**
+1. **Skim** the passage once (60–90 seconds) — get the general idea and structure
+2. **Read the questions** carefully — identify the keywords
+3. **Scan** the text to locate the section where the answer must be
+4. **Read carefully** only that section
+
+You are not reading for pleasure. You are doing a search operation.
+
+---
+
+## Skimming vs Scanning
+
+### Skimming (understanding the structure)
+- Read the title, subheadings, and first sentence of each paragraph
+- Takes 60–90 seconds per passage
+- Goal: understand what each paragraph is ABOUT, not its details
+- After skimming, you can go directly to the right paragraph for each question
+
+### Scanning (finding specific information)
+- Move your eyes quickly across the text looking for a specific word, number, or phrase
+- Do NOT read every word — look for your keyword
+- When you spot it, slow down and read carefully around it
+
+---
+
+## Question Type Deep-Dives
+
+---
+
+### 1. True / False / Not Given
+
+This is the most commonly failed question type. Many students confuse **False** with **Not Given**.
+
+**The definitions:**
+- **TRUE** — the statement agrees with information in the text
+- **FALSE** — the statement contradicts information in the text
+- **NOT GIVEN** — the topic may be mentioned, but the specific claim is neither confirmed nor denied
+
+**The critical distinction:**
+
+> *Text says: "Solar panels are increasingly used in residential buildings."*
+> *Statement: "Solar panels are more efficient than wind turbines."*
+
+- Is this TRUE? No — efficiency comparison not mentioned
+- Is this FALSE? No — the text doesn't say wind turbines are MORE efficient
+- Answer: **NOT GIVEN** — the comparison simply does not exist in the text
+
+**The trap:** You might KNOW from real life that statement X is false. Doesn't matter. IELTS only asks what the TEXT says.
+
+**Strategy:**
+1. Find the section of the text that relates to the statement topic
+2. Read it carefully
+3. Ask: does the text CONFIRM this? → True
+4. Ask: does the text CONTRADICT this? → False
+5. Ask: does the text simply not address this specific claim? → Not Given
+
+**Common trap patterns:**
+- Statement uses absolute language ("always", "never", "all") but text uses qualified language ("usually", "most")
+- Statement makes a comparison the text never makes
+- Statement combines two facts from the text that are never connected in the text
+
+---
+
+### 2. Matching Headings
+
+You are given a list of headings (usually 7–9) and must match each paragraph to the correct heading. There are always more headings than paragraphs.
+
+**Strategy:**
+1. Read the headings list first — understand what each one is about
+2. Skim the first and last sentence of each paragraph (this usually reveals the main idea)
+3. Match the heading that captures the MAIN IDEA of the paragraph, not a detail
+4. Cross out headings as you use them
+
+**The trap:** A heading may contain a word that appears in the paragraph, but the heading describes a detail, not the main point. The right heading captures what the whole paragraph is about.
+
+**Example:**
+> *Paragraph discusses how early computers were expensive, required specialist operators, and were only accessible to large institutions.*
+> 
+> - Wrong heading: *"The development of the microprocessor"* (mentioned in passing)
+> - Correct heading: *"The limited accessibility of early computing technology"* (main idea)
+
+---
+
+### 3. Sentence Completion
+
+You complete sentences using words taken directly from the text (usually a word limit: "NO MORE THAN TWO WORDS").
+
+**Strategy:**
+1. Identify the keywords in the incomplete sentence
+2. Scan the text for those keywords (or their paraphrases)
+3. Read the sentence carefully and find what word(s) fill the gap grammatically
+4. Copy the words EXACTLY as they appear in the text (do not change them)
+
+**Rules:**
+- Never exceed the word limit (if it says "no more than two words", one word is fine, three is wrong)
+- Articles (a, an, the) and prepositions count as words
+- Your answer must be grammatically correct in the sentence
+
+**The paraphrase problem:**
+The question rarely uses the same words as the text. IELTS paraphrases deliberately.
+
+| Question says | Text says |
+|---|---|
+| *constructed* | *built* |
+| *inhabitants* | *residents / people who live there* |
+| *challenging* | *difficult / demanding* |
+| *a significant number of* | *many / numerous* |
+
+Train yourself to recognise paraphrases — this is one of the most important reading skills for Band 7+.
+
+---
+
+### 4. Multiple Choice
+
+Usually 3–5 options (A, B, C, D or A–E). You choose the correct answer.
+
+**Strategy:**
+1. Read the question stem carefully (not the options yet)
+2. Find the relevant section in the text
+3. Read that section carefully
+4. Eliminate wrong options — IELTS wrong options usually:
+   - Use a word from the text but change the meaning
+   - Are true in general but not stated in the text
+   - Are too extreme ("always", "never", "all")
+   - Mix information from two different parts of the text
+
+**The trap:** One option will often be "almost right" — it contains correct information but slightly distorts the claim. Read very carefully.
+
+---
+
+### 5. Yes / No / Not Given (Writer's Views)
+
+Same logic as T/F/NG, but you are identifying the **writer's opinion or claims**, not factual information.
+
+- **YES** — the statement agrees with the writer's view
+- **NO** — the statement contradicts the writer's view
+- **NOT GIVEN** — the writer does not express a view on this
+
+Look for opinion language in the text: *argues, suggests, believes, contends, claims, appears to, it is likely that, arguably*
+
+---
+
+## The Paraphrase Recognition Skill
+
+IELTS is fundamentally a test of paraphrase recognition. The answer is always in the text — but phrased differently in the question.
+
+### How to build this skill
+
+**Step 1 — Learn synonym patterns:**
+
+| Original word | Common paraphrases |
+|---|---|
+| increase | rise, grow, expand, surge, escalate, climb |
+| study / research | investigation, analysis, examination, inquiry |
+| important | significant, crucial, vital, essential, key |
+| show | demonstrate, reveal, indicate, suggest, illustrate |
+| problem | challenge, issue, concern, obstacle, difficulty |
+| use | utilise, employ, apply, implement |
+| people | individuals, residents, inhabitants, population |
+| money | funds, finances, investment, expenditure, resources |
+
+**Step 2 — Practice with real texts:**
+Take any paragraph from a science article and rewrite each sentence using different words. This builds your paraphrase radar in both directions.
+
+**Step 3 — In the exam:**
+When you can't find the answer, ask: "What other words could the text use to say the same thing?" Then scan for those.
+
+---
+
+## Vocabulary in Context — Deducing Meaning
+
+For Band 7+, you need to be able to deduce the meaning of unknown words from context. You WILL encounter words you don't know — this is by design.
+
+**The process:**
+1. Identify the part of speech (verb? noun? adjective?)
+2. Look at what comes before and after
+3. Look for contrast or similarity clues
+4. Use your knowledge of prefixes and suffixes
+
+**Example:**
+> *"The proliferation of misinformation on social media platforms has exacerbated existing divisions within society."*
+
+You don't know *exacerbated*? 
+- It's a verb
+- Subject: proliferation of misinformation. Object: existing divisions
+- The sentence has a negative tone (misinformation, divisions)
+- *Exacerbated* = made worse
+
+**Useful prefixes for academic texts:**
+
+| Prefix | Meaning | Example |
+|---|---|---|
+| un- / in- / im- | not | *unsustainable, inadequate, impractical* |
+| re- | again / back | *redistribute, reconsider, revert* |
+| over- | too much | *overestimate, overproduction* |
+| under- | too little | *underrepresented, underfunded* |
+| inter- | between | *interconnected, interdisciplinary* |
+| multi- | many | *multifaceted, multilateral* |
+| post- | after | *post-industrial, post-colonial* |
+| pre- | before | *pre-existing, precondition* |
+
+---
+
+## Time Management Under Pressure
+
+### The 60-minute problem
+Most B2 candidates run out of time on Passage 3. The solution is discipline, not speed.
+
+**If you're running out of time:**
+- Never leave a question blank — guess if necessary (no penalty for wrong answers)
+- Skip a question that's taking too long — come back at the end
+- Never spend more than 2 minutes on a single question
+
+### The answer order rule
+Questions follow the ORDER of the text in most question types (except Matching Headings). This means:
+- Question 5 answer appears AFTER Question 4 answer in the text
+- Use this to locate answers faster
+
+---
+
+## Common Traps — Master List
+
+| Trap | How to avoid it |
+|---|---|
+| Chose TRUE because it "sounds right" | Only mark TRUE if the text explicitly confirms it |
+| Chose FALSE instead of NOT GIVEN | Ask: does the text actually contradict this, or just not mention it? |
+| Matched a heading to a detail, not the main idea | Ask: what is the WHOLE paragraph about? |
+| Exceeded the word limit in sentence completion | Count your words before writing |
+| Used general knowledge instead of the text | The answer is ALWAYS in the text |
+| Paraphrase not recognised | The question never copies the text exactly — train your synonym radar |
+| Ran out of time on Passage 3 | Keep strict time per passage, guess rather than leave blank |
+
+---
+
+## Recommended Practice Sources
+
+- **Cambridge English Resources (oficial, gratis)** — https://www.cambridge.org/co/cambridgeenglish/resources
+- **Cambridge IELTS Official Practice Tests** (books 14–18) — the gold standard, real exam questions
+- **British Council Reading practice** — free online
+- **IELTS.org** — official sample tests
+
+**How to practise effectively:**
+1. Do the passage under timed conditions (20 min)
+2. Check answers
+3. For every wrong answer: find the correct answer in the text and understand WHY it was right
+4. Log the question type in your Error Log (`07_Error_Log.md`)
+
+After 5 practice passages, you will see your error patterns clearly.
+
+---
+
+## 🔴 LA PASADA DE CUANTIFICADORES — su patrón nº 1 en Reading
+
+*Añadido el 8 de septiembre, tras la primera práctica de T/F/NG: **12/15**, y **los tres fallos fueron el mismo fallo**.*
+
+| # | Su resp. | Correcta | La palabra que decidía |
+|---|---|---|---|
+| 4 | T | **FALSE** | *pesticides are **largely** unnecessary* → la afirmación decía *no pesticides **at all*** |
+| 11 | T | **FALSE** | *Analyses **consistently** find* → la afirmación decía *have **disagreed*** |
+| 13 | NG | **FALSE** | ***No** commercial vertical farm produces cereals at scale* — lo niega explícitamente |
+
+> ## Lee el contenido de la frase y **no el cuantificador**.
+
+**Es la misma debilidad que en Writing, del otro lado.** Allí le costaba **poner** matices (*largely · tend to · may* — §Unit 4, hedging). Aquí le cuesta **verlos**. Mismo músculo: grados y cantidades.
+
+### ✅ Lo que SÍ funcionó — y era lo difícil
+
+**Los tres Not Given, acertados** (5, 10, 14). El error esperado en un perfil técnico — **deducir de más** — **no apareció ni una vez**. Su fallo fue el contrario: **NG donde el texto sí contradecía** (13), que es mucho más barato de corregir porque la respuesta está en el texto, no en la cabeza.
+
+### La regla
+
+> ## ⏱️ **El tiempo que sobre se gasta en una segunda pasada SOLO a los cuantificadores.**
+>
+> *largely · most · all · some · no · none · consistently · only · at least · always · never · rarely · tend to · may*
+>
+> Subrayarlos y **decidir otra vez**. Misma lógica que las pasadas por categoría en Writing: **buscar una cosa a la vez encuentra lo que una lectura general no ve.**
+
+**Y cuando dude:** volver a la frase del texto y leer **solo el verbo principal**. *Analyses **consistently find** that…* → ¿coinciden o discrepan? → coinciden → la afirmación dice lo contrario → **False**.
+
+⏱️ Terminó en **11:58 de 20**. Dos de los tres errores eran una palabra que una relectura habría cazado — **el tiempo sobrante existe para eso**.
+
+---
+
+---
+
+## 🌳 EL ÁRBOL DE DECISIÓN T/F/NG — su patrón nº 2
+
+*Añadido el 8 de septiembre, tras la 2ª práctica: **9/12**. El patrón **cambió** respecto a la 1ª.*
+
+### ✅ Lo que mejoró en una sesión
+
+Los cuantificadores que falló en la práctica 1, en la 2 los cazó: *only* (2) ✅ · *usually* (6) ✅ · *most* (7) ✅ · y en *every* (8) **detectó el problema** — respondió "T/NG", no T. **La pasada de cuantificadores funciona.**
+
+### 🔴 El patrón nuevo, más fino
+
+| # | Marcó | Era | |
+|---|---|---|---|
+| 8 | T/NG | **FALSE** | *in **several** studies* — contradice *every* |
+| 10 | NG | **FALSE** | *whether the effect holds… **remains untested*** |
+| 11 | T | **NOT GIVEN** | *Several **proposals would** compensate* — propuestas, no pagos |
+
+Con la 13 de la práctica 1, van **3 ocurrencias**:
+
+> ## Detecta que algo no cuadra y **elige *Not Given* por defecto en vez de *False***.
+
+Ya no es un problema de atención: **es de clasificación**. Ve el problema y lo etiqueta mal.
+
+---
+
+### El árbol — cuatro pasos, en orden
+
+> **1. ¿Encontré la frase del texto que habla de esto?**
+>  **NO** → **NOT GIVEN**. Fin.
+>
+> **2. Sí la encontré. ¿La confirma?** → **TRUE**
+>
+> **3. ¿La contradice?** → **FALSE**
+>
+> **4. ¿Habla del tema pero no se pronuncia sobre esta afirmación concreta?** → **NOT GIVEN**
+
+> ## 🔴 La regla que faltaba
+> ***Not Given* significa que buscaste y NO ENCONTRASTE.**
+> **Si encontraste la frase, la respuesta es True o False — casi nunca NG.**
+
+### Aplicado a sus tres
+
+**8** — Encontró la frase: *in **several** studies the number of fish species rose*. **El texto sí dice cuántos estudios.** *Several* es incompatible con *every* → **FALSE**.
+
+**10** — ⭐ **La más importante.** Encontró la frase: *whether the effect holds across a whole catchment… **remains untested***.
+
+> ***"Remains untested" no es silencio: es una negación.***
+> El texto está diciendo **activamente** que eso no se ha demostrado. La afirmación dice que sí → **FALSE**.
+
+**11** — Aquí **sí** es NG, por el **paso 4**. El texto habla de compensación: *Several **proposals would** compensate*. Pero **propuestas ≠ pagos realizados**: no dice que ningún agricultor haya cobrado, ni dice que no. Se queda en condicional → **NOT GIVEN**.
+
+Error contrario al de 8 y 10: vio el tema mencionado y saltó a True.
+
+> **Que el texto hable de algo no significa que lo afirme.**
+
+### ⚠️ Método
+
+En la 8 respondió **"T/NG"**. **En el examen eso vale cero.**
+
+> **Ante la duda: aplicar el árbol y comprometerse.** Una respuesta razonada que falla enseña algo; una sin marcar no puntúa **y no enseña nada**.
+
+### Evolución
+
+| | Práctica 1 (8-sep) | Práctica 2 (8-sep) |
+|---|---|---|
+| Puntaje | 12/15 · 80% | 9/12 · 75% |
+| Fallo | **no veía** el cuantificador | **lo ve, lo clasifica mal** |
+
+El set 2 iba **cargado a propósito**: 6 de 12 eran False, muy por encima de lo normal. La baja de puntaje no es retroceso — **subió un nivel de dificultad**: de un problema de atención a uno de criterio, y el criterio se arregla con un árbol de cuatro pasos.
+
+---
+
+
+
+---
+
+## 🎯 T/F/NG — LA PALABRA QUE CARGA EL PESO
+
+*Añadido el 12-sep, tras el pasaje integrado nº1: las dos T/F/NG falladas estaban **invertidas** (NG donde iba False, False donde iba NG).*
+
+### El malentendido de raíz
+
+Su frase, textual: *"pensé en poner not given pero **sí me estaban dando información**"*.
+
+> ***Not Given* NO significa "el texto no habla de esto".**
+> **Significa "el texto no resuelve ESTA afirmación".**
+
+El texto puede darte mucha información sobre el tema y aun así **no pronunciarse** sobre lo que la afirmación concreta sostiene.
+
+### La técnica
+
+**En cada afirmación hay UNA palabra que es lo que realmente se prueba. Subráyala antes de ir al texto.**
+
+| Afirmación | Palabra clave | ¿El texto la resuelve? | Respuesta |
+|---|---|---|---|
+| *first identified using **satellite** data* | satellite | Sí — *"instruments had detected nothing"* | **FALSE** |
+| *no effect on the **climate*** | climate | Sí — *"potent greenhouse gases"* | **FALSE** |
+| *traced to a **single** factory* | single | **No** — dice *dónde*, nunca *cuántas* | **NOT GIVEN** |
+
+### La formulación definitiva
+
+> ## `FALSE` = el texto hace **IMPOSIBLE** la afirmación.
+> ## `NOT GIVEN` = el texto la deja **ABIERTA**.
+
+**No preguntes *"¿coincide con el texto?"*** — casi nunca coincide literalmente, y esa pregunta te deja eligiendo por sensación.
+
+**Pregunta: *"¿puedo señalar la frase que lo hace imposible?"***
+- **Sí** → FALSE
+- **No** → NOT GIVEN
+
+⚠️ **Ojo con el paso intermedio.** Un razonamiento de un paso (*"si los satélites no detectaron nada, no lo identificaron primero"*) **sigue siendo FALSE**, no NG. Lo que no vale es inventar lo que el texto no dice — no es lo mismo deducir una consecuencia directa que suponer un dato ausente.
+
+---
+
+## 🎯 LA TRAMPA DE LA RELACIÓN LÓGICA — su patrón META (Reading + Writing)
+
+*Añadido el 14 de septiembre, tras la 1ª práctica de Multiple Choice.*
+
+### Los dos casos que lo revelaron
+
+**Multiple Choice nº 1 — pregunta 6** *(14-sep)*
+El texto decía: *"the initial energy cost can be **offset** by durability at scale"*.
+Marcó A: *reducing the energy cost of mixing the ingredients*.
+La palabra *energy cost* estaba en las dos, pero *offset* (compensar) ≠ *reduce* (bajar).
+
+**Task 2 nº 4 — v1** *(12-sep)*
+El enunciado decía: *"innovation is the **most important factor**"*.
+Ella escribió sobre *"innovation works"*.
+La palabra *innovation* estaba en los dos, pero *most important* (comparativo) ≠ *works* (existencial).
+
+### El diagnóstico
+
+> ## **Ve las palabras del contenido. Pierde la relación entre ellas.**
+
+Los sustantivos son grandes y visibles — el ojo los caza. **Los verbos y las preposiciones que expresan la relación lógica son más pequeños**, y por eso pasan por debajo del radar.
+
+### Las palabras que hay que señalar antes de decidir
+
+| Familia | Palabras |
+|---|---|
+| **Compensar vs modificar** | *offset · balance · counteract* frente a *reduce · increase · eliminate* |
+| **Comparativo vs positivo** | *most · more than · above all* frente a el adjetivo pelado |
+| **Causa vs concesión** | *because · since · due to* frente a *while · although · despite* |
+| **Certeza vs posibilidad** | *is · must · always* frente a *may · can · tend to* |
+| **Cantidad relativa** | *most · many · some · few · no* (esto ya es la pasada de cuantificadores) |
+
+### La técnica — en las dos direcciones
+
+**Reading:** al leer el stem o la opción, subrayar **primero** el verbo/preposición de relación. Preguntar: *¿la opción conserva esta relación o solo repite el sustantivo?*
+
+**Writing:** al leer el enunciado, subrayar **primero** el verbo/preposición de relación. Preguntar: *¿mi tesis responde a esta relación o solo trata del tema?*
+
+> **Es el mismo músculo entrenable desde los dos lados.**
+> Complementa la pasada de cuantificadores (8-sep) y el árbol T/F/NG (8-sep). Las tres son variantes de lo mismo: **cuando hay que decidir, decidir por la palabra pequeña, no por la grande.**
+
+### 🆕 SUB-REGLA (14-sep, tras MC nº 2)
+
+> ## Cuando el texto duda, la opción correcta también duda.
+
+Confirmada en MC nº 2, preguntas 4 y 6 — **las dos diseñadas para la trampa META**:
+
+| # | Texto | Marcó | Correcta |
+|---|---|---|---|
+| 4 | *may have opened corridors* | *depended on* | *may have been assisted* |
+| 6 | *appear to have arrived on separate journeys* | *entirely mistaken* | *is called into question* |
+
+En los dos, el texto **usa lenguaje tentativo** (*may · appear · assumed · suggest*) y ella eligió **la opción más contundente**.
+
+**Regla mecánica:** si la decisión está entre una opción **absoluta** y una **tentativa**, y el texto usa *may · appear · suggest · might · seems · likely*, marcar **la tentativa**. Casi siempre.
+
+### El patrón grande — gravitas a lo absoluto
+
+Es el **mismo músculo mal calibrado** que apareció en Writing el 3-sep (sobre-suavizar lo evidente + usar *would* creyendo que suaviza). En Writing sub-hedgea lo tentativo; en Reading sub-lee lo tentativo. **Mismo problema, dos direcciones.**
+
+Y es una tendencia identificada en **5 sesiones distintas** desde el 3-sep:
+
+| Fecha | Contexto | Movimiento |
+|---|---|---|
+| 3-sep | Hedging Writing | *would* creyendo que suaviza; *"in certain contexts"* sobre lo obvio |
+| 10-sep | Matching Headings | *"niche → established"* (llamativo) sobre *"institutional support"* (comprensivo) |
+| 12-sep | Task 2 nº 4 v1 | *"innovation works"* (existencial) sobre *"most important"* (comparativo) |
+| 14-sep | MC nº 1 | *"reducing"* (fuerte) sobre *"offset"* (compensatorio) |
+| 14-sep | MC nº 2 | *"depended"* y *"entirely mistaken"* (absolutos) sobre *"may have"* y *"appear"* |
+
+> **Gravitas hacia la versión confiada, absoluta o dramática de una afirmación.**
+
+Es su temperamento por defecto — **decidido**. Ventaja en muchas partes (fluidez, resistencia a Not Given), pero cuando el texto es cauteloso, el instinto lleva a la lectura fuerte.
+
+
+
+---
+
+## ⚠️ EL PATRÓN DE TIEMPO — 3ª confirmación
+
+| Tipo | Fecha | Tiempo usado | Error que sobrevivió |
+|---|---|---|---|
+| T/F/NG | 8-sep | 11:58 / 20 (60%) | Cuantificadores no pesados |
+| Matching Headings | 10-sep | 5:06 / 20 (25%) | Heading que cubría solo 1 oración |
+| Multiple Choice | 14-sep | 7:00 / 15 (47%) | *offset* vs *reduce* |
+
+**Tres tipos, tres pasadas de revisión no hechas.** En los tres, el error que sobrevivió era exactamente el tipo cazable en una segunda pasada.
+
+> ## **El tiempo que sobra NO es margen. Es la segunda pasada.**
+
+Ahora, con el patrón de la relación lógica identificado, la segunda pasada tiene **dos capas**:
+1. **Cuantificadores** (T/F/NG y todo Reading): *largely · most · all · no · consistently…*
+2. **Verbos de relación** (MC y Matching): *offset vs reduce · because vs while · most vs many…*
+
+---
+
+---
+
+# 📚 SUMMARY / NOTE COMPLETION — teoría (10 min)
+
+## Qué es
+
+Un **resumen** (párrafo corrido) o **notas** (bullets/tabla) del pasaje o de una sección de él, con huecos que rellenar con **palabras exactas del texto**.
+
+**Instrucción típica:** *Complete the summary using **NO MORE THAN TWO WORDS** from the passage.*
+
+## La regla que resuelve el 80%
+
+> ## **La respuesta está en el texto PARAFRASEADA, no literal.**
+> **El resumen usa sinónimos; el hueco se llena con la palabra ORIGINAL del texto.**
+
+Es el opuesto exacto de **Sentence Completion** (donde la oración es casi calcada). Aquí el resumen reformula todo excepto el término específico que va en el hueco — nombre, número, sustantivo técnico, adjetivo concreto.
+
+**Ejemplo mecánico:**
+- Texto: *"The researchers observed that the birds gathered in large flocks during the winter months."*
+- Resumen: *"During cold periods, birds were seen in sizeable ______."*
+- Respuesta: **flocks** (el resumen parafraseó *winter → cold periods, gathered → seen, large → sizeable*, pero *flocks* se queda igual)
+
+## Ancla = concepto, no palabra
+
+Buscar en el texto la palabra que aparece en el resumen **no funciona** — el resumen la cambió. Hay que buscar la **idea**:
+
+1. Leer la oración del resumen entera (con el hueco)
+2. Extraer el **concepto** que se está describiendo (¿de qué habla? ¿de un lugar, un proceso, una causa, un resultado?)
+3. Buscar en el texto **esa idea**, no las palabras del resumen
+4. La palabra del texto que rellena el hueco casi siempre está **a 1-2 líneas** del concepto localizado
+
+## Las 3 sub-reglas operativas
+
+### 1. Respeta el límite de palabras SIEMPRE
+*"NO MORE THAN TWO WORDS"* → si escribes 3, es cero. *"ONE WORD ONLY"* → si escribes 2, es cero. **Contar antes de anotar.**
+
+### 2. Copia literal — no cambies forma
+Si el texto dice *flocks*, la respuesta es *flocks*, no *flock*. Si dice *were assessed*, la respuesta es *assessed* (una sola palabra) o *were assessed* (dos), pero **nunca** *assess* ni *assessing*. La forma del texto es la forma correcta.
+
+### 3. Sigue el orden del texto
+Como T/F/NG y MC, el summary sigue el orden del pasaje. Si el hueco 3 lo encontraste en el párrafo B, el hueco 4 está en B o después — **nunca antes**. Ancla temporal para no perderte.
+
+## La trampa clásica
+
+El resumen dice una palabra abstracta (*factor · aspect · phenomenon · element*) y el hueco pide la palabra **concreta** del texto. Ejemplo:
+
+- Resumen: *"One important **factor** in the decline was ______."*
+- Texto: *"The primary cause of the population drop was the loss of nesting sites."*
+- Respuesta: **nesting sites** (no *loss*, no *cause*, no *decline*)
+
+**El resumen usa la palabra genérica; el texto usa la específica; la respuesta es la específica.**
+
+## Método de 20 min para 7 huecos
+
+| Min | Acción |
+|---|---|
+| 0-3 | Leer todo el resumen sin mirar el texto — captar el arco |
+| 3-5 | Volver al texto, ubicar los párrafos que cubre el resumen |
+| 5-17 | Rellenar hueco por hueco en orden, buscando **concepto** no palabra |
+| 17-20 | Segunda pasada: contar palabras de cada respuesta · verificar forma exacta · confirmar que la respuesta es un sustantivo/adjetivo/número concreto (no una palabra abstracta) |
+
+---
+
+## 🆕 SUB-REGLA (15-sep) — rangos numéricos abiertos
+
+Descubierta en el pasaje anti-debilidades (T/F/NG preg 1).
+
+> **En T/F/NG con números, *below X* / *fewer than X* / *under X* nunca acotan por debajo. Solo por arriba.**
+
+- Texto: *"fewer than 1,200 individuals"*
+- Enunciado: *"fallen below 1,500 individuals"*
+- Correcta: **TRUE** (1200 < 1500)
+
+**El error de lectura:** interpretar *below 1,500* como *"en el rango justo debajo de 1500"* (1300-1499). Es lectura **acotada** por debajo, cuando el inglés la deja **abierta**.
+
+**Simetría:**
+
+| Frase | Acota por | Deja abierto |
+|---|---|---|
+| *below X · fewer than X · under X* | arriba (X) | abajo |
+| *above X · more than X · over X* | abajo (X) | arriba |
+| *between X and Y* | ambos lados | — |
+
+Regla operativa: si el enunciado dice *below X* y el texto da un número **menor que X**, es TRUE aunque los números no coincidan.
+
+**Esta es una trampa distinta a la del cuantificador** (*most vs several*) y a la del verbo de relación (META). Es **aritmética de rangos** — categoría nueva.
+
+---
+
+# 📚 YES / NO / NOT GIVEN — teoría (10 min)
+
+## Qué es
+
+Igual que T/F/NG en mecánica, pero se aplica a **opiniones, argumentos o creencias del autor**, no a hechos objetivos.
+
+**Instrucción típica:** *Do the following statements agree with the **claims of the writer** in Reading Passage X?*
+
+- **YES** — el autor está de acuerdo con la afirmación
+- **NO** — el autor está en desacuerdo
+- **NOT GIVEN** — el autor no ha dado su opinión sobre eso
+
+## La regla que resuelve el 80%
+
+> ## **Y/N/NG NO es sobre hechos. Es sobre lo que el autor OPINA.**
+> Si el enunciado dice *"X aumentó un 30%"* y el texto lo dice, es Y en un T/F/NG pero puede ser **NG en un Y/N/NG** — porque el autor no está opinando, está reportando.
+
+Los pasajes Y/N/NG suelen tener **voz argumentativa** — el autor toma partido, valora, defiende. Los enunciados replican esas valoraciones.
+
+## Las palabras señal del texto
+
+Cuando el autor va a **opinar**, usa marcadores como:
+
+| Grupo | Palabras |
+|---|---|
+| Aserción | *arguing that · claiming · the view that · maintains · asserts* |
+| Crítica | *disputes · rejects · challenges · questions · objects to* |
+| Valoración | *unfortunately · remarkably · problematic · impressive · misguided* |
+| Modales de opinión | *should · must · ought to · needs to* |
+
+**Cuando ves estas señales**, subraya — ahí vive el argumento del autor. **Cuando NO las ves**, el autor está reportando hecho, no opinando.
+
+## Distinguir opinión del autor vs opinión reportada
+
+**Trampa clásica:** el texto reporta la opinión de otra persona. Eso **no es** la opinión del autor.
+
+- Texto: *"Smith argues that the reform will fail."*
+- Enunciado: *"The reform will fail."*
+- Correcto: **NOT GIVEN** — esa es opinión de Smith, no del autor del pasaje.
+
+El autor puede estar de acuerdo, en desacuerdo, o neutral respecto a Smith. **Solo si el autor toma partido** (con marcadores como *rightly · mistakenly · correctly · wrongly*) se puede inferir su postura.
+
+- Texto: *"Smith **rightly** argues that the reform will fail."* → el autor está de acuerdo → **YES**
+- Texto: *"Smith **mistakenly** argues that the reform will fail."* → el autor está en desacuerdo → **NO**
+
+## El árbol de decisión Y/N/NG
+
+1. **¿El texto habla de esta idea?** No → **NG**
+2. **¿Es opinión del autor o reporte de opinión ajena?** Ajena sin comentario del autor → **NG**
+3. **¿El enunciado coincide con la opinión del autor?** Sí → **YES** · No → **NO**
+
+## Herencia de T/F/NG
+
+Todo lo que aplicaba en T/F/NG se mantiene: cuantificadores, verbos de relación, rangos numéricos. **La diferencia única es la naturaleza del enunciado** — opinión, no hecho.
+
+---
+
+## 🆕 SUB-REGLA (17-sep) — Y/N/NG: hecho citado vs opinión reportada
+
+Descubierta en Y/N/NG nº 3, preg 2.
+
+**El problema:** cuando el autor cita *"a trial reported X"* o *"a study found Y"*, ¿es su afirmación o es reporte ajeno?
+
+> **Datos y hallazgos empíricos citados sin objeción = afirmaciones del autor.**
+> **Argumentos y posiciones citados sin comentario = opiniones ajenas (NG).**
+
+### Los verbos que indican HECHO endosado
+
+| Verbo | Endosa? |
+|---|---|
+| *reported · found · showed · demonstrated · was observed · recorded* | ✅ Sí — el autor hace suyo el hallazgo |
+| *argued · claimed · suggested (as opinion) · maintained · asserted · the view that* | ❌ No — requiere marcador (*rightly · mistakenly*) para saber postura del autor |
+
+### La lógica
+
+Cuando el autor **cita evidencia sin poner peros**, la usa como munición para su tesis. Si discrepara, diría *"a controversial trial…"* o *"the trial claimed X, but this has been disputed"*. Citar limpio = endosar.
+
+### Ejemplo del set 3
+
+Texto: *"A well-known trial published in 2022 **reported** no measurable improvement in mood after a week of restricted use…"*
+
+El *reported* + ausencia de objeción = el autor hace suyo el hallazgo. Y de hecho lo usa como base de la siguiente frase: *"The claim that reducing screen time reliably improves… is not supported by the strongest evidence available."*
+
+**Regla única de Y/N/NG que integra todo:**
+
+1. ¿Es afirmación directa del autor? → comparar grado modal
+2. ¿Es hallazgo empírico citado sin objeción? → tratar como del autor
+3. ¿Es postura ajena citada sin marcador de aprobación? → NG
+4. ¿Es postura ajena que el autor plantea para tumbar? → mirar después del *but/however/misplaced*
+
+---
+
+# 🧩 MATCHING INFORMATION — teoría (10 min) · 24-sep
+
+## Qué es
+*"Which paragraph contains the following information?"* Te dan afirmaciones y hay que decir **en qué párrafo (A, B, C…)** aparece cada una.
+
+## En qué se diferencia de Matching Headings
+| Headings | Matching Information |
+|---|---|
+| Resume **todo** el párrafo | Es **un detalle** de una o dos oraciones |
+| Cada párrafo tiene un heading | Hay párrafos que **no se usan** y otros que **se usan dos veces** (*NB You may use any letter more than once*) |
+| Suelen cubrir los párrafos en orden | **NO van en orden** |
+
+⚠️ Aquí tu patrón *"el heading cubre solo una oración"* **se invierte**: en Matching Information la respuesta **sí** está en una sola oración. No busques el tema del párrafo: busca **el dato**.
+
+## El sustantivo de categoría
+Cada afirmación empieza con un sustantivo que dice **qué tipo de frase** buscar:
+
+| La pregunta dice… | Busca en el texto… |
+|---|---|
+| *a reference to / a mention of* | cualquier alusión |
+| *an example of* | *for instance, such as*, un caso concreto |
+| *a reason for / an explanation of* | *because, due to, since, which explains why* |
+| *a comparison between* | *whereas, than, unlike, ten times as many* |
+| *a description of a method / process* | pasos: *first, then, is placed, is measured* |
+| *a prediction* | *will, is expected to, for the next two decades* |
+| *a criticism / a limitation* | *however, critics, fail, drawback* |
+| *a figure / statistic* | un número |
+
+## El método (en este orden)
+1. **Lee las afirmaciones primero** y subraya: ① el sustantivo de categoría ② una palabra clave rara (nombre, número, término técnico)
+2. **En el examen, deja este bloque para el final** del pasaje: resuelve antes los otros bloques y así ya conoces el texto
+3. Lee **párrafo por párrafo** y, al terminar cada uno, pregunta: *¿alguna afirmación está aquí?*
+4. Las pistas vienen **parafraseadas**: *a decline in funding* = *budgets were cut*
+5. Si la categoría no coincide, **no es**: si la pregunta pide *a reason* y el párrafo da el dato sin el porqué, sigue buscando
+
+## Las trampas
+- 🔴 **La palabra repetida**: la palabra clave aparece en un párrafo **sin** la categoría pedida (se menciona *cost*, pero la pregunta pide *a comparison of costs*)
+- 🔴 **"Letra usada = descartada"**: falso, pueden repetirse
+- 🔴 **Formato**: la respuesta es **una letra**, no un número ni una frase
+
+## 🆕 SUB-REGLA (24-sep) — Matching Information: el sujeto completo
+La categoría (*limitation, prediction*) tiene que aplicarse **al sujeto que nombra la pregunta**.
+- *a limitation of **laboratory studies*** → no vale un método lento en otro párrafo; busca *critics… however* **sobre esos estudios**
+- *a **prediction** about future **levels*** → verbo de futuro + cantidad (*expect… to keep rising*). *Could* = posibilidad, no predicción
+
+
+---
+
+# 🧩 MATCHING FEATURES + MATCHING SENTENCE ENDINGS — teoría · 24-sep
+
+## Matching Features
+Te dan una **lista de personas, lugares o fechas** (A, B, C…) y unas afirmaciones. Hay que decir **quién dijo o hizo qué**.
+
+**Método:**
+1. **Escanea primero los nombres** en el texto y enciérralos. Son fáciles de encontrar (mayúsculas, fechas)
+2. Una persona puede aparecer **en varios lugares** del texto: lee **todo** lo que se dice de ella
+3. Las afirmaciones **no van en orden**; las opciones **se pueden repetir** y algunas sobran
+4. 🔴 **Trampa:** el texto cita a A **hablando de** la idea de B. La idea pertenece a quien la **sostiene**, no a quien la nombra (*Smith rejected Lee's claim that…* → la afirmación es de **Lee**)
+
+## Matching Sentence Endings
+Te dan el **inicio de una oración** (preguntas) y una lista de **finales** (A–G). Hay más finales que preguntas.
+
+**Método:**
+1. **Sí van en orden** del texto
+2. Localiza el inicio en el texto con su palabra clave
+3. Elige el final que dice **lo mismo que el texto**, no el que solo suena bien
+4. 🔴 **Doble filtro:** primero descarta los finales que **no encajan gramaticalmente** (verbo, singular/plural). Suelen quedar 2 o 3. Luego decide **con el texto**
+5. 🔴 **Trampa:** varios finales son **verdaderos según el texto**, pero corresponden a **otro inicio**. La unión tiene que ser la que el texto hace
+
+
+---
+
+## ⚖️ LA COMPARACIÓN INVENTADA — *than* es una palabra que carga el peso
+
+*Añadido el 21-oct tras el YNNG 23983 (5/7): **los dos fallos fueron el mismo***.
+
+| | La afirmación decía | El texto decía | Respuesta |
+|---|---|---|---|
+| **Q3** | *more emotional fatigue **than** physical* | *"emotional **and** physical fatigue"* | **NOT GIVEN** |
+| **Q6** | *stronger in humans **than in any other species*** | *"a deep-seated evolutionary imperative"* — compara a los **niños**, no el impulso | **NOT GIVEN** |
+
+> ## Si la afirmación COMPARA y el texto no compara → **NOT GIVEN**.
+> El tema está. Las dos mitades están. **La comparación no está.**
+
+**Sus dos frases, que localizan el error exacto:**
+> *"no leí el **than**"* → 🔴 **las palabras pequeñas son las que cargan el peso**: *than · only · all · never · most · any*
+> *"el autor parecía afirmarlo"* → 🔴 **inferir ≠ afirmar.** `YES` solo si el autor **lo dice**, no si *suena* a que lo cree
+
+⚠️ **Y la trampa del vocabulario reciclado:** en la Q6, *"other species"* **sí aparece en el texto** — pero en otra frase y para otra cosa. **Igual que el eco numérico del 20-sep** (*four storeys* en el conteo de edificios, no en los códigos).
+
+> ### Es la técnica de LAS DOS CANDIDATAS, otra vez *(20-sep)*
+> En aquella, las candidatas eran `most jurisdictions` · `prohibit` · `above four storeys`.
+> Aquí la candidata que cargaba el peso era **`than`** — **una sola palabra de cuatro letras**.
+>
+> **En la 2ª pasada: subrayar los comparativos y verificar que el texto COMPARA, no solo que menciona las dos cosas.**
+
+
+---
+
+# 🧭 TARJETA DE REFERENCIA — ¿CUÁNDO ES NOT GIVEN? *(21-oct)*
+
+*Construida con sus 8 casos documentados. Leer antes de cada pasaje con T/F/NG o Y/N/NG.*
+
+## Los tres pasos
+
+1. **Busca el sitio en el texto.** Si buscaste de verdad y no hay nada del tema → `NOT GIVEN` *(es lo raro)*
+2. **Subraya la palabra que carga el peso.** La afirmación concreta, no el tema
+3. **La pregunta única:**
+
+> **¿Puedo señalar la frase que lo hace IMPOSIBLE?** → `FALSE` / `NO`
+> **¿Puedo señalar la frase que lo hace NECESARIO?** → `TRUE` / `YES`
+> **¿Ninguna?** → `NOT GIVEN`
+
+## 🔑 El test del paso único — la frontera donde falla en las dos direcciones
+
+> **Un paso de consecuencia directa** → sigue siendo F / T
+> **Añadir un dato que el texto no da** → NOT GIVEN
+> **Test:** ¿mi conclusión usa SOLO lo que dice el texto, o le estoy sumando algo?
+
+| | Afirmación | Texto | | |
+|---|---|---|---|---|
+| 12-sep #4 | *first identified using **satellite** data* | *"satellites had detected **nothing**"* | misma información dicha de otra forma | **FALSE** |
+| 12-sep #7 | *traced to a **single** factory* | *"production in eastern China"* | añade cuántas instalaciones | **NOT GIVEN** |
+
+## Las 6 formas del `NOT GIVEN`
+
+| | Forma | Su caso |
+|---|---|---|
+| 1 | ⚖️ **Comparación inventada** (*than, more… than*) | 21-oct Q3 y Q6 ❌ |
+| 2 | 🔢 **Cantidad no dada** (*single, how many*) | 12-sep #7 ❌ |
+| 3 | 📊 **Cuantificador sin respaldo** (*all, every, currently*) | 20-sep #2 ✅ |
+| 4 | ⏳ **Comparación entre épocas o grupos no hecha** | 20-sep #11 ✅ |
+| 5 | 🔗 **Causa no afirmada** (A pasó, B pasó ≠ A causó B) | |
+| 6 | 💭 **Valoración no hecha** (describir ≠ juzgar) | |
+
+**Y del 22-oct:** ***una alternativa no es una negación.*** Si el texto propone **otro** factor, no por eso **descarta** el de la afirmación. `FALSE` solo si el texto **descarta**.
+
+## ⚠️ T/F/NG ≠ Y/N/NG
+
+| | Pregunta por | |
+|---|---|---|
+| **T / F / NG** | la **información** | ¿los hechos lo hacen imposible? |
+| **Y / N / NG** | lo que el **autor sostiene** | ¿el autor **lo dice**? |
+
+> 🔴 **Inferir ≠ afirmar.** *"El autor parecía afirmarlo"* (21-oct) no es `YES`.
+> Si la afirmación repite una opinión que el autor **planta para tumbar** (*"Enthusiasts present it as… This is an overstatement"*) → **NO**.
+
+## 🔍 Las palabras pequeñas deciden
+***than · only · all · every · never · most · any · single · first · currently***
+
+
+---
+
+## ➕ NO AÑADIR PALABRAS A LA AFIRMACIÓN *(27-oct)*
+
+**Q5 del T/F/NG 28142:** *"The first American national pension system was created **in response to** the failure of private retirement schemes."*
+Ella razonó: *"la **única** causa era la crisis del 29"* → FALSE. Era **TRUE**.
+
+> **La afirmación no dice *only, main, primary, the sole reason*.** Si no lo dice, **no se lo agregues**.
+> Una **cadena causal** (crisis → destruye los planes privados → el Estado responde) hace verdaderas **las dos** frases: *"en respuesta a la crisis"* y *"en respuesta al fracaso de los planes"*.
+
+| Error | Qué pasa | Ejemplo |
+|---|---|---|
+| **Ignorar** una palabra que SÍ está | *all, than, only, apple* | 21-oct · 25-oct |
+| **Añadir** una palabra que NO está | *"la única causa"* | 27-oct |
+
+**Y el método que SÍ funcionó (Q3, mismo día):** seguir leyendo el párrafo siguiente hasta encontrar la frase que hace la afirmación **imposible** — *"It was not until the late 19th century…"*. Su FALSE era defendible frente a la clave NG.

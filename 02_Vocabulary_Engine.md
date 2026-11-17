@@ -1,0 +1,945 @@
+# Vocabulary Engine
+*10 minutes every day — no exceptions*
+
+---
+
+## How the system works
+
+1. **Learn**: Read the word, its meaning, and the example sentence
+2. **Review**: Use the spaced repetition schedule below
+3. **Activate**: Use the word in your Writing or Speaking practice that week — passive knowledge doesn't score points
+
+### Spaced Repetition Schedule
+- Day 1: Learn words 1–20
+- Day 3: Review words 1–20 + learn 21–40
+- Day 5: Review 1–40 + learn 41–60
+- Day 7: Full review 1–60
+- Week 2+: Review previous batches 2×/week while adding new ones
+
+### How to mark your progress
+- `[ ]` = not yet learned
+- `[~]` = recognize it but wouldn't use it
+- `[x]` = can use it correctly in a sentence
+
+---
+
+## UNIT 1 — Academic Word List (AWL): Top 200
+
+The AWL is a list of 570 word families that appear frequently in academic texts. These are NOT basic English words — they are the words that separate a Band 6 from a Band 7 in Reading and Writing.
+
+---
+
+### Batch 1 — Words 1–20 (Week 3, Friday · Aug 7)
+
+| # | Word | Part of Speech | Meaning | IELTS Example Sentence | ✓ |
+|---|---|---|---|---|---|
+| 1 | **analyse** | verb | to examine something in detail | *Researchers analysed the data from three separate experiments.* | [X] |
+| 2 | **approach** | noun/verb | a way of dealing with something | *A different approach to renewable energy is needed.* | [X] |
+| 3 | **assess** | verb | to evaluate or judge | *The committee assessed the environmental impact of the project.* | [x] |
+| 4 | **assume** | verb | to accept something as true without proof | *The model assumes that all variables remain constant.* | [X] |
+| 5 | **authority** | noun | power or official control; an expert source | *Government authorities have introduced new regulations.* | [X] |
+| 6 | **available** | adjective | able to be obtained or used | *Limited resources are available for renewable development.* | [X] |
+| 7 | **benefit** | noun/verb | an advantage; to gain an advantage | *The primary benefit of solar energy is its sustainability.* | [X] |
+| 8 | **concept** | noun | an abstract idea | *The concept of smart grids has transformed power distribution.* | [X] |
+| 9 | **consistent** | adjective | always the same; not contradictory | *The results were consistent across all test conditions.* | [X] |
+| 10 | **constitutional** | adjective | relating to rules or fundamental principles | *Constitutional frameworks govern research ethics.* | [X] |
+| 11 | **context** | noun | the circumstances surrounding something | *These findings must be understood in their historical context.* | [X] |
+| 12 | **contract** | noun/verb | a formal agreement; to decrease | *The circuit contracts when exposed to low temperatures.* | [X] |
+| 13 | **create** | verb | to produce or cause something | *New technologies create both opportunities and challenges.* | [X] |
+| 14 | **data** | noun | facts and statistics (plural in academic English) | *The data suggest a strong correlation between the variables.* | [X] |
+| 15 | **define** | verb | to state the exact meaning of | *It is important to clearly define the scope of the study.* | [X] |
+| 16 | **derive** | verb | to obtain from a source | *This formula is derived from the second law of thermodynamics.* | [X] |
+| 17 | **distribute** | verb | to spread or supply over an area | *Electricity is distributed through a network of substations.* | [X] |
+| 18 | **economy** | noun | the system of production and trade | *A green economy prioritises low-carbon energy sources.* | [X] |
+| 19 | **environment** | noun | surroundings; the natural world | *The impact on the environment must be carefully monitored.* | [X] |
+| 20 | **establish** | verb | to set up; to show something is true | *The study established a clear link between X and Y.* | [X] |
+
+**Batch 1 self-check:** Cover the "Meaning" column. Can you define each word? Cover "Example Sentence" — can you write your own?
+
+---
+
+### Batch 2 — Words 21–40 (Week 3, Saturday · Aug 8)
+
+| # | Word | Part of Speech | Meaning | IELTS Example Sentence | ✓ |
+|---|---|---|---|---|---|
+| 21 | **estimate** | verb/noun | to calculate approximately | *Engineers estimated the cost at €2 million.* | [X] |
+| 22 | **evident** | adjective | clearly seen or understood | *It is evident that automation will reshape the labour market.* | [X] |
+| 23 | **export** | verb/noun | to send goods abroad; goods sent abroad | *The country exports a significant proportion of its energy surplus.* | [X] |
+| 24 | **factor** | noun | an element that contributes to a result | *A key factor in signal loss is interference from other devices.* | [X] |
+| 25 | **feature** | noun/verb | a distinctive aspect; to include as important | *A notable feature of this design is its energy efficiency.* | [X] |
+| 26 | **final** | adjective | last; conclusive | *The final stage of the process involves quality control.* | [X] |
+| 27 | **focus** | verb/noun | to concentrate on; a central point of attention | *This paper focuses on the limitations of current battery technology.* | [X] |
+| 28 | **function** | noun/verb | the purpose of something; to operate | *The sensor functions normally within a temperature range of 0–85°C.* | [X] |
+| 29 | **identify** | verb | to recognise or name | *The engineers identified three critical failure points.* | [X] |
+| 30 | **impact** | noun/verb | a strong effect | *The impact of climate change on grid stability is considerable.* | [X] |
+| 31 | **indicate** | verb | to show or suggest | *The graph indicates a steady increase in demand.* | [X] |
+| 32 | **individual** | adjective/noun | single; one person | *Each individual component was tested separately.* | [X] |
+| 33 | **interpret** | verb | to explain or understand the meaning of | *The results can be interpreted in several ways.* | [X] |
+| 34 | **involve** | verb | to include as a necessary part | *The process involves three distinct phases.* | [X] |
+| 35 | **issue** | noun | an important topic; a problem | *Power outages remain a critical issue in developing regions.* | [X] |
+| 36 | **labour** | noun | work; the workforce | *Automation reduces the need for manual labour.* | [X] |
+| 37 | **legal** | adjective | relating to the law | *Legal frameworks must adapt to new energy technologies.* | [X] |
+| 38 | **legislate** | verb | to make laws | *Governments must legislate to reduce carbon emissions.* | [X] |
+| 39 | **major** | adjective | most important; significant | *A major challenge in wireless transmission is signal attenuation.* | [X] |
+| 40 | **method** | noun | a way of doing something | *A novel method of energy storage was proposed.* | [X] |
+
+---
+
+### Batch 3 — Words 41–60 (Week 4, Monday · Aug 10)
+
+| # | Word | Part of Speech | Meaning | IELTS Example Sentence | ✓ |
+|---|---|---|---|---|---|
+| 41 | **occur** | verb | to happen | *Voltage fluctuations occur frequently in older grid systems.* | [X] |
+| 42 | **percent** | noun | parts per hundred | *Output increased by 12 percent following the upgrade.* | [X] |
+| 43 | **period** | noun | a length of time | *During the test period, no anomalies were recorded.* | [X] |
+| 44 | **policy** | noun | a set of rules or guidelines | *Energy policy must balance economic and environmental goals.* | [X] |
+| 45 | **principle** | noun | a fundamental rule or belief | *The principle of least resistance governs current flow.* | [X] |
+| 46 | **proceed** | verb | to continue or move forward | *The experiment proceeded without interruption.* | [X] |
+| 47 | **process** | noun/verb | a series of actions; to analyse data | *The manufacturing process requires precise temperature control.* | [X] |
+| 48 | **require** | verb | to need something | *This method requires advanced computational resources.* | [X] |
+| 49 | **research** | noun/verb | systematic investigation | *Extensive research has been conducted on fuel cell efficiency.* | [X] |
+| 50 | **respond** | verb | to react to something | *The system responds to input within milliseconds.* | [X] |
+| 51 | **role** | noun | a function or position | *Engineers play a central role in sustainable development.* | [X] |
+| 52 | **section** | noun | a distinct part | *The final section of the report addresses cost-benefit analysis.* | [X] |
+| 53 | **significant** | adjective | important; large enough to notice | *There was a significant reduction in energy consumption.* | [X] |
+| 54 | **similar** | adjective | almost the same | *The two prototypes produced similar results under load.* | [X] |
+| 55 | **source** | noun | the origin of something | *Solar radiation is the primary source of renewable energy.* | [X] |
+| 56 | **specific** | adjective | clearly defined; particular | *The study examined specific failure modes in MEMS devices.* | [X] |
+| 57 | **structure** | noun/verb | the arrangement of parts; to organise | *The structure of the argument must be logical and clear.* | [X] |
+| 58 | **theory** | noun | a set of principles explaining something | *Game theory has applications in network design.* | [X] |
+| 59 | **vary** | verb | to change or differ | *Results vary depending on ambient temperature.* | [X] |
+| 60 | **sector** | noun | a distinct area of activity | *The energy sector is undergoing rapid transformation.* | [X] |
+
+---
+
+### Batch 4 — Words 61–80 (Week 4, Monday)
+
+| # | Word | Part of Speech | Meaning | IELTS Example Sentence | ✓ |
+|---|---|---|---|---|---|
+| 61 | **achieve** | verb | to successfully reach a goal | *The project achieved its efficiency targets ahead of schedule.* | [X] |
+| 62 | **acquire** | verb | to obtain or gain | *New skills must be acquired to work with emerging technologies.* | [X] |
+| 63 | **administer** | verb | to manage or oversee | *A dedicated team was appointed to administer the programme.* | [X] |
+| 64 | **affect** | verb | to have an impact on | *Humidity levels can significantly affect sensor accuracy.* | [X] |
+| 65 | **appropriate** | adjective | suitable for the situation | *An appropriate model was selected for the simulation.* | [X] |
+| 66 | **aspect** | noun | a particular part or feature | *One aspect of the design that requires attention is heat dissipation.* | [X] |
+| 67 | **assist** | verb | to help | *Machine learning algorithms assist in anomaly detection.* | [X] |
+| 68 | **category** | noun | a class or group | *Components are divided into three categories based on function.* | [X] |
+| 69 | **chapter** | noun | a main division of a text | *Chapter 3 presents the experimental methodology.* | [X] |
+| 70 | **commission** | verb/noun | to formally request; a formal order | *The government commissioned a study on grid resilience.* | [x] |
+| 71 | **community** | noun | a group sharing common interests or location | *Local communities are often most affected by energy poverty.* | [X] |
+| 72 | **complex** | adjective | consisting of many interconnected parts | *Modern power systems are highly complex.* | [X] |
+| 73 | **compute** | verb | to calculate | *The algorithm computes the optimal path in real time.* | [X] |
+| 74 | **conclude** | verb | to reach a judgement after reasoning | *The authors conclude that further testing is necessary.* | [X] |
+| 75 | **conduct** | verb | to carry out | *A series of experiments was conducted to validate the model.* | [X] |
+| 76 | **consequent** | adjective | following as a result | *The failure and its consequent power outage affected thousands.* | [X] |
+| 77 | **construct** | verb | to build or form | *A theoretical framework was constructed to guide the analysis.* | [X] |
+| 78 | **contribute** | verb | to give or add to something | *Renewable sources contribute approximately 30% of total output.* | [X] |
+| 79 | **convene** | verb | to bring people together for a meeting | *An international panel was convened to address the issue.* | [ ] |
+| 80 | **coordinate** | verb | to organise different elements to work together | *Teams across three countries coordinated the field study.* | [X] |
+
+---
+
+### Batch 5 — Words 81–100 (Week 4, Friday · Aug 14)
+
+| # | Word | Part of Speech | Meaning | IELTS Example Sentence | ✓ |
+|---|---|---|---|---|---|
+| 81 | **core** | adjective/noun | central; the most important part | *The core principle of the design is redundancy.* | [X] |
+| 82 | **corporate** | adjective | relating to a large company | *Corporate investment in renewables has accelerated sharply.* | [X] |
+| 83 | **correspond** | verb | to match or be equivalent to | *The measured values correspond closely to the predicted ones.* | [X] |
+| 84 | **criteria** | noun (plural) | standards used to judge something | *The proposals were evaluated against four technical criteria.* | [X] |
+| 85 | **deduce** | verb | to reach a conclusion by reasoning | *From the waveform, we can deduce the source of the interference.* | [X] |
+| 86 | **demonstrate** | verb | to show clearly with evidence | *The trial demonstrated a 15% gain in efficiency.* | [X] |
+| 87 | **document** | verb/noun | to record in writing; a written record | *All design changes must be carefully documented.* | [X] |
+| 88 | **dominate** | verb | to be the most important or powerful | *Fossil fuels still dominate the global energy mix.* | [X] |
+| 89 | **emphasis** | noun | special importance given to something | *Recent research places greater emphasis on grid flexibility.* | [X] |
+| 90 | **ensure** | verb | to make certain | *Redundant circuits ensure the system remains operational.* | [X] |
+| 91 | **exclude** | verb | to leave out | *Outlying data points were excluded from the final analysis.* | [X] |
+| 92 | **framework** | noun | a supporting structure of ideas or rules | *A regulatory framework for AI is urgently needed.* | [X] |
+| 93 | **fund** | verb/noun | to provide money for; money provided | *The research was funded by the European Commission.* | [X] |
+| 94 | **illustrate** | verb | to make clear with an example | *Figure 2 illustrates the relationship between load and temperature.* | [X] |
+| 95 | **implicit** | adjective | suggested but not stated directly | *The model contains an implicit assumption about linearity.* | [X] |
+| 96 | **imply** | verb | to suggest without stating directly | *These results imply that the current standard is inadequate.* | [X] |
+| 97 | **initial** | adjective | first; at the beginning | *Initial testing revealed no significant defects.* | [X] |
+| 98 | **instance** | noun | a particular example or case | *In this instance, manual override proved necessary.* | [X] |
+| 99 | **interact** | verb | to act on or influence each other | *The two subsystems interact in unpredictable ways.* | [X] |
+| 100 | **justify** | verb | to give good reasons for | *The additional cost is justified by the gain in reliability.* | [X] |
+
+---
+
+### Batch 6 — Words 101–120 (Week 5, Monday · Aug 17)
+
+| # | Word | Part of Speech | Meaning | IELTS Example Sentence | ✓ |
+|---|---|---|---|---|---|
+| 101 | **layer** | noun/verb | one level or thickness among several | *The device consists of three conductive layers.* | [X] |
+| 102 | **link** | noun/verb | a connection; to connect | *There is a clear link between insulation quality and heat loss.* | [X] |
+| 103 | **locate** | verb | to find the position of; to place | *Sensors were located at intervals along the pipeline.* | [X] |
+| 104 | **maximise** | verb | to increase as much as possible | *Panel angles were adjusted to maximise solar gain.* | [x] |
+| 105 | **minor** | adjective | small; not important | *Only minor adjustments were required after calibration.* | [X] |
+| 106 | **negate** | verb | to cancel out or make ineffective | *Transmission losses negate much of the efficiency gain.* | [X] |
+| 107 | **outcome** | noun | a result | *The outcome of the trial exceeded expectations.* | [x] |
+| 108 | **partner** | noun/verb | a person or organisation working with another | *The university partnered with three industrial firms.* | [x] |
+| 109 | **philosophy** | noun | a system of beliefs or guiding principles | *The design philosophy prioritises simplicity over features.* | [x] |
+| 110 | **physical** | adjective | relating to material things or the body | *The physical dimensions of the unit constrain its placement.* | [x] |
+| 111 | **proportion** | noun | a part considered in relation to the whole | *A growing proportion of demand is met by wind power.* | [x] |
+| 112 | **publish** | verb | to make available to the public | *The findings were published in a peer-reviewed journal.* | [x] |
+| 113 | **react** | verb | to respond to something | *The control loop reacts within twenty milliseconds.* | [x] |
+| 114 | **register** | verb/noun | to record officially; a formal record | *All voltage anomalies are registered automatically.* | [x] |
+| 115 | **rely** | verb | to depend on | *Modern grids rely heavily on real-time monitoring.* | [x] |
+| 116 | **remove** | verb | to take away | *Impurities are removed during the refining stage.* | [x] |
+| 117 | **scheme** | noun | an organised plan or system | *A national subsidy scheme was introduced in 2019.* | [x] |
+| 118 | **sequence** | noun | a particular order of events | *The startup sequence must be followed precisely.* | [x] |
+| 119 | **shift** | noun/verb | a change; to change position | *There has been a marked shift towards decentralised generation.* | [x] |
+| 120 | **specify** | verb | to state exactly | *The standard specifies a minimum operating temperature.* | [x] |
+
+---
+
+### Batch 7 — Words 121–140 (Week 5, Wednesday · Aug 19)
+
+| # | Word | Part of Speech | Meaning | IELTS Example Sentence | ✓ |
+|---|---|---|---|---|---|
+| 121 | **sufficient** | adjective | enough | *The battery provides sufficient capacity for overnight operation.* | [X] |
+| 122 | **survey** | noun/verb | a study of opinions or conditions | *A survey of 400 households was conducted.* | [X] |
+| 123 | **technical** | adjective | relating to practical or scientific skill | *The technical constraints were more severe than anticipated.* | [X] |
+| 124 | **technique** | noun | a specific method of doing something | *A novel fabrication technique reduced defect rates.* | [X] |
+| 125 | **technology** | noun | the application of scientific knowledge | *Battery technology has advanced rapidly in the past decade.* | [X] |
+| 126 | **valid** | adjective | logically sound; acceptable | *The conclusion is valid only under steady-state conditions.* | [X] |
+| 127 | **volume** | noun | quantity or amount; space occupied | *The volume of data generated poses a storage challenge.* | [X] |
+| 128 | **access** | noun/verb | the ability to reach or use | *Rural communities still lack reliable access to electricity.* | [X] |
+| 129 | **adequate** | adjective | enough for the purpose | *The existing infrastructure is no longer adequate.* | [x] |
+| 130 | **annual** | adjective | happening once a year | *Annual consumption rose by 4% over the period.* | [X] |
+| 131 | **apparent** | adjective | clearly visible or understood | *It soon became apparent that the sensor was faulty.* | [X] |
+| 132 | **approximate** | adjective/verb | almost exact; to come close to | *The approximate cost of the retrofit is €80,000.* | [X] |
+| 133 | **attitude** | noun | a way of thinking or feeling | *Public attitudes towards nuclear power have shifted.* | [X] |
+| 134 | **attribute** | noun/verb | a quality; to consider as caused by | *Durability is the most valued attribute in this market.* | [X] |
+| 135 | **civil** | adjective | relating to citizens or public works | *Civil engineering projects require extensive consultation.* | [X] |
+| 136 | **code** | noun | a system of rules or symbols | *The building code was revised to include seismic standards.* | [X] |
+| 137 | **commit** | verb | to pledge; to dedicate resources | *The government committed €2 billion to grid modernisation.* | [x] |
+| 138 | **communicate** | verb | to convey information | *The modules communicate over a shared data bus.* | [x] |
+| 139 | **concentrate** | verb | to focus; to gather in one place | *Investment has concentrated in coastal regions.* | [x] |
+| 140 | **confer** | verb | to grant; to discuss with others | *The patent confers exclusive rights for twenty years.* | [x] |
+
+---
+
+### Batch 8 — Words 141–160 (Week 5, Friday · Aug 21)
+
+| # | Word | Part of Speech | Meaning | IELTS Example Sentence | ✓ |
+|---|---|---|---|---|---|
+| 141 | **contrast** | noun/verb | a clear difference | *The contrast between the two approaches is striking.* | [X] |
+| 142 | **cycle** | noun | a repeating series of events | *Each charge cycle marginally degrades the cell.* | [X] |
+| 143 | **debate** | noun/verb | a discussion of opposing views | *The debate over energy policy remains unresolved.* | [X] |
+| 144 | **despite** | preposition | in spite of | *Despite the setbacks, the project met its deadline.* | [X] |
+| 145 | **dimension** | noun | a measurable extent; an aspect | *The ethical dimension of automation is often overlooked.* | [X] |
+| 146 | **domestic** | adjective | relating to the home or to one country | *Domestic energy consumption peaks in the evening.* | [X] |
+| 147 | **emerge** | verb | to appear or become known | *A clear pattern emerged from the long-term data.* | [X] |
+| 148 | **error** | noun | a mistake | *Measurement error was reduced to under 2%.* | [X] |
+| 149 | **ethnic** | adjective | relating to a cultural or national group | *The study accounted for ethnic and regional variation.* | [X] |
+| 150 | **goal** | noun | an aim or objective | *The primary goal is carbon neutrality by 2040.* | [X] |
+| 151 | **grant** | noun/verb | money for a purpose; to give formally | *The team secured a research grant from the EU.* | [X] |
+| 152 | **hence** | adverb | for this reason | *Demand is rising; hence additional capacity is required.* | [ ] |
+| 153 | **hypothesis** | noun | a proposed explanation to be tested | *The hypothesis was confirmed under laboratory conditions.* | [x] |
+| 154 | **implement** | verb | to put into effect | *The new protocol was implemented across all sites.* | [x] |
+| 155 | **implication** | noun | a likely consequence | *The implications for grid stability are considerable.* | [x] |
+| 156 | **impose** | verb | to force something on someone | *Stricter emission limits were imposed in 2021.* | [x] |
+| 157 | **integrate** | verb | to combine into a whole | *Renewable sources must be integrated into existing grids.* | [x] |
+| 158 | **internal** | adjective | inside | *Internal resistance increases as the cell ages.* | [x] |
+| 159 | **investigate** | verb | to examine systematically | *The team investigated the cause of the failure.* | [x] |
+| 160 | **job** | noun | paid work; a task | *Automation is reshaping the nature of skilled jobs.* | [x] |
+
+---
+
+### Batch 9 — Words 161–180 (Week 6, Monday · Aug 24)
+
+| # | Word | Part of Speech | Meaning | IELTS Example Sentence | ✓ |
+|---|---|---|---|---|---|
+| 161 | **label** | verb/noun | to mark with a name; a descriptive mark | *Each terminal is clearly labelled to prevent errors.* | [X] |
+| 162 | **mechanism** | noun | a process or system that produces a result | *The precise mechanism of degradation is not fully understood.* | [X] |
+| 163 | **obvious** | adjective | easily seen or understood | *The most obvious solution is not always the most efficient.* | [X] |
+| 164 | **occupy** | verb | to fill space or time; to inhabit | *The installation occupies roughly 200 square metres.* | [X] |
+| 165 | **option** | noun | a choice | *Three storage options were evaluated.* | [X] |
+| 166 | **output** | noun | the amount produced | *Output fell sharply during the maintenance period.* | [X] |
+| 167 | **overall** | adjective/adverb | considering everything; in general | *Overall efficiency improved by eight percentage points.* | [x] |
+| 168 | **parallel** | adjective/noun | side by side; a similarity | *The cells are connected in parallel to increase current.* | [X] |
+| 169 | **parameter** | noun | a factor that defines a system or limits it | *Several parameters were adjusted during the simulation.* | [X] |
+| 170 | **phase** | noun | a distinct stage | *The first phase of construction is now complete.* | [X] |
+| 171 | **predict** | verb | to say what will happen | *The model predicts a 20% rise in peak demand.* | [X] |
+| 172 | **principal** | adjective | main; most important | *The principal advantage is the absence of moving parts.* | [X] |
+| 173 | **prior** | adjective | earlier; before | *No prior knowledge of the system was assumed.* | [X] |
+| 174 | **professional** | adjective/noun | relating to skilled paid work | *Professional certification is required for this role.* | [X] |
+| 175 | **project** | noun/verb | a planned undertaking; to forecast | *Demand is projected to double within fifteen years.* | [X] |
+| 176 | **promote** | verb | to encourage or support | *Subsidies were introduced to promote domestic solar.* | [X] |
+| 177 | **regime** | noun | a system of rules or operating conditions | *The device behaves differently in the high-frequency regime.* | [X] |
+| 178 | **resolve** | verb | to solve; to decide firmly | *The interference issue was resolved through shielding.* | [X] |
+| 179 | **retain** | verb | to keep | *The material retains its properties above 200°C.* | [X] |
+| 180 | **series** | noun | a number of similar things in order | *The resistors are connected in series.* | [X] |
+
+---
+
+### Batch 10 — Words 181–200 (Week 6, Wednesday · Aug 26)
+
+| # | Word | Part of Speech | Meaning | IELTS Example Sentence | ✓ |
+|---|---|---|---|---|---|
+| 181 | **statistic** | noun | a numerical fact or measurement | *These statistics reveal a widening regional disparity.* | [x] |
+| 182 | **status** | noun | current condition or position | *The operational status of each unit is monitored remotely.* | [x] |
+| 183 | **stress** | noun/verb | pressure or strain; to emphasise | *Thermal stress is the leading cause of joint failure.* | [x] |
+| 184 | **subsequent** | adjective | coming after | *Subsequent trials confirmed the initial finding.* | [x] |
+| 185 | **sum** | noun/verb | a total; to add up | *The sum of the individual losses exceeds the estimate.* | [x] |
+| 186 | **summary** | noun | a short account of the main points | *In summary, the proposed method is both cheaper and faster.* | [x] |
+| 187 | **undertake** | verb | to begin or commit to a task | *A comprehensive review was undertaken in 2020.* | [x] |
+| | | | 🔴 **ÚNICA ✗ del repaso 101–200 (31-ago).** Pide **sustantivo**, no infinitivo: *undertake **the design***, no *undertake **to design***. *undertake to* + verbo existe, pero es *comprometerse formalmente* — lenguaje de contratos. Verbo **institucional**: su sujeto es una empresa, un gobierno, un equipo o ella **en su rol profesional**, nunca en la vida doméstica. Irregular: undertake · undertook · undertaken | *During my thesis, I undertook **the hardware design for** the group project.* · *Very little research **has been undertaken** into this.* | |
+| 188 | **alternative** | noun/adjective | another option | *Hydrogen represents a viable alternative for heavy transport.* | [x] |
+| 189 | **circumstance** | noun | a condition or situation | *Under normal circumstances, the system requires no intervention.* | [x] |
+| 190 | **comment** | noun/verb | a remark; to give an opinion | *The authors comment briefly on the limitations of their method.* | [x] |
+| 191 | **compensate** | verb | to make up for; to offset | *A feedback loop compensates for temperature drift.* | [x] |
+| 192 | **component** | noun | a part of a larger whole | *Each component was tested to twice its rated load.* | [x] |
+| 193 | **consent** | noun/verb | permission or agreement | *Informed consent was obtained from all participants.* | [x] |
+| 194 | **considerable** | adjective | large; significant | *A considerable proportion of energy is lost as heat.* | [x] |
+| 195 | **constant** | adjective/noun | unchanging; a fixed value | *Pressure was held constant throughout the experiment.* | [x] |
+| 196 | **constrain** | verb | to limit or restrict | *Cost constrains the choice of materials.* | [x] |
+| 197 | **convert** | verb | to change from one form to another | *Inverters convert direct current into alternating current.* | [x] |
+| 198 | **coincide** | verb | to happen at the same time | *Peak demand coincides with the lowest solar output.* | [x] |
+| 199 | **convince** | verb | to persuade someone that something is true | *The evidence is not yet strong enough to convince regulators.* | [x] |
+| 200 | **cooperate** | verb | to work together | *Member states must cooperate on cross-border transmission.* | [x] |
+
+**🏁 MILESTONE ALCANZADO — 26 de agosto de 2026: 200/200.** Los diez batches completos.
+
+**✅ 200/200 REACTIVADAS — 10 de septiembre.** Las últimas 9 marcadas `[~]` pasaron a `[x]` escribiendo una oración propia con cada una. **Reconocer ≠ producir**: ahora todas producidas.
+
+**Milestone:** with Batch 10 complete you have the top 200 AWL words. Review protocol: Weeks 6–7 include two full flashcard passes (AWL 1–100 on Aug 28, AWL 101–200 on Aug 31).
+
+---
+
+## UNIT 2 — STEM & Engineering Collocations
+
+These are phrases (not single words) that appear frequently in technical academic writing. Using collocations — words that naturally go together — is one of the clearest signals of a Band 7+ writer.
+
+---
+
+### Batch 1 — Collocations 1–20 (Week 8, Monday · Sep 7)
+
+| # | Collocation | Meaning | Example | ✓ |
+|---|---|---|---|---|
+| 1 | **carry out** research/an experiment | to perform | *The team carried out extensive field tests.* | [ ] |
+| 2 | **draw a conclusion** | to reach a finding | *It is difficult to draw firm conclusions from limited data.* | [ ] |
+| 3 | **play a role** in | to contribute to | *Microcontrollers play a central role in embedded systems.* | [ ] |
+| 4 | **pose a challenge** | to create a difficulty | *Intermittent supply poses a significant challenge for grid operators.* | [ ] |
+| 5 | **raise awareness** | to increase understanding | *The campaign aimed to raise awareness of energy efficiency.* | [ ] |
+| 6 | **take into account** | to consider | *Thermal expansion must be taken into account during design.* | [ ] |
+| 7 | **a wide range of** | many different types | *A wide range of sensors was deployed in the test area.* | [ ] |
+| 8 | **in terms of** | regarding; with respect to | *In terms of efficiency, the new design outperforms the previous model.* | [ ] |
+| 9 | **on the basis of** | because of; using as evidence | *The decision was made on the basis of empirical data.* | [ ] |
+| 10 | **as a result of** | because of | *As a result of the upgrade, latency was reduced by 40%.* | [ ] |
+| 11 | **in contrast to** | compared with (showing difference) | *In contrast to traditional systems, this approach requires no calibration.* | [ ] |
+| 12 | **with regard to** | concerning | *With regard to scalability, the proposed architecture is highly flexible.* | [ ] |
+| 13 | **be subject to** | to be affected by | *All components are subject to thermal stress during operation.* | [ ] |
+| 14 | **give rise to** | to cause or produce | *Rapid urbanisation gives rise to increased energy demand.* | [ ] |
+| 15 | **lead to** | to cause | *Poor insulation leads to significant heat loss.* | [ ] |
+| 16 | **be attributed to** | to be caused by | *The improvement can be attributed to the new control algorithm.* | [ ] |
+| 17 | **provide evidence** | to show proof | *The experiment provides strong evidence for the proposed theory.* | [ ] |
+| 18 | **adopt an approach** | to choose a method | *A systems-level approach was adopted to address the complexity.* | [ ] |
+| 19 | **meet a requirement** | to satisfy a condition | *The prototype meets all regulatory requirements.* | [ ] |
+| 20 | **under certain conditions** | when specific factors are present | *The system operates efficiently under certain ambient conditions.* | [ ] |
+
+---
+
+### Batch 2 — Collocations 21–40: Research & Method (Week 9, Monday · Sep 14)
+
+| # | Collocation | Meaning | Example | ✓ |
+|---|---|---|---|---|
+| 21 | **conduct a study** | to carry out research | *A longitudinal study was conducted over five years.* | [ ] |
+| 22 | **collect data** | to gather information | *Data were collected from twelve monitoring stations.* | [ ] |
+| 23 | **analyse data** | to examine information systematically | *The data were analysed using a regression model.* | [ ] |
+| 24 | **obtain results** | to get findings | *Consistent results were obtained across all three trials.* | [ ] |
+| 25 | **yield results** | to produce findings | *The revised method yielded significantly better results.* | [ ] |
+| 26 | **present findings** | to report what was discovered | *The findings are presented in Section 4.* | [ ] |
+| 27 | **address an issue** | to deal with a problem | *This paper addresses the issue of grid intermittency.* | [ ] |
+| 28 | **identify a gap** | to find something missing in existing knowledge | *The review identified a clear gap in the literature.* | [ ] |
+| 29 | **propose a solution** | to suggest a way of solving something | *The authors propose a solution based on distributed storage.* | [ ] |
+| 30 | **develop a model** | to build a representation of a system | *A predictive model was developed to estimate load.* | [ ] |
+| 31 | **test a hypothesis** | to check whether an idea holds | *Two competing hypotheses were tested experimentally.* | [ ] |
+| 32 | **validate a model** | to confirm a model is accurate | *The model was validated against field measurements.* | [ ] |
+| 33 | **establish a link** | to show a connection exists | *The study established a link between humidity and drift.* | [ ] |
+| 34 | **bear in mind** | to remember or consider | *It should be borne in mind that the sample was small.* | [ ] |
+| 35 | **shed light on** | to help explain something | *These findings shed light on a long-standing anomaly.* | [ ] |
+| 36 | **account for** | to explain; to make up a proportion of | *Transmission losses account for roughly 8% of output.* | [ ] |
+| 37 | **be consistent with** | to agree with | *The results are consistent with earlier work in the field.* | [ ] |
+| 38 | **be in line with** | to match or conform to | *The figures are in line with international benchmarks.* | [ ] |
+| 39 | **differ significantly** | to be clearly different | *The two groups did not differ significantly.* | [ ] |
+| 40 | **to a large extent** | mostly; substantially | *Performance depends, to a large extent, on ambient temperature.* | [ ] |
+
+---
+
+### Batch 3 — Collocations 41–60: Engineering & Performance (Week 9, Wednesday · Sep 16)
+
+| # | Collocation | Meaning | Example | ✓ |
+|---|---|---|---|---|
+| 41 | **improve efficiency** | to make something work better with less waste | *The redesign improved efficiency by twelve percent.* | [ ] |
+| 42 | **reduce consumption** | to lower the amount used | *Smart controls reduce consumption during off-peak hours.* | [ ] |
+| 43 | **increase capacity** | to raise the maximum amount possible | *Additional lines were installed to increase capacity.* | [ ] |
+| 44 | **enhance performance** | to improve how well something works | *Active cooling substantially enhances performance under load.* | [ ] |
+| 45 | **optimise a process** | to make a process as effective as possible | *The manufacturing process was optimised for yield.* | [ ] |
+| 46 | **minimise losses** | to reduce waste as much as possible | *Higher voltages minimise transmission losses.* | [ ] |
+| 47 | **generate power** | to produce electricity | *The turbine generates power at wind speeds above 3 m/s.* | [ ] |
+| 48 | **store energy** | to hold energy for later use | *Excess output is stored in lithium-ion banks.* | [ ] |
+| 49 | **transmit a signal** | to send a signal | *The sensor transmits a signal every thirty seconds.* | [ ] |
+| 50 | **monitor conditions** | to observe a situation continuously | *Operators monitor conditions from a central facility.* | [ ] |
+| 51 | **detect a fault** | to find a defect or failure | *The diagnostic system detects faults within seconds.* | [ ] |
+| 52 | **prevent failure** | to stop something breaking down | *Regular maintenance prevents catastrophic failure.* | [ ] |
+| 53 | **extend lifespan** | to make something last longer | *Lower operating temperatures extend component lifespan.* | [ ] |
+| 54 | **withstand stress** | to endure pressure without damage | *The housing must withstand considerable mechanical stress.* | [ ] |
+| 55 | **operate reliably** | to work dependably | *The unit operates reliably in extreme humidity.* | [ ] |
+| 56 | **achieve accuracy** | to reach a required level of precision | *The instrument achieves an accuracy of ±0.1%.* | [ ] |
+| 57 | **calibrate an instrument** | to adjust a device for accurate measurement | *All instruments were calibrated prior to testing.* | [ ] |
+| 58 | **implement a system** | to put a system into operation | *A monitoring system was implemented across the network.* | [ ] |
+| 59 | **scale up** | to increase to a larger size | *Scaling up the prototype introduced unforeseen difficulties.* | [ ] |
+| 60 | **meet a standard** | to satisfy a required level | *The design meets all relevant international standards.* | [ ] |
+
+---
+
+### Batch 4 — Collocations 61–80: Cause, Effect & Argument (Week 10, Monday · Sep 21)
+
+| # | Collocation | Meaning | Example | ✓ |
+|---|---|---|---|---|
+| 61 | **have an impact on** | to affect | *Urbanisation has a profound impact on energy demand.* | [ ] |
+| 62 | **exert influence on** | to affect through pressure or power | *Industry groups exert considerable influence on policy.* | [ ] |
+| 63 | **bring about change** | to cause something to happen | *Regulation alone rarely brings about lasting change.* | [ ] |
+| 64 | **result in** | to cause | *Poor grounding resulted in intermittent signal loss.* | [ ] |
+| 65 | **stem from** | to originate in | *The problem stems from an inadequate cooling design.* | [ ] |
+| 66 | **arise from** | to result from | *Several complications arose from the initial specification.* | [ ] |
+| 67 | **contribute to** | to be one cause of | *Deforestation contributes substantially to carbon emissions.* | [ ] |
+| 68 | **play a part in** | to have a role in | *Consumer behaviour plays a significant part in demand.* | [ ] |
+| 69 | **offset the effect** | to counterbalance | *Efficiency gains partly offset the effect of rising demand.* | [ ] |
+| 70 | **mitigate the risk** | to reduce the danger | *Redundant systems mitigate the risk of total failure.* | [ ] |
+| 71 | **address a concern** | to respond to a worry | *The revised design addresses concerns about maintainability.* | [ ] |
+| 72 | **overcome an obstacle** | to deal with a difficulty successfully | *Several technical obstacles had to be overcome.* | [ ] |
+| 73 | **present a limitation** | to be a restricting factor | *Battery weight presents a serious limitation for aviation.* | [ ] |
+| 74 | **raise a question** | to bring up an issue | *These findings raise important questions about safety.* | [ ] |
+| 75 | **cast doubt on** | to make something seem uncertain | *Recent data cast doubt on the original estimate.* | [ ] |
+| 76 | **lend support to** | to provide evidence for | *The results lend strong support to the proposed mechanism.* | [ ] |
+| 77 | **be open to interpretation** | to allow more than one reading | *The correlation is open to interpretation.* | [ ] |
+| 78 | **be beyond the scope of** | to be outside the limits of | *Economic modelling is beyond the scope of this paper.* | [ ] |
+| 79 | **warrant further investigation** | to justify more research | *This anomaly warrants further investigation.* | [ ] |
+| 80 | **draw a distinction** | to point out a difference | *It is important to draw a distinction between the two effects.* | [ ] |
+
+---
+
+### Batch 5 — Collocations 81–100: Academic Register (Week 10, Wednesday · Sep 23)
+
+These are the highest-value phrases for Writing Task 2 and Speaking Part 3. They signal academic register more than any single word does.
+
+| # | Phrase | Function | Example | ✓ |
+|---|---|---|---|---|
+| 81 | **it is widely acknowledged that** | introducing accepted views | *It is widely acknowledged that emissions must fall sharply.* | [ ] |
+| 82 | **there is growing evidence that** | citing an emerging trend | *There is growing evidence that storage costs are falling faster than predicted.* | [ ] |
+| 83 | **a number of studies suggest** | citing research generally | *A number of studies suggest a link between air quality and cognition.* | [ ] |
+| 84 | **it should be noted that** | flagging an important qualification | *It should be noted that these figures exclude transport.* | [ ] |
+| 85 | **it is worth considering** | introducing an alternative view | *It is worth considering whether regulation is the right instrument.* | [ ] |
+| 86 | **in the light of** | given; considering | *In the light of recent findings, the standard requires revision.* | [ ] |
+| 87 | **in the absence of** | without | *In the absence of reliable data, conclusions must remain tentative.* | [ ] |
+| 88 | **with the exception of** | except for | *With the exception of Norway, all countries showed a decline.* | [ ] |
+| 89 | **for the sake of** | for the purpose of | *For the sake of clarity, the units have been standardised.* | [ ] |
+| 90 | **in conjunction with** | together with | *Solar works best in conjunction with storage.* | [ ] |
+| 91 | **at the expense of** | with the loss of | *Speed was gained at the expense of accuracy.* | [ ] |
+| 92 | **on the grounds that** | for the reason that | *The proposal was rejected on the grounds that it was unaffordable.* | [ ] |
+| 93 | **in the long run** | over an extended period | *In the long run, prevention is far cheaper than repair.* | [ ] |
+| 94 | **in principle** | in theory | *In principle, the approach is sound.* | [ ] |
+| 95 | **in practice** | in reality (often contrasting with theory) | *In practice, however, installation costs are prohibitive.* | [ ] |
+| 96 | **to a certain degree** | partly (hedging) | *I would agree with that, to a certain degree.* | [ ] |
+| 97 | **by no means** | not at all (emphatic negative) | *The question is by no means settled.* | [ ] |
+| 98 | **all things considered** | taking everything into account | *All things considered, the trade-off is justified.* | [ ] |
+| 99 | **more often than not** | usually | *More often than not, the simplest design proves most robust.* | [ ] |
+| 100 | **when it comes to** | regarding | *When it comes to reliability, redundancy matters more than quality.* | [ ] |
+
+**Note on 96–100:** these five are especially useful in **Speaking Part 3**, where they let you hedge and structure an answer in real time without long pauses. Practise saying them aloud until they are automatic.
+
+---
+
+## UNIT 3 — Discourse Markers & Academic Register
+
+These are the words and phrases that connect ideas. Using them correctly is what gives your Writing a "Band 7 flow."
+
+---
+
+### Discourse Markers by Function
+
+**Adding information**
+- Furthermore / Moreover / In addition / Additionally
+- *Furthermore, the data suggest that this trend is accelerating.*
+
+**Contrasting**
+- However / Nevertheless / Nonetheless / In contrast / On the other hand / Conversely
+- *The results were promising. However, further validation is required.*
+
+**Showing cause**
+- Therefore / Consequently / As a result / Hence / Thus
+- *The circuit overheated; consequently, the system shut down automatically.*
+
+**Giving examples**
+- For instance / For example / Such as / Namely / In particular
+- *Several factors were identified, such as cost, reliability, and scalability.*
+
+**Conceding a point**
+- Although / Even though / While / Despite / In spite of
+- *Although the prototype performed well, the production cost remains prohibitive.*
+
+**Emphasising**
+- In particular / Notably / Crucially / Significantly / Above all
+- *Crucially, the new design eliminates the need for external cooling.*
+
+**Concluding / Summarising**
+- In conclusion / To summarise / Overall / In summary / Ultimately
+- *In conclusion, the evidence strongly supports the proposed framework.*
+
+---
+
+### 🔴 LAS CUATRO REGLAS DE USO — lo que separa *usar* marcadores de *usarlos bien*
+
+> 📖 **Versión extendida en `10_Grammar_Quick_Reference.md` §4.10** — el test de 5 segundos para detectar un empalme, las cuatro formas de arreglarlo, el origen en español y **10 ejemplos con *however***.
+
+*Añadido el 2 de septiembre. La lista de arriba dice **cuáles**; esto dice **cómo**.*
+
+#### 1. La puntuación — el error más frecuente, y el suyo
+
+| | |
+|---|---|
+| ✅ | *The cost fell. **However,** demand remained stable.* |
+| ✅ | *The cost fell; **however,** demand remained stable.* |
+| ❌ | *The cost fell**, however,** demand remained stable.* ← **empalme de comas** |
+
+> ## 🔴 *However* · *therefore* · *nevertheless* · *consequently* · *moreover* **NO son conjunciones.**
+> **No pueden unir dos oraciones completas con una coma.** Exigen **punto** o **punto y coma**.
+
+**Lleva 7 empalmes de comas registrados**, y varios nacieron exactamente así.
+
+Las que **sí** pueden unir con coma son **conjunciones**: *but · so · and · although · while · whereas*.
+
+> *The cost fell**, but** demand remained stable.* ✅ *(conjunción)*
+> *The cost fell**. However,** demand remained stable.* ✅ *(marcador)*
+
+#### 2. No todos van al principio
+
+Ponerlos siempre en la primera palabra suena mecánico. Moverlos sube el Coherence por sí solo:
+
+> ***However**, the figure for Sweden was considerably lower.*
+> *The figure for Sweden, **however**, was considerably lower.* ← ⭐ **la que más lee a banda 7**
+> *The figure for Sweden was considerably lower, **however**.*
+
+#### 3. Dos por párrafo, no cinco
+
+*Furthermore… Moreover… In addition… Additionally…* en un mismo párrafo puntúa **peor** que ninguno: se lee como marcadores pegados encima de ideas que no se conectan solas.
+
+**Regla:** un marcador **cuando el giro es real**. Si la relación ya se entiende, no se pone.
+
+#### 4. Prohibidos en escritura académica
+
+| ❌ Hablado | ✅ Escrito |
+|---|---|
+| *Besides* | *Furthermore · Moreover* |
+| *Anyway* · *Also* (al inicio) | *In addition · Additionally* |
+| *So* (al inicio de oración) | *Therefore · Consequently* |
+| *On the contrary* ⚠️ | *In contrast · Conversely* |
+| *Last but not least* | *Finally* |
+
+⚠️ **Falso amigo de estructura:** *On the contrary* **no** significa *"por otro lado"*. Significa *"al revés de lo que acabo de decir"*, y sirve para **negar**, no para contrastar dos cosas distintas. El español *"por el contrario"* sí contrasta; el inglés no.
+
+---
+
+## UNIT 4 — Hedging Language (Critical for Band 7+)
+
+Academic writing never claims certainty unless the evidence is absolute. **Hedging** means softening your claims — this shows academic maturity, not weakness.
+
+**The wrong way (sounds like Band 5–6):**
+> *Climate change will destroy all coastal cities.*
+
+**The right way (Band 7+):**
+> *Climate change is likely to pose significant risks to many coastal cities.*
+
+### Hedging Vocabulary
+
+| Type | Examples |
+|---|---|
+| **Modal verbs** | may, might, could, should, would |
+| **Adverbs** | possibly, probably, arguably, apparently, seemingly |
+| **Verbs** | appears to, seems to, tends to, suggests, indicates |
+| **Phrases** | it is possible that, there is evidence to suggest, it could be argued that |
+| **Quantifiers** | in some cases, to some extent, in certain contexts |
+
+### 🔴 LAS TRES TRAMPAS DEL HEDGING — de su ejercicio del 3-sep
+
+#### Trampa 1 — `would` **no es un suavizador**
+
+> ❌ *Multiple studies **would** show diverse benefits.*
+> ❌ *Data from psychological research **would** demonstrate a decline.*
+
+En español el condicional suaviza (*los estudios mostrarían*). **En inglés `would` marca hipótesis** — algo que pasaría *si* se cumpliera una condición. Aplicado a una fuente, **sugiere que la fuente no existe**: el hedge juega en contra.
+
+**Sí suavizan un verbo de reporte:** *suggest · indicate · appear to show · point to*.
+
+> ✅ *Multiple studies **suggest** diverse benefits.*
+> ✅ *Data from psychological research **indicate** a decline.*
+
+**Regla:** `would` **solo con una condición detrás** — *if funding were increased, the programme **would** reach more people*. Sin condición, no.
+
+#### Trampa 2 — *apparently* no es *aparentemente*
+
+> ❌ ***Apparently**, blood pressure and cortisol levels remain within normal ranges.*
+
+En inglés *apparently* carga **"eso dicen, pero quién sabe"** — escéptico y algo coloquial. En un ensayo suena a no creerse la propia frase.
+
+| Para… | Usar |
+|---|---|
+| *aparentemente* neutro | *seemingly* · *it appears that* |
+| lo habitual / la norma | *typically* · **tend to** |
+
+> ✅ *…levels **tend to remain** within normal ranges.*
+
+#### Trampa 3 — un dato inventado **se generaliza, no se matiza**
+
+> ❌ *There is evidence to suggest that improvements appear **within a few weeks** of including **at least ten minutes** of exercise per day.*
+
+Suavizó el **marco** y dejó **las cifras**. Ahora la frase afirma que existe evidencia de unos números muy concretos que no cita: quedó **más expuesta**, no menos.
+
+> ✅ *…improvements **can appear relatively quickly, even with modest amounts of daily exercise**.*
+
+---
+
+### ⚖️ QUÉ SE MATIZA Y QUÉ NO
+
+| | |
+|---|---|
+| ✅ **Sí** | Afirmaciones **factuales** — las que dicen que algo *es así en el mundo*. Verbos de reporte. Datos y cifras |
+| ❌ **No** | **La tesis y la conclusión.** Ahí se recomienda, no se afirma: *any effective strategy **must cover**…* · *…**is mandatory*** |
+| ❌ **No** | **Lo indiscutible.** *Depression and anxiety **negatively affect** wellbeing* no necesita permiso: basta un `can` |
+
+> **Se matiza lo discutible. Lo obvio, no.** Suavizar lo evidente hace dudar de todo lo demás.
+> Y un ensayo entero en condicional suena evasivo: **baja Task Response igual que el exceso de certeza**.
+
+⚠️ **Un matiz por afirmación, no tres.** *"It may possibly be arguably the case that…"* es peor que la versión absoluta.
+
+---
+
+**Practice exercise:** Take any sentence with absolute language and add hedging.
+- *"This technology solves the problem."*
+- → *"This technology may offer a viable solution to the problem."*
+
+---
+
+## UNIT 5 — Synonyms for Overused Words
+
+The single fastest way to improve your Lexical Resource score. Examiners notice when you use the same word twice in one paragraph.
+
+| Avoid | Use instead |
+|---|---|
+| good | beneficial, advantageous, effective, valuable, favourable |
+| bad | detrimental, harmful, adverse, problematic, counterproductive |
+| big / large | significant, substantial, considerable, extensive |
+| small | marginal, minimal, negligible, modest |
+| show | demonstrate, reveal, indicate, illustrate, suggest |
+| use | utilise, employ, apply, adopt, implement |
+| need | require, demand, necessitate |
+| make | produce, generate, create, result in, lead to |
+| many | numerous, a wide range of, a significant number of, various |
+| think | argue, contend, maintain, suggest, claim |
+| important | significant, crucial, critical, fundamental, essential, vital |
+| increase | rise, grow, climb, surge, expand, escalate |
+| decrease | fall, decline, drop, diminish, reduce, plummet |
+| problem | challenge, issue, concern, obstacle, difficulty |
+| change | shift, transform, alter, modify, evolve |
+
+---
+
+## Weekly Vocabulary Review Protocol
+
+Every Sunday, spend 10 minutes on this:
+
+1. Open this file
+2. Cover the "Meaning" and "Example" columns
+3. Go through each word — can you define it and use it?
+4. Mark `[~]` or `[x]` accordingly
+5. Write 3 sentences using words you marked `[~]` to move them to `[x]`
+
+The goal is not to memorise definitions. The goal is to **use** these words naturally in your Writing and Speaking.
+
+---
+
+# 🔧 BANCO LÉXICO — PROCESOS Y MAPAS
+
+*Añadido el 31 de agosto, a petición suya. Organizado **por función**, no alfabético: bajo cronómetro no sirve una lista, sirve saber **dónde buscar**.*
+
+Complementa la sección **PROCESOS Y MAPAS** de `03_Writing_Module.md`, que trae las reglas; esto trae las palabras.
+
+---
+
+## A. PROCESOS
+
+### A1. Verbos en pasiva, por tipo de etapa
+
+| Etapa | Verbos |
+|---|---|
+| **Entrada / recolección** | *is collected · is gathered · is extracted · is harvested · is delivered · is fed into · is loaded into* |
+| **Transformación** | *is converted into · is transformed into · is processed · is treated · is refined · is broken down · is ground · is crushed · is shredded · is compressed* |
+| **Separación** | *is filtered · is separated · is sifted · is strained · impurities are removed* |
+| **Unión / mezcla** | *is mixed with · is blended · is combined with · is added to · is bonded* |
+| **Calor y frío** | *is heated · is baked · is fired · is melted · is dried · is cooled · is chilled · is frozen · is left to cool* |
+| **Movimiento** | *is transferred to · is transported · is pumped into · is channelled · is directed towards · is carried along* |
+| **Almacenamiento** | *is stored · is held · is deposited · is contained in* |
+| **Salida** | *is packaged · is bottled · is sealed · is labelled · is distributed · is dispatched · is released* |
+| **Control** | *is monitored · is inspected · is tested · is graded · is sorted* |
+
+### A2. Secuencia — no repetir *then*
+
+| | |
+|---|---|
+| **Inicio** | *Initially · At the first stage · The process begins with · The raw material enters the cycle when…* |
+| **Continuación** | *Subsequently · Following this · Next · In the following stage · Thereafter · At this point* |
+| **⭐ Condicional / encadenado** | *Once X **has been** [participio], it is… · After **being** [participio], the material… · When this stage is complete…* |
+| **Simultáneo** | *At the same time · Meanwhile · Simultaneously · In parallel with this* |
+| **Final** | *Finally · In the final stage · The process is complete when… · The cycle then repeats* |
+
+⭐ **Las de esa fila suben la banda:** conectan dos etapas en vez de listarlas.
+
+### ⭐ A2b. Preposiciones de movimiento — `into` / `onto`
+
+*Añadido el 1 de septiembre, a raíz de *spread onto*.*
+
+El español dice **en** para todo. El inglés obliga a decidir si algo **llega** o si algo **está**:
+
+> ## ¿Movimiento hacia un destino? → **`into` / `onto`**
+> ## ¿Posición estática? → **`in` / `on`**
+
+| | | |
+|---|---|---|
+| **onto** | movimiento hacia una superficie | *The pulp is spread **onto** a mesh screen* |
+| **on** | posición, ya está ahí | *The pulp lies **on** the screen* |
+| **over** | cobertura de un área | *The mixture is spread **over** the surface* |
+
+⚠️ **En un diagrama de proceso casi siempre hay movimiento** — el material va de una etapa a la siguiente. Por eso `into` y `onto` dominan ahí.
+
+Sus dos errores del 1-sep son este mismo patrón: *converts it **in** pulp* → ***into*** · *divided **in** standard sizes* → *cut **into***. Ver también §4.5 en `10_Grammar_Quick_Reference.md`.
+
+| | |
+|---|---|
+| *is poured **into** a tank* | *is fed **into** a machine* |
+| *is placed **onto** a conveyor belt* | *is sprayed **onto** the surface* |
+| *is transferred **to** the next stage* | *is passed **through** a filter* |
+| *is laid out **on** a flat surface* | *is loaded **into** a container* |
+
+**🔴 *spread* es irregular y NO cambia:** spread · **spread** · **spread**. Nada de *spreaded*. *(Relevante: el 1-sep escribió *dryed* por *dried* — ante un verbo nuevo, el instinto es añadir `-ed`.)*
+
+**Familia de *spread*:** *spread onto* · *is applied to* · *is distributed evenly across* · *forms a thin layer on*.
+
+---
+
+### A3. Propósito y resultado
+
+> *…**in order to** remove impurities* · *…**so that** the material can be reused*
+> *…**resulting in** a finer powder* · *…**which produces** a smoother finish* · *…**thereby reducing** waste*
+
+### A4. Equipo y lugar
+
+*a chamber · a tank · a container · a conveyor belt · a furnace · a mould · a press · a filter · a hopper · a pipeline · a treatment plant · a storage facility*
+
+### A5. Hablar del diagrama en sí
+
+> *The process **comprises** six main stages* · *…**consists of** four stages*
+> *The material **undergoes** several treatments*
+> *This is **a linear process*** / *…**a cyclical process** which repeats indefinitely*
+> *The process **requires** considerable human intervention* / *…**occurs naturally**, without human involvement*
+
+---
+
+## B. MAPAS
+
+### B1. Verbos de cambio
+
+| Cambio | Verbos |
+|---|---|
+| **Aparece** | *was built · was constructed · was erected · was established · was introduced · appeared* |
+| **Desaparece** | *was demolished · was knocked down · was cleared · was removed · disappeared · was pulled down* |
+| **⭐ Cambia de uso** | *was converted into · was replaced by · was transformed into · was turned into · made way for · gave way to* |
+| **Crece** | *was extended · was expanded · was enlarged · was widened · underwent development · was developed into* |
+| **Se reduce** | *was reduced in size · was cut back · shrank* |
+| **⭐ No cambia** | *remained unchanged · was retained · was left intact · remained in place* |
+
+### B2. Ubicación
+
+| | |
+|---|---|
+| **Cardinales** | *to the north of · in the south-western corner · along the eastern edge · on the northern side* |
+| **Relativa** | *adjacent to · next to · opposite · beside · surrounded by · in the centre of · on the outskirts of · on the site of · overlooking* |
+| **Distancia** | *a short distance from · immediately to the west of · at some distance from* |
+| **⭐ Sustitución** | *A **was replaced by** B* · *B **now occupies the site of** A* · *B **now stands where** A once did* |
+
+### B3. Sustantivos del paisaje
+
+*farmland · woodland · open space · residential area · housing estate · industrial estate · retail park · amenities · infrastructure · the town centre · the outskirts · a footpath · a ring road · a roundabout · a pedestrian zone*
+
+### B4. Grado del cambio
+
+> *The area underwent **considerable / extensive / dramatic / significant** development.*
+> *The site changed **only marginally** over the period.*
+> *The northern half was **completely redeveloped**, whereas the south **saw little change**.*
+
+---
+
+## 🎯 Las 12 de emergencia
+
+| Procesos | Mapas |
+|---|---|
+| *is collected* | *was built* |
+| *is transferred to* | *was demolished* |
+| *is converted into* | *was converted into* |
+| *once X has been…* | *was replaced by* |
+| *consists of X stages* | *remained unchanged* |
+| *the cycle then repeats* | *underwent significant development* |
+
+---
+
+## ⚠️ Dos advertencias
+
+**1. Pasiva sí, pero no en todas las oraciones.** Diez seguidas de *is + participio* hunden el Grammatical Range. Alternar: *Once the pulp **has been filtered**, it **passes** into a drying chamber* — una pasiva y una activa en la misma frase.
+
+**2. Ninguna de estas palabras explica un porqué.** Son todas descriptivas, y así debe ser. Si aparece *because* o *due to*, es señal de haberse salido de la tarea.
+
+
+
+---
+
+# 🌍 BANCO LÉXICO 7+ — DATOS (TASK 1) Y TEMAS (TASK 2)
+
+*Añadido el 22 de octubre. Motivo: el Writing del portal se le sintió más rico en vocabulario que el nuestro. **Todo es material original**: las expresiones son colocaciones de uso común y los ejemplos los escribió Claude, así que **se puede compartir libremente** con estudiantes que no pueden pagar cursos. Cuando entregue Tasks en el portal, se añadirán aquí colocaciones sueltas de sus modelos, nunca textos completos.*
+
+**Cómo usarlo:**
+1. Antes de escribir cada Task, elegir **3–4 expresiones** y marcarlas.
+2. En la corrección se revisa si quedaron naturales.
+
+Una colocación bien usada vale más que tres palabras raras mal puestas.
+
+---
+
+## C. TASK 1 — DESCRIBIR DATOS
+
+### C1. Tendencias: verbo + adverbio / adjetivo + sustantivo
+
+| Movimiento | Verbo + adverbio | Adjetivo + sustantivo |
+|---|---|---|
+| **Subida** | *rose steadily · climbed sharply · surged · soared* | *a steady rise · a sharp increase · a dramatic surge* |
+| **Bajada** | *fell gradually · declined markedly · plummeted · dipped slightly* | *a gradual decline · a marked drop · a slight dip* |
+| **Estable** | *remained stable · levelled off · plateaued at · stagnated* | *a period of stability · a plateau* |
+| **Variación** | *fluctuated between X and Y · was volatile* | *considerable fluctuation* |
+| **Extremos** | *peaked at · reached a high of · hit a low of · bottomed out at* | *a peak of · a low point of* |
+| **Recuperación** | *recovered to · rebounded · regained ground* | *a partial recovery* |
+
+**Ejemplo:** *Coal consumption **declined markedly** after 2010, while solar output **surged**, eventually **levelling off at** around 40 TWh.*
+
+### C2. Proporciones y aproximaciones
+
+- *accounted for / made up / comprised roughly a third of*
+- *the lion's share went to · the vast majority · a small minority · just under half · well over 60%*
+- *approximately · roughly · just over · nearly · in the region of*
+- *one in five households · a fifth of · a twofold / threefold increase · doubled · halved*
+
+**Ejemplo:** *Online sales **accounted for just under a quarter of** total revenue in 2020, **nearly double** the 2015 figure.*
+
+### C3. Comparar y contrastar
+
+- *X was considerably / marginally higher than Y*
+- *X outstripped / overtook / surpassed Y in 2018*
+- *the gap between X and Y widened / narrowed*
+- *by contrast · whereas · while · compared with · in stark contrast to*
+- *X ranked first, followed by Y · X was the only category to…*
+- *the reverse was true for… · a similar pattern was seen in…*
+
+**Ejemplo:** *Germany **overtook** France in 2016, and **the gap between them widened** steadily thereafter.*
+
+### C4. Overview: la frase que más pesa en Task 1
+
+- *Overall, the most striking feature is that…*
+- *It is clear that X dominated throughout the period, whereas…*
+- *In general, the figures for X moved in the opposite direction to those for Y.*
+- *Overall, despite some fluctuation, the trend was broadly upward.*
+
+---
+
+## D. TASK 2 — ARGUMENTAR
+
+### D1. Postura y matiz
+
+| Función | Expresiones |
+|---|---|
+| **Dar postura** | *I would argue that · I am firmly of the view that · I largely agree that* |
+| **Conceder** | *Admittedly, · It is true that… ; however, · While there is some merit in…* |
+| **Matizar la concesión** | *This is not to say that… · That said, · Even so,* |
+| **Contraargumento** | *Critics contend that · Opponents of this view point out that* |
+| **Refutar** | *This argument overlooks the fact that · This view fails to take into account* |
+| **Enfatizar** | *Crucially, · More importantly, · Above all,* |
+| **Ejemplificar** | *A case in point is · This is exemplified by · To illustrate,* |
+
+### D2. Causa, efecto y consecuencia (sin repetir *because* / *cause*)
+
+- *stem from · arise from · be attributable to · be driven by · be rooted in*
+- *give rise to · lead to · trigger · fuel · bring about · contribute to*
+- *have far-reaching consequences · have a knock-on effect on · take a toll on*
+- *exacerbate / aggravate (empeorar) · alleviate / mitigate (aliviar) · offset (compensar)*
+
+**Ejemplo:** *Rising housing costs **stem largely from** limited supply, and this **has a knock-on effect on** young people's ability to start families.*
+
+---
+
+## E. TASK 2 — VOCABULARIO POR TEMA
+
+Cada tema trae 8 colocaciones y un ejemplo modelo. Son los temas que más se repiten en el examen.
+
+### E1. Educación
+*bridge the gap between theory and practice · foster critical thinking · rote learning · a well-rounded education · equip students with practical skills · lifelong learning · academic attainment · tuition fees act as a barrier to access*
+
+> *Rather than relying on **rote learning**, schools should **foster critical thinking**, since this is what **equips students with** the skills employers actually value.*
+
+### E2. Medio ambiente
+*curb emissions · fossil fuel dependence · renewable energy sources · environmental degradation · carbon footprint · irreversible damage · biodiversity loss · a shift towards sustainable practices*
+
+> *Governments can **curb emissions** most effectively by making **renewable energy sources** cheaper than coal, not merely by taxing individuals.*
+
+### E3. Tecnología
+*automation of routine tasks · digital literacy · data privacy concerns · round-the-clock connectivity · be rendered obsolete · screen time · the digital divide · algorithmic bias*
+
+> *As **routine tasks** become automated, many clerical roles risk **being rendered obsolete**, which makes **digital literacy** a basic requirement rather than an advantage.*
+
+### E4. Salud
+*sedentary lifestyle · preventive healthcare · place a strain on health services · life expectancy · public health campaigns · processed food · mental well-being · a growing burden of chronic disease*
+
+> *A **sedentary lifestyle** **places a** considerable **strain on health services**, so investing in **preventive healthcare** is ultimately cheaper than treatment.*
+
+### E5. Trabajo y economía
+*job security · work-life balance · the gig economy · a skills shortage · income inequality · economic growth at the expense of · remote working arrangements · a living wage*
+
+> *Although **the gig economy** offers flexibility, it often comes **at the expense of job security** and basic benefits.*
+
+### E6. Gobierno y sociedad
+*allocate public funds · implement stricter regulations · a top priority · public infrastructure · bear the responsibility for · social cohesion · the welfare state · a disproportionate impact on low-income groups*
+
+> *When governments **allocate public funds**, healthcare should remain **a top priority**, since cuts tend to have **a disproportionate impact on low-income groups**.*
+
+### E7. Globalización y cultura
+*cultural homogenisation · preserve cultural heritage · a global village · cross-cultural understanding · erode local traditions · mass tourism · brain drain · international cooperation*
+
+> *Mass tourism can **erode local traditions**, yet the revenue it generates is often what allows communities to **preserve their cultural heritage**.*
+
+### E8. Crimen y justicia
+*act as a deterrent · rehabilitation programmes · reoffending rates · custodial sentences · the root causes of crime · juvenile delinquency · community service · law enforcement*
+
+> *Long **custodial sentences** rarely **act as a deterrent**; **rehabilitation programmes** do far more to reduce **reoffending rates**.*
+
+### E9. Ciencia e investigación *(su terreno: úsese en ejemplos)*
+*cutting-edge research · allocate research funding · yield tangible benefits · practical applications · ethical implications · a breakthrough in · peer-reviewed findings · interdisciplinary collaboration*
+
+> *Even research with no obvious **practical applications** can **yield tangible benefits** decades later, as the history of semiconductors shows.*
+
+---
+
+## ⚠️ Tres advertencias para este banco
+
+**1. Colocación exacta o nada.** *Curb emissions* y *curb pollution levels* están bien, pero *curb the environment* no. Si no estás segura de la combinación, usa la palabra sencilla.
+
+**2. No apilar.** Basta una expresión fuerte por oración. Si un párrafo junta *exacerbate*, *far-reaching*, *knock-on* y *disproportionate*, suena memorizado y el examinador lo penaliza.
+
+**3. Los ejemplos de su vida valen oro.** Viene de un campo técnico, así que sus ejemplos sobre semiconductores, datos o automatización son concretos y creíbles. Eso sube el *Task Response*.
