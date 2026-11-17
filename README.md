@@ -24,6 +24,7 @@ Aquí está todo el proceso: los módulos, sus ensayos con las correcciones vers
 | [Listening Test nº1: guiones](open_resources/07_Listening_Guiones_Test_01.md) | 4 secciones · 40 preguntas · guiones para que una IA o un amigo te los lea |
 | [Banco de Task 1](open_resources/04_Writing_Task1_Banco.md) | 5 visuales con la complejidad real: tortas múltiples, barras + tabla, líneas con proyección, mapa y proceso |
 | [Banco de Task 2](open_resources/03_Writing_Task2_Banco.md) | 15 consignas de los 5 tipos, con estructura y checklist |
+| [5 ensayos modelo 7.5–8](open_resources/08_Writing_Task2_Ensayos_Modelo.md) | Un ensayo por tipo de Task 2, con por qué es 7+ y las frases clave |
 
 ### 📚 El curso completo
 | Archivo | Contenido |
