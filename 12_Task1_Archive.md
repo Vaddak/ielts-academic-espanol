@@ -19,7 +19,7 @@
 
 | | Qué | Min |
 |---|---|---|
-| **A** | **Drill de 7 frases** — están en `01_Week_by_Week_Schedule.md`, bloque “Drill de activación” | 10 |
+| **A** | **Drill de 7 frases** — ver el banco de frases en `03_Writing_Module.md` | 10 |
 | **B** ⭐ | **Reescribir los tres Overviews como v2** y pegarlos abajo | ~20 |
 
 **Recomendado: B.** El drill vive dentro de la reescritura, y una frase corregida aislada se olvida más rápido que una que hubo que colocar en un párrafo. Además deja la comparación v1 ↔ v2, que es el dato que falta.
@@ -42,7 +42,7 @@
 | Léxico | *decreased till zero* → *phased out entirely* · *showed rise* → *showed a rise* · *a declined demand* → *a decline in demand* · *lightly remarkable* → *relatively slight* |
 
 ### ④ Al cerrar
-- [ ] v1 pegada aquí · [ ] v2 pegada aquí · [ ] errores nuevos en `07_Error_Log.md` · [ ] entrada en `09_Study_Journal.md` · [ ] `RETOMAR AQUÍ` apuntando al **jueves 27: bar charts y tablas, lenguaje de comparación**
+- [ ] v1 pegada aquí · [ ] v2 pegada aquí · [ ] errores nuevos en `07_Error_Log.md` · [ ] entrada en tu diario de estudio · [ ] `RETOMAR AQUÍ` apuntando al **jueves 27: bar charts y tablas, lenguaje de comparación**
 
 ### Estado del miércoles 26 al momento del traspaso
 ✅ **AWL 181–200 → 200/200** 🏁 · ✅ Line graphs: lenguaje de tendencias leído · ⏳ drill / v2

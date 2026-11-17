@@ -28,6 +28,7 @@ Aquí está todo el proceso: los módulos, sus ensayos con las correcciones vers
 | Archivo | Contenido |
 |---|---|
 | `00_Course_Overview.md` | Visión general del examen y del método |
+| `01_Plan_de_Estudio.md` | **Plan de 12 semanas** (plantilla) |
 | `02_Vocabulary_Engine.md` | Vocabulario académico por temas |
 | `03`–`06` | Módulos de Writing, Reading, Listening y Speaking |
 | `10_Grammar_Quick_Reference.md` | Gramática y **falsos amigos** del español |

@@ -3,7 +3,7 @@
 **Start:** May 14, 2026 | **Exam target:** Saturday, November 7, 2026  
 **Weekly time:** Mon–Fri 30 min/day · Sat–Sun 60 min/day ≈ 3.5 h/week
 
-> **Schedule rebased on August 5, 2026.** Phase 1 (exam format) is complete — all four section modules have been read. The remaining 13 weeks are laid out day by day in `01_Week_by_Week_Schedule.md`, which is now the authoritative calendar. The week numbers below describe the *content sequence*; the schedule file has the real dates.
+> **Schedule rebased on August 5, 2026.** Phase 1 (exam format) is complete — all four section modules have been read. A generic 12-week version of the calendar is in `01_Plan_de_Estudio.md`. The week numbers below describe the *content sequence*.
 
 ---
 
@@ -210,7 +210,7 @@ Writing is where most B2 candidates leave the most points. Two tasks:
 | File | Content |
 |---|---|
 | `00_Course_Overview.md` | This file — the master plan |
-| `01_Week_by_Week_Schedule.md` | Detailed daily tasks for all 20 weeks |
+| `01_Plan_de_Estudio.md` | 12-week study plan (generic template) |
 | `02_Vocabulary_Engine.md` | AWL lists, STEM collocations, review system |
 | `03_Writing_Module.md` | Task 1 & 2 formulas, templates, sample essays |
 | `04_Reading_Module.md` | Strategies, question-type guides, practice sets |
